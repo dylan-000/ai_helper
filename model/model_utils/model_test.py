@@ -138,7 +138,8 @@ def main():
         model=args.model,  # Use the specified model for generation
         embedding_model=EMBEDDING_MODEL,  # Always use consistent embeddings
         temperature=args.temperature,
-        max_tokens=args.max_tokens
+        max_tokens=args.max_tokens,
+        n_results=3
     )
     
     print("Terraria AI Guide initialized. Type 'exit' to quit.")

@@ -8,7 +8,8 @@ app = Flask(__name__)
 PERSIST_PATH = "model/data/chroma_db"
 COLLECTION = setup_vector_store(PERSIST_PATH)
 QUERY_PROC = QueryProcessor(
-    vector_collection=COLLECTION
+    vector_collection=COLLECTION,
+    n_results=3
 )
 
 @app.route("/ask", methods=["POST"])
@@ -24,6 +25,10 @@ def ask():
 
         question = data["question"]
         raw = QUERY_PROC.process_query(question)
+
+        # viewing the queries in terminal
+        print(raw)
+
         response = raw['response']
         
         return jsonify({"response": response})
