@@ -1,0 +1,164 @@
+Below is the reformatted version with clear sections, headings, and bullet lists for improved readability:
+
+---
+
+# Terraria Wiki: Guide – Farming Resources
+
+**Overview:**  
+This guide explains how to intentionally farm and obtain useful resources in Terraria. Some resources occur naturally while others (like certain plants or Crystal Shards) can be grown in a designated area for harvest. Note that the guide is subject to revision and may be outdated.
+
+---
+
+## Contents
+
+1. Fully Renewable  
+  1.1 Wood  
+  1.2 Herbs  
+  1.3 Mushrooms  
+  1.4 Bait Farm  
+  1.5 Fishing Items  
+  1.6 Liquids  
+  1.7 Crystal Shards  
+  1.8 Money  
+  1.9 Enemy Drops  
+  1.10 Other Resources  
+2. Becoming Non Renewable as the Game Progresses  
+3. Plentiful but Finite  
+4. Chlorophyte Ore  
+5. Non Renewable  
+  5.1 All Biomes  
+  5.2 Underground and Caverns  
+  5.3 Jungle Temple  
+  5.4 Dungeon  
+  5.5 The Underworld
+
+---
+
+## 1. Fully Renewable Resources
+
+*An item or block is considered renewable if it can be produced indefinitely within one world.*
+
+### Wood
+- **Tree Farm Basics:**  
+  - Build a flat surface using the specific block type required for each tree.  
+  - Provide proper horizontal spacing (1 tile on each side; more if planting saplings near each other) and vertical space (typically 16 tiles; Jungle and Palm trees require more).  
+  - Trees require a matching soil type (e.g., Dirt with regular Grass, Mud with Jungle Grass, Sand for Palm Wood) and will not grow underground or in front of walls (with some exceptions).
+
+### Herbs
+- **Key Herbs & Conditions:**  
+  - **Blinkroot:** Grows in Dirt or Mud.  
+  - **Daybloom:** Needs Grass or Hallowed Grass; blooms during daytime.  
+  - **Deathweed:** Found on Corrupt/Crimson grass; blooms during Blood or Full Moon.  
+  - **Fireblossom:** Grows in Ash; blooms late afternoon or when submerged in lava.  
+  - **Moonglow:** Grows in Jungle Grass; blooms at night.  
+  - **Waterleaf:** Grows on Sand; blooms during Rain or underwater.  
+  - **Shiverthorn:** Grows on Snow.
+- **Planting Options:**  
+  - Herbs can be grown on soil, in Clay Pots, or in Planter Boxes.  
+  - Clay Pots and Planter Boxes allow for growth away from terrain restrictions and help protect plants.
+
+### Mushrooms
+- **Types & Growth Conditions:**  
+  - **Regular Mushrooms:** Grow on Grass or Hallowed Grass.  
+  - **Vile Mushrooms:** Grow on Corrupted Grass.  
+  - **Vicious Mushrooms:** Grow on Crimson Grass.  
+  - **Glowing Mushrooms:** Grow on Mushroom Grass.
+- **Farming Tips:**  
+  - Farms usually consist of multiple layers of dirt with gaps in between.  
+  - Use Wooden Platforms beneath dirt layers to prevent interfering vine growth and allow tight packing.  
+  - Some mushroom types are automatically harvested with Dart Traps or Actuators.
+
+### Bait Farm
+- **Purpose:**  
+  - To gather large amounts of bait from various critters.
+- **Key Critter Types:**  
+  - Fireflies (common at night)  
+  - Butterflies (daytime, with varying bait power)  
+  - Worms (common during Rain; can be crafted into Enchanted Nightcrawlers)  
+  - Jungle bait from Jungle grass (spawning a mix of Grubby, Sluggy, and Buggy types)
+- **Farm Considerations:**  
+  - Use Water Candles or Battle Potions to boost spawn rates.  
+  - Ensure plants are directly destroyed (if indoors, they grow in front of walls and fences).
+
+### Fishing Items
+- **Resource Sources via Fishing:**  
+  - Food fish, special fish for potions (e.g., Prismite, Armored Cavefish)  
+  - Weapons, tools, and accessories (like the Crystal Serpent, Reaver Shark, Frog Leg)  
+  - Crates, which yield coins, ores, bars, potions, and even rare items.
+- **Notes:**  
+  - Crates vary by biome and depth.  
+  - Locked Gold or Shadow Chests can be farmed via Golden/Obsidian Lock Boxes.
+
+### Liquids
+- **Duplication Methods (Pre-1.4 & 1.4+):**  
+  - Prior to 1.4, liquids could be easily duplicated and automated with Pumps.  
+  - In 1.4+, infinite liquid sources exist (using Bottomless Buckets and Liquid Bombs/Rockets), though they require more resources.
+- **Renewable Blocks:**  
+  - Obsidian, Honey Blocks, and Crispy Honey can be made from duplicated liquids.
+
+### Crystal Shards
+- **Farming Strategy:**  
+  - Build a farm using single horizontal rows of Pearlstone, with three-tile gaps for walking.  
+  - The farm should be in the Cavern layer or below.  
+  - Use Actuators to toggle Pearlstone to drop all Crystal Shards at once, and Conveyor Belts to gather drops.
+- **Profitability:**  
+  - A full stack has high sell value; crafting into Greater Healing Potions can yield even more profit.
+
+### Money, Enemy Drops, and Other Resources
+- **Money:**  
+  - Can be farmed via various methods (see Guide: Making Money).
+- **Enemy Drops:**  
+  - Refer to Guide: Enemy Farming.
+- **Additional Renewable Resources:**  
+  - Cobwebs from Spider Walls, certain materials via wired Statues (e.g., Slime or Granite Golem Statues), Jungle Grass Seeds (with Flower Boots), pumpkins from Pumpkin Seeds, Fallen Stars via skybridges, coral beds, starfish, seashells, and more.
+- **Note on Ores/Bars:**  
+  - Many pre-Hardmode ores can also be obtained from fished crates, making them renewable in that sense.
+
+---
+
+## 2. Becoming Non Renewable as the Game Progresses
+
+Some items start renewable but become non renewable later. For example:
+- **Gray Zapinator** (renewable pre-Hardmode) is replaced by Orange Zapinator in Hardmode.
+- Pre-Hardmode crates become non renewable in Hardmode (though they can be reverted with Shimmer).
+- Certain keys, pet licenses, and quest-exclusive items become non renewable once used.
+
+---
+
+## 3. Plentiful but Finite
+
+These resources have large quantities but are ultimately limited:
+- **Soil Types:** Clay, Silt, Slush, Desert Fossil, Hardened Sand, Sandstone, Ice, Ash, Marble.
+  - Sand can be farmed using a Sandgun; Dirt can be farmed with Dirt Bombs.
+- **Hive Blocks:** Found in Jungle hives; needed for summoning Queen Bee, thus making related drops finite.
+- **Natural Walls:** Some natural walls (Dungeon, Spider Cave, Underground Desert) are finite once harvested.
+
+---
+
+## 4. Chlorophyte Ore
+
+- **Farming Method:**  
+  - Build a farm in the Cavern layer or below using Mud Blocks with a single Chlorophyte Ore block to seed the spread.
+- **Spreading Mechanics:**  
+  - Chlorophyte spreads within defined ranges that vary by platform (PC/Console/Mobile versus older consoles).  
+  - Multiple farms placed too close will compete; size and spacing matter.
+- **Tips:**  
+  - Replace mined ore with fresh mud to sustain production.
+
+---
+
+## 5. Non Renewable Items
+
+These items are generated in fixed locations and cannot be re-created:
+- **Examples (All Biomes):**  
+  - Certain Paintings, decorative Banners, specific Chests, statues.
+- **Underground/Caverns:**  
+  - Geyser Traps, Dart Traps, and some non-craftable Statues.
+- **Jungle Temple:**  
+  - Lihzahrd Bricks, furniture, traps, Lihzahrd Chest, Furnace, and Altar.
+- **Dungeon:**  
+  - Dungeon Bricks, Bone Welder, unique Biome Chests, Alchemy Table.
+- **The Underworld:**  
+  - Obsidian Furniture, Hellforge, Hellstone Ore, and items from Shadow Chests.
+
+---

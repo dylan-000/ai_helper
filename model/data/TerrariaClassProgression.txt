@@ -1,0 +1,553 @@
+Terraria has no formal player class or leveling system. However, weapons can be grouped into four distinct categories based on their damage type – melee, ranged, magic, and summoning. In general, it is recommended to focus on one class, as many armors, accessories, and buffs only benefit a specific class, especially later into the game. This page lists every combat item in the game, from weakest to strongest, providing a comprehensive overview of your in-game progression. 
+
+Melee 
+
+The melee class utilizes weapons such as swords, spears, and yoyos. Many melee weapons have a short attack range, and those that are viable at a distance tend to do lower damage than their close-range counterparts. 
+
+Ranged 
+
+Rangers are able to attack from a distance, utilizing weapons like bows and guns, as well as thrown objects. Unless using the Endless Quiver or Endless Musket Pouch, ranged users must constantly acquire ammunition. This can be done through crafting or purchasing from the Arms Dealer. 
+
+Magic 
+
+Magicians are highly varied in attack style, often utilizing special mechanics such as homing, lifesteal, and area-of-effect damage. They are held back by reliance on mana, which regenerates very slowly unless the Mana Regeneration buff is in effect. Magic-users must use mana potions if they wish to recover mana instantly. 
+
+Summoning 
+
+Summoners focus on increasing the number and strength of summonable minions. Whips are primary weapons that will focus summons and increase their damage. While it is possible to beat the game with only summon damage, the summoning class was balanced around the idea of the player also using weapons from other classes in addition to minions and whips. 
+
+
+
+
+
+Pre-Bosses
+Before encountering a boss, armor sets from wooden and ore materials primarily provide additional defense. Accessories do not typically discriminate by weapon type, and with limited weapon variety and the need for survival, sticking to a "class" is not crucial early on. Players are encouraged to use whatever resources they can gather. It is possible to acquire a gun or magic weapon early by smashing a Corruption or Crimson Orb.
+
+Pre-Bosses: Melee
+Swords
+Copper Shortsword, Tin Shortsword, Wooden Sword, Boreal Wood Sword, Cactus Sword, Copper Broadsword, Iron Shortsword, Palm Wood Sword, Rich Mahogany Sword, Lead Shortsword, Silver Shortsword, Tin Broadsword, Ebonwood Sword, Iron Broadsword, Shadewood Sword, Tungsten Shortsword, Lead Broadsword, Silver Broadsword, Bladed Glove, Gold Shortsword, Ruler, Tungsten Broadsword, Zombie Arm, Gold Broadsword, Platinum Shortsword, Mandible Blade, Stylish Scissors, Gladius, Platinum Broadsword, Bone Sword, Candy Cane Sword, Katana, Ice Blade, Exotic Scimitar, Purple Clubberfish, Enchanted Sword, Terragrim, Arkhalis, Starfury, Falcon Blade, Blade of Grass
+
+Spears
+Spear, Trident, The Rotted Fork, Storm Spear, Swordfish
+
+Yoyos
+Wooden Yoyo, Rally, Amazon
+
+Boomerangs
+Wooden Boomerang, Enchanted Boomerang, Shroomerang, Ice Boomerang, Thorn Chakram, Trimarang
+
+Flails
+Mace, Flaming Mace, Chain Knife, Ball O' Hurt
+
+Accessories
+Feral Claws, Magma Stone, White String, Counterweights
+
+Armor
+Ancient Shadow armor
+
+Pre-Bosses: Ranged
+Bows
+Wooden Bow, Boreal Wood Bow, Copper Bow, Palm Wood Bow, Rich Mahogany Bow, Tin Bow, Ebonwood Bow, Iron Bow, Shadewood Bow, Lead Bow, Pearlwood Bow, Silver Bow, Tungsten Bow, Gold Bow, Platinum Bow, Blood Rain Bow
+
+Guns
+Flare Gun, Blowpipe, Snowball Cannon, Sandgun, Red Ryder, The Undertaker, Musket, Minishark, Revolver, Boomstick
+
+Throwing Weapons
+Snowball, Shuriken, Poisoned Knife, Throwing Knife, Bone Throwing Knife, Javelin, Frost Daggerfish, Bone Javelin, Molotov Cocktail, Grenade, Sticky Grenade, Bouncy Grenade
+
+Armor
+Fossil armor
+
+Buffs/Potions
+Archery Potion, Ammo Reservation Potion
+
+Ammunition
+Frostburn Arrow, Unholy Arrow, Jester's Arrow, Musket Ball, Fallen Star, Silver Bullet, Tungsten Bullet
+
+Pre-Bosses: Magic
+Staffs
+Wand of Sparking, Wand of Frosting, Thunder Zapper, Amethyst Staff, Topaz Staff, Sapphire Staff, Emerald Staff, Amber Staff, Ruby Staff, Crimson Rod, Vilethorn, Diamond Staff
+
+Spell Tomes
+Water Bolt, Demon Scythe
+
+Armor
+Magic Hat, Wizard Hat, Amethyst Robe, Topaz Robe, Sapphire Robe, Emerald Robe, Amber Robe, Ruby Robe, Diamond Robe, Mystic Robe, Ancient Cobalt armor, Jungle armor
+
+Accessories
+Magic Cuffs, Mana Flower, Celestial Magnet, Magnet Flower, Celestial Cuffs
+
+Buffs/Potions
+Lesser Mana Potion, Mana Potion, Mana Regeneration Potion, Magic Power Potion
+
+Jungle armor and Ancient Cobalt armor can be used interchangeably for the same set bonus. The Demon Scythe can technically be obtained anytime, as Demons spawn in the Underworld. Water Bolt can be obtained before defeating Skeletron in version 1.4, but it requires a hoik to enter the Dungeon, and a Recall Potion to retreat.
+
+Pre-Bosses: Summoning
+Summon Items
+Finch Staff, Abigail's Flower, Slime Staff, Vampire Frog Staff, Flinx Staff
+
+Whips
+Leather Whip, Snapthorn
+
+Armor
+Flinx Fur Coat
+
+Pre-Bosses: Mixed
+Armor
+Rich Mahogany armor, Boreal Wood armor, Palm Wood armor, Wood armor, Ebonwood armor, Shadewood armor, Cactus armor, Copper armor, Tin armor, Pumpkin armor, Iron armor, Lead armor, Silver armor, Tungsten armor, Gold armor, Platinum armor, Gladiator armor
+
+Accessories
+Hermes Boots, Amphibian Boots, Lightning Boots, Cloud in a Bottle, Blizzard in a Bottle, Sandstorm in a Bottle, Tsunami in a Bottle, Shiny Red Balloon, Band of Regeneration, Frog Leg, Lucky Horseshoe, Panic Necklace, Shark Tooth Necklace, Fledgling Wings
+
+Buffs/Potions
+Lesser Healing Potion, Healing Potion, Ironskin Potion, Swiftness Potion, Regeneration Potion, Endurance Potion, Well Fed, Plenty Satisfied, Exquisitely Stuffed
+
+
+
+
+
+Pre-Hardmode
+Once you begin defeating the first bosses, new options become available, and you should have enough mana to use magic weapons. However, the armors still offer small bonuses, allowing you to mix class styles without significant loss of damage. Dedicated summoners are still weak at this point, although their summoning items can be used by any class. On the PC, Console, Mobile, and tModLoader versions, with the addition of Obsidian armor and Spinal Tap, Summoners become much more powerful than in earlier versions of the game.
+
+Pre-Hardmode: Melee
+Weapons
+Terragrim, Arkhalis, Enchanted Sword, Starfury, Falcon Blade, Muramasa, Volcano, Night's Edge, Dark Lance, Sunfury, Flamarang, Amazon, Valor, Cascade, Code 1
+
+Armor
+Shadow armor, Molten armor
+
+Accessories
+Feral Claws, Counterweight, String, Magma Stone
+
+Buffs/Potions
+Sharpening Station, Ale, Sake, Flask of Poison, Flask of Fire
+
+Pre-Hardmode: Ranged
+Weapons
+Grenade, Beenade, Star Cannon, Minishark, Handgun, Boomstick, Phoenix Blaster, Quad-Barrel Shotgun, Revolver, Blood Rain Bow, Molten Fury, Sharanga, The Bee's Knees, Hellwing Bow
+
+Armor
+Necro armor, Fossil armor
+
+Buffs/Potions
+Archery Potion, Ammo Reservation Potion, Ammo Box
+
+Ammunition
+Silver Bullet, Tungsten Bullet, Meteor Shot, Party Bullet, Frostburn Arrow, Jester's Arrow, Unholy Arrow, Hellfire Arrow, Fallen Star, Poison Dart
+
+Pre-Hardmode: Magic
+Weapons
+Diamond Staff, Ruby Staff, Amber Staff, Vilethorn, Crimson Rod, Space Gun, Bee Gun, Aqua Scepter, Water Bolt, Flamelash, Demon Scythe, Gray Zapinator, Magic Missile
+
+Armor
+Meteor armor, Jungle armor, Amber Robe, Diamond Robe, Ancient Cobalt armor, Mystic Robe, Wizard Hat
+
+Accessories
+Celestial Cuffs, Mana Flower, Magnet Flower
+
+Buffs/Potions
+Mana Regeneration Potion, Magic Power Potion
+
+Pre-Hardmode: Summoning
+Weapons
+Hornet Staff, Vampire Frog Staff, Imp Staff, Snapthorn, Spinal Tap, Ballista Rod, Lightning Aura Rod
+
+Armor
+Flinx Fur Coat, Bee armor, Obsidian armor
+
+Accessories
+Feral Claws, Pygmy Necklace
+
+Buffs/Potions
+Summoning Potion, Bewitching Table, Flask of Poison, Flask of Fire
+
+Mounts
+Slime, Bee
+
+Bee armor is preferable if you want to focus on using minions and a more passive playstyle. Obsidian armor (on PC, Console, Mobile, and tModLoader versions) swaps 1 minion for a +20% increase to summon damage, +50% whip range, and +35% speed, allowing for a more aggressive summoner playstyle.
+
+Pre-Hardmode: Mixed
+Weapons
+Grenade, Dynamite
+
+Armor
+Gi, Ninja armor, Gladiator armor, Platinum armor, Crimson armor
+
+Accessories
+Shield of Cthulhu, Worm Scarf, Brain of Confusion, Fledgling Wings, Cloud in a Bottle, Bundle of Balloons, Lightning Boots, Terraspark Boots, Amphibian Boots, Band of Regeneration, Obsidian Shield, Stinger Necklace
+
+Mounts
+Bee, Slime
+
+Buffs/Potions
+Regeneration Potion, Ironskin Potion, Swiftness Potion, Rage Potion, Wrath Potion, Heartreach Potion, Endurance Potion, Gravitation Potion, Well Fed, Plenty Satisfied, Exquisitely Stuffed, Slice of Cake
+
+
+
+
+
+Pre-Mechanical Bosses
+At this point in the game, it becomes almost mandatory to pick a specific class. Many accessories will only benefit a certain class, and armor sets start to benefit only certain types of damage. However, summoner hybridization remains viable and extremely potent due to the availability of the powerful Sanguine Staff. This is also when you may want to start focusing on getting good modifiers for your equipment.
+
+Pre-Mechanical Bosses: Melee
+Weapons
+Gradient, Amarok, Chain Guillotines, Hel-Fire, Dao of Pow, Adamantite Sword, Titanium Sword, Bladetongue, Ice Sickle, Bananarang, Fetid Baghnakhs, Shadowflame Knife, Sergeant United Shield, Drippler Crippler, Flying Knife
+
+Armor
+Palladium armor, Mythril armor, Adamantite armor, Titanium armor, Frost Armor
+
+Accessories
+Warrior Emblem, Yoyo Bag, Berserker's Glove, Magma Stone
+
+Buffs/Potions/Flasks
+Flask of Ichor, Flask of Cursed Flames, Sharpening Station, Ale, Sake
+
+Pre-Mechanical Bosses: Ranged
+Weapons
+Adamantite Repeater, Titanium Repeater, Shadowflame Bow, Marrow, Daedalus Stormbow, Clockwork Assault Rifle, Onyx Blaster, Uzi, Dart Rifle, Star Cannon, Dart Pistol, Toxikarp
+
+Armor
+Palladium armor, Adamantite armor, Titanium armor, Frost Armor
+
+Accessories
+Ranger Emblem, Magic Quiver, Molten Quiver, Stalker's Quiver
+
+Buffs/Potions
+Archery Potion, Ammo Reservation Potion, Ammo Box
+
+Ammunition
+Crystal Bullet, Ichor Bullet, Exploding Bullet, Endless Musket Pouch, Frostburn Arrow, Jester's Arrow, Hellfire Arrow, Holy Arrow, Ichor Arrow, Cursed Arrow, Endless Quiver, Ichor Dart, Fallen Star, Cursed Dart, Crystal Dart
+
+Pre-Mechanical Bosses: Magic
+Weapons
+Meteor Staff, Crystal Serpent, Golden Shower, Cursed Flames, Crystal Storm, Shadowflame Hex Doll, Sky Fracture, Spirit Flame, Life Drain, Clinger Staff, Nimbus Rod
+
+Armor
+Palladium armor, Adamantite armor, Titanium armor, Forbidden armor, Mystic Robe
+
+Accessories
+Celestial Cuffs, Sorcerer Emblem, Magnet Flower
+
+Buffs/Potions
+Mana Regeneration Potion, Magic Power Potion, Crystal Ball
+
+Pre-Mechanical Bosses: Summoning
+Weapons
+Blade Staff, Spider Staff, Queen Spider Staff, Sanguine Staff, Firecracker, Cool Whip, Pirate Staff
+
+Armor
+Spider armor, Forbidden armor, Obsidian armor
+
+Accessories
+Summoner Emblem, Berserker's Glove, Pygmy Necklace
+
+Mounts
+Pirate Ship, Goat, Unicorn, Basilisk, Winged Slime
+
+Buffs/Potions
+Flask of Ichor, Flask of Cursed Flames, Summoning Potion, Bewitching Table
+
+Pre-Mechanical Bosses: Mixed
+Armor
+Crystal Assassin armor, Spider Greaves
+
+Accessories
+Lightning Boots, Terraspark Boots
+
+Mounts
+Pirate Ship, Goat, Pigron, Unicorn, Basilisk, Winged Slime
+
+Buffs/Potions
+Regeneration Potion, Ironskin Potion, Swiftness Potion, Rage Potion, Wrath Potion, Heartreach Potion, Lifeforce Potion, Endurance Potion, Well Fed, Plenty Satisfied, Exquisitely Stuffed, Slice of Cake
+
+
+
+
+
+Pre-Plantera
+At this stage in the game, mixed classes become weaker compared to focusing on a single class, mainly due to separate armor sets designed for each class. You can still play a mixed class, but it’s recommended to keep a backup armor set (such as in the vanity slots) to quickly switch for additional damage or defense. Hallowed armor may be preferred for extra survivability. Buffs are extremely useful for bosses and are almost necessary in master mode.
+
+Pre-Plantera: Melee
+Weapons
+Terra Blade, True Night's Edge, True Excalibur, Yelets, Amarok, Fetid Baghnakhs, Death Sickle, Shadowflame Knife, Light Disc
+
+Armor
+Turtle armor, Chlorophyte armor, Hallowed Mask, Monk's Shirt, Squire's Greaves
+
+Accessories
+Warrior Emblem, Mechanical Glove, Fire Gauntlet, Yoyo Bag
+
+Buffs/Potions/Flasks
+Flask of Ichor, Flask of Cursed Flames, Sharpening Station, Ale, Sake
+
+Pre-Plantera: Ranged
+Weapons
+Megashark, Uzi, Daedalus Stormbow, Phantom Phoenix, Chlorophyte Shotbow, Hallowed Repeater, Dart Rifle, Dart Pistol, Super Star Shooter
+
+Armor
+Chlorophyte armor, Hallowed armor, Huntress's Jerkin
+
+Accessories
+Ranger Emblem, Magic Quiver, Molten Quiver, Stalker's Quiver
+
+Buffs/Potions
+Archery Potion, Ammo Reservation Potion, Ammo Box
+
+Ammunition
+High Velocity Bullet, Crystal Bullet, Chlorophyte Bullet, Endless Musket Pouch, Hellfire Arrow, Holy Arrow, Ichor Arrow, Chlorophyte Arrow, Endless Quiver, Ichor Dart, Fallen Star, Cursed Dart, Crystal Dart
+
+Pre-Plantera: Magic
+Weapons
+Meteor Staff, Sky Fracture, Golden Shower, Rainbow Rod, Magical Harp
+
+Armor
+Chlorophyte armor, Hallowed armor, Apprentice's Trousers, Forbidden Treads
+
+Accessories
+Celestial Emblem, Celestial Cuffs, Sorcerer Emblem, Magnet Flower
+
+Buffs/Potions
+Mana Regeneration Potion, Magic Power Potion, Crystal Ball
+
+Pre-Plantera: Summoning
+Summoners gain a significant boost to survivability with Hallowed armor, though it provides low offensive bonuses. This causes summoners to favor the Blade Staff, which doesn't benefit much from percentage-based bonuses.
+
+Weapons
+Blade Staff, Spider Staff, Optic Staff, Sanguine Staff, Ballista Cane, Lightning Aura Cane, Queen Spider Staff, Firecracker, Durendal
+
+Armor
+Spider armor, Hallowed armor, Squire armor, Monk armor
+
+Accessories
+Summoner Emblem, Berserker's Glove, Pygmy Necklace
+
+Buffs/Potions
+Flask of Ichor, Flask of Cursed Flames, Summoning Potion, Bewitching Table
+
+Pre-Plantera: Mixed
+Armor
+Squire's Great Helm
+
+Accessories
+Avenger Emblem, Lightning Boots, Terraspark Boots
+
+Buffs/Potions
+Regeneration Potion, Ironskin Potion, Swiftness Potion, Rage Potion, Wrath Potion, Heartreach Potion, Lifeforce Potion, Endurance Potion, Well Fed, Plenty Satisfied, Exquisitely Stuffed, Slice of Cake
+
+
+
+
+
+Pre-Golem
+With the Hardmode Dungeon and the Pumpkin Moon and Frost Moon now available, players have access to a variety of new equipment. Additionally, any Biome Keys obtained are now usable. You could try skipping this stage by defeating the Empress of Light, but most players won't be able to defeat her until further progress has been made.
+
+Pre-Golem: Melee
+Weapons
+Terra Blade, Seedler, The Eye of Cthulhu, Vampire Knives, Scourge of the Corruptor, Paladin's Hammer
+
+Armor
+Chlorophyte armor, Dragon armor, Hallowed Mask, Turtle Scale Mail, Monk's Shirt, Squire's Greaves
+
+Accessories
+Warrior Emblem, Mechanical Glove, Fire Gauntlet, Frozen Shield, Yoyo Bag, Ankh Shield
+
+Buffs/Potions/Flasks
+Flask of Ichor, Flask of Cursed Flames, Sharpening Station, Ale, Sake
+
+Pre-Golem: Ranged
+Weapons
+Megashark, Sniper Rifle, Tactical Shotgun, Daedalus Stormbow, Chlorophyte Shotbow, Rocket Launcher, Pulse Bow, Nail Gun, Jack 'O Lantern Launcher, Candy Corn Rifle, Stake Launcher
+
+Armor
+Shroomite armor, Titan armor, Spooky Leggings, Mythril Greaves
+
+Accessories
+Ranger Emblem, Magic Quiver, Molten Quiver, Stalker's Quiver
+
+Buffs/Potions
+Archery Potion, Ammo Reservation Potion, Ammo Box
+
+Ammunition
+High Velocity Bullet, Crystal Bullet, Chlorophyte Bullet, Endless Musket Pouch, Hellfire Arrow, Holy Arrow, Ichor Arrow, Chlorophyte Arrow, Venom Arrow, Endless Quiver, Mini Nuke I
+
+Pre-Golem: Magic
+Weapons
+Bat Scepter, Spectre Staff, Inferno Fork, Magnet Sphere, Rainbow Gun, Resonance Scepter
+
+Armor
+Spectre armor, Spectral armor, Hallowed Headgear, Apprentice's Trousers
+
+Accessories
+Celestial Emblem, Celestial Cuffs, Sorcerer Emblem
+
+Buffs/Potions
+Mana Regeneration Potion, Magic Power Potion, Crystal Ball
+
+Pre-Golem: Summoning
+Weapons
+Blade Staff, Raven Staff, Desert Tiger Staff, Sanguine Staff, Terraprisma, Staff of the Frost Hydra, Queen Spider Staff, Morning Star, Dark Harvest, Kaleidoscope
+
+Armor
+Spooky armor, Tiki armor, Squire's Great Helm
+
+Accessories
+Summoner Emblem, Hercules Beetle, Papyrus Scarab, Necromantic Scroll, Pygmy Necklace
+
+Mounts
+Hexxed Branch
+
+Buffs/Potions
+Flask of Ichor, Flask of Cursed Flames, Summoning Potion, Bewitching Table
+
+Pre-Golem: Mixed
+Armor
+Squire's Great Helm, Spooky Breastplate
+
+Accessories
+Avenger Emblem, Lightning Boots, Terraspark Boots
+
+Buffs/Potions
+Ironskin Potion, Endurance Potion, Rage Potion, Wrath Potion, Regeneration Potion, Lifeforce Potion, Gravitation Potion, Well Fed, Plenty Satisfied, Exquisitely Stuffed, Slice of Cake
+
+
+
+
+
+Pre-Lunar Events
+Equipment from Golem, Martian Invasion, and the final tier of the Old One's Army is now available. Challenging Duke Fishron, Empress of Light, and the Frost Moon is now feasible.
+
+Pre-Lunar Events: Melee
+Weapons
+Terra Blade, Seedler, North Pole, Influx Waver, Flairon, The Eye of Cthulhu, Vampire Knives, Possessed Hatchet, Starlight
+
+Armor
+Beetle armor, Hallowed Mask, Chlorophyte Mask, Shinobi Infiltrator's Helmet, Valhalla Knight's Breastplate, Monk's Shirt, Valhalla Knight's Greaves
+
+Accessories
+Warrior Emblem, Mechanical Glove, Fire Gauntlet, Frozen Shield, Yoyo Bag, Avenger Emblem, Destroyer Emblem
+
+Buffs/Potions/Flasks
+Flask of Ichor, Flask of Cursed Flames, Ale, Sake, Sharpening Station
+
+Both sets of Beetle armor are viable for different situations. However, the offensive variant is not optimal when using weapons that have their DPS unaffected by melee speed, such as Vampire Knives.
+
+Pre-Lunar Events: Ranged
+Weapons
+Xenopopper, Sniper Rifle, Chain Gun, Electrosphere Launcher, Snowman Cannon, Tsunami, Eventide, Aerial Bane
+
+Armor
+Shroomite armor, Red Riding Dress, Red Riding Leggings
+
+Accessories
+Ranger Emblem, Magic Quiver, Sniper Scope
+
+Buffs/Potions
+Swiftness Potion, Archery Potion, Ammo Reservation Potion, Ammo Box
+
+Ammunition
+High Velocity Bullet, Crystal Bullet, Chlorophyte Bullet, Endless Musket Pouch, Hellfire Arrow, Holy Arrow, Ichor Arrow, Chlorophyte Arrow, Venom Arrow, Endless Quiver, Rocket III, Mini Nuke I
+
+Pre-Lunar Events: Magic
+Weapons
+Razorpine, Blizzard Staff, Razorblade Typhoon, Laser Machinegun, Charged Blaster Cannon, Bubble Gun, Magnet Sphere, Nightglow, Betsy's Wrath, Stellar Tune
+
+Armor
+Spectre armor, Hallowed Headgear, Dark Artist's Robes, Dark Artist's Leggings
+
+Accessories
+Celestial Emblem, Celestial Cuffs, Sorcerer Emblem
+
+Buffs/Potions
+Mana Regeneration Potion, Magic Power Potion, Crystal Ball
+
+Both the Spectre Mask and Spectre Hood are useful for offense and defense, respectively. The listed hybrid set is strong both offensively and defensively but is harder to obtain.
+
+Pre-Lunar Events: Summoning
+Weapons
+Xeno Staff, Raven Staff, Ballista Staff, Lightning Aura Staff, Queen Spider Staff, Terraprisma, Kaleidoscope, Morning Star, Dark Harvest
+
+Armor
+Spooky armor, Shinobi Infiltrator's Helmet, Valhalla Knight's Breastplate
+
+Accessories
+Summoner Emblem, Hercules Beetle, Papyrus Scarab, Necromantic Scroll, Pygmy Necklace
+
+Mounts
+Scutlix
+
+Buffs/Potions
+Flask of Ichor, Flask of Cursed Flames, Summoning Potion, Bewitching Table
+
+The head and leg slots of Valhalla Knight armor can be swapped for pieces that provide minion capacity while still retaining the breastplate's high health regeneration.
+
+Pre-Lunar Events: Mixed
+Armor
+Squire's Great Helm, Valhalla Knight's Breastplate, Spooky Breastplate
+
+Accessories
+Destroyer Emblem, Avenger Emblem, Celestial Stone, Celestial Shell, Amphibian Boots, Terraspark Boots, Lightning Boots, Ankh Shield, Charm of Myths
+
+Mounts
+Scutlix, UFO
+
+Buffs/Potions
+Ironskin Potion, Endurance Potion, Rage Potion, Wrath Potion, Regeneration Potion, Lifeforce Potion, Gravitation Potion, Well Fed, Plenty Satisfied, Exquisitely Stuffed, Slice of Cake
+
+
+
+
+
+Endgame: Melee
+Weapons
+Zenith, Meowmere, Star Wrath, Solar Eruption, Daybreak, Terrarian, Vampire Knives
+
+Armor
+Solar Flare armor, Chlorophyte Mask, Valhalla Knight's Breastplate, Valhalla Knight's Greaves
+
+Accessories
+Warrior Emblem, Mechanical Glove, Fire Gauntlet, Frozen Shield, Yoyo Bag
+
+Buffs/Potions/Flasks
+Flask of Ichor, Flask of Cursed Flames, Ale, Sake, Sharpening Station
+
+Endgame: Ranged
+Weapons
+S.D.M.G., Vortex Beater, Phantasm, Celebration Mk2, Snowman Cannon
+
+Armor
+Vortex armor
+
+Accessories
+Ranger Emblem, Molten Quiver, Stalker's Quiver, Magic Quiver, Recon Scope, Sniper Scope
+
+Buffs/Potions
+Swiftness Potion, Archery Potion, Ammo Reservation Potion, Ammo Box
+
+Ammunition
+Crystal Bullet, Chlorophyte Bullet, Luminite Bullet, Endless Musket Pouch, Holy Arrow, Ichor Arrow, Chlorophyte Arrow, Venom Arrow, Luminite Arrow, Endless Quiver, Rocket III, Mini Nuke I
+
+Endgame: Magic
+Weapons
+Last Prism, Lunar Flare, Nebula Arcanum, Nebula Blaze
+
+Armor
+Nebula armor
+
+Accessories
+Celestial Emblem, Celestial Cuffs, Sorcerer Emblem, Magnet Flower, Mana Flower
+
+Buffs/Potions
+Mana Regeneration Potion, Magic Power Potion, Crystal Ball
+
+Endgame: Summoning
+Weapons
+Stardust Dragon Staff, Stardust Cell Staff, Lunar Portal Staff, Rainbow Crystal Staff, Ballista Staff, Terraprisma, Kaleidoscope
+
+Armor
+Stardust armor, Shinobi Infiltrator's Helmet, Valhalla Knight's Breastplate
+
+Accessories
+Papyrus Scarab, Summoner Emblem, Hercules Beetle, Necromantic Scroll, Pygmy Necklace
+
+Buffs/Potions
+Flask of Ichor, Flask of Cursed Flames, Summoning Potion, Bewitching Table

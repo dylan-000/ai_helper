@@ -1,0 +1,453 @@
+Potions
+Potions are consumable items that recover the user's health and/or mana either instantaneously or over time, or grant temporary buffs or debuffs. They are commonly found in natural chests and Pots, dropped by enemies, purchased from NPCs, or crafted. Most potions can be crafted at a Placed Bottle or Alchemy Table, while flasks must be crafted at an Imbuing Station.
+
+Potion Buffs
+Potion buffs can be canceled at any time by:
+
+Right-clicking the buff icon (PC version)
+
+Selecting the buff icon and canceling it in the equipment menu (Nintendo Switch, Old-gen console version)
+
+Selecting the buff with Left Shoulder Button + X/B then canceling the buff with A (Console version)
+
+Double-tapping the buff icon (Mobile version)
+
+Canceling the buff from the buffs screen (Nintendo 3DS version)
+
+All potion buffs (including food buffs) are lost upon dying or when leaving and rejoining the world. However, as of version 1.4.4, flasks remain active.
+
+Journey Mode
+In Journey Mode, all potions require 20 research to unlock duplication, but 30 research is needed for recovery potions.
+
+Mushroom
+Ingredients: Mushroom
+Effect: Restores 15 health
+Notes: Potion cooldown lasts only 30 seconds
+
+Decorative Healing Potion
+Ingredients: None listed
+Effect: Restores 80 health
+Other Source: Queen Bee drop
+
+Greater Healing Potion
+Ingredients: Bottled Water (3), Pixie Dust (3), Crystal Shard (3)
+Crafting Station: Placed Bottle or Alchemy Table
+Effect: Restores 150 health
+Other Source: Dropped by Mechanical Bosses, Plantera, Golem, Duke Fishron, Lunatic Cultist, Moon Lord, Martian Saucer, Biome Mimics, Queen Slime
+
+Lesser Healing Potion
+Ingredients: Mushroom (2), Gel (2), Bottle (2)
+Crafting Station: None listed
+Effect: Restores 50 health
+Other Source: Found in chests, pots, and dropped by early-game Bosses
+
+Lesser Restoration Potion
+Ingredients: Lesser Healing Potion, Lesser Mana Potion
+Effect: Restores 50 health, Restores 50 mana
+Other Source: Found in treasure Shadow Chests in The Underworld
+
+Mana Potion
+Ingredients: Lesser Mana Potion (2), Glowing Mushroom
+Effect: Restores 100 mana
+Other Source: Found in pots during Hardmode
+
+Restoration Potion
+Ingredients: Mushroom, Glowing Mushroom, Pink Gel, Bottle
+Effect: Restores 90 health, Restores 80 health + 80 mana, Restores 100 health + 100 mana
+Notes: Potion cooldown lasts only 45 / 50 seconds
+
+Super Healing Potion
+Ingredients: Greater Healing Potion (4), Nebula Fragment, Solar Fragment, Stardust Fragment, Vortex Fragment
+Effect: Restores 200 health
+Other Source: Dropped by Moon Lord
+
+Super Mana Potion
+Ingredients: Greater Mana Potion (15), Fallen Star, Crystal Shard (3), Unicorn Horn
+Effect: Restores 300 mana
+
+Greater Mana Potion
+Ingredients: Bottled Water, Fallen Star, Crystal Shard (3), Unicorn Horn
+Effect: Restores 200 mana
+Other Source: Purchased from Wizard, dropped by Biome Mimics, found in fishing crates
+
+Lesser Mana Potion
+Ingredients: None listed
+Effect: Restores 50 mana
+Other Source: Purchased from Merchant, found placed on Platforms in the Dungeon
+
+Eggnog
+Ingredients: None listed
+Effect: Restores 80 health
+Other Source: Obtained from Presents
+
+Honeyfin
+Ingredients: None listed
+Effect: Restores 120 health
+Other Source: Obtained by fishing in Honey
+
+Horn o' plenty
+Ingredients: None listed
+Effect: Restores 120 health
+Other Source: Dropped by Turkor the Ungrateful
+Notes: Has unlimited uses
+
+Strange Brew
+Ingredients: None listed
+Effect: Restores 80 health, Restores 400 mana
+Other Source: Purchased from Skeleton Merchant
+
+Cooked Marshmallow
+Ingredients: Marshmallow on a Stick
+Effect: Well Fed (10 minutes)
+
+Apple Juice
+Ingredients: Apple, Bottle
+Effect: Well Fed (10 minutes)
+
+Bloody Moscato
+Ingredients: Blood Orange, Rambutan, Bottle
+Effect: Well Fed (20 minutes)
+
+Bowl of Soup
+Ingredients: Mushroom, Goldfish
+Effect: Plenty Satisfied (8 minutes), Well Fed (30 minutes, 10 minutes)
+
+Bunny Stew
+Ingredients: Bunny
+Effect: Well Fed (10 minutes)
+
+Cooked Fish
+Ingredients: Bass or Trout or Atlantic Cod
+Effect: Well Fed (8–20 minutes)
+
+Cooked Fish
+Ingredients: Salmon, Tuna, Red Snapper
+Effect: Well Fed (10–20 minutes)
+
+Cooked Shrimp
+Ingredients: Shrimp
+Effect: Plenty Satisfied (10 minutes), Well Fed (20 minutes, 3 minutes)
+
+Escargot
+Ingredients: Snail
+Effect: Plenty Satisfied (10 minutes)
+
+Froggle Bunwich
+Ingredients: Frog
+Effect: Plenty Satisfied (8 minutes)
+
+Frozen Banana Daiquiri
+Ingredients: Banana, Bottle, Snow Block
+Effect: Well Fed (15 minutes)
+
+Fruit Juice
+Ingredients: Any Fruit, Bottle
+Effect: Well Fed (15 minutes)
+
+Fruit Salad
+Ingredients: Any Fruit, Bowl
+Effect: Well Fed (25 minutes)
+
+Golden Delight
+Ingredients: Any Gold Critter (e.g., Gold Bunny, Gold Squirrel)
+Effect: Exquisitely Stuffed (48 minutes)
+
+Grape Juice
+Ingredients: Grapes, Bottle
+Effect: Exquisitely Stuffed (16 minutes)
+
+Grilled Squirrel
+Ingredients: Squirrel or Red Squirrel
+Effect: Well Fed (10 minutes)
+
+Grub Soup
+Ingredients: Grubby, Sluggy, Buggy
+Effect: Plenty Satisfied (10 minutes), Well Fed (30 minutes)
+
+Lemonade
+Ingredients: Lemon, Bottle
+Effect: Well Fed (10 minutes)
+
+Lobster Tail
+Ingredients: Rock Lobster
+Effect: Plenty Satisfied (10 minutes)
+
+Monster Lasagna
+Ingredients: Vertebra or Rotten Chunk
+Effect: Plenty Satisfied (8 minutes)
+
+Peach Sangria
+Ingredients: Peach, Bottle
+Effect: Well Fed (10 minutes)
+
+Piña Colada
+Ingredients: Pineapple, Coconut, Bottle
+Effect: Well Fed (20 minutes)
+
+Prismatic Punch
+Ingredients: Star Fruit, Dragon Fruit, Bottle
+Effect: Plenty Satisfied (20 minutes)
+
+Roasted Bird
+Ingredients: Bird (e.g., Cardinal, Blue Jay, Penguin, Seagull)
+Effect: Well Fed (10 minutes)
+
+Roasted Duck
+Ingredients: Duck (e.g., Mallard Duck, Grebe)
+Effect: Plenty Satisfied (10 minutes)
+
+Sauteed Frog Legs
+Ingredients: Frog
+Effect: Well Fed (10 minutes)
+
+Seafood Dinner
+Ingredients: Any Fish (e.g., Armored Cavefish, Neon Tetra)
+Effect: Plenty Satisfied (14 minutes)
+
+Smoothie of Darkness
+Ingredients: Blackcurrant, Elderberry, Bottle
+Effect: Well Fed (20 minutes)
+
+Tropical Smoothie
+Ingredients: Mango, Pineapple, Bottle
+Effect: Well Fed (20 minutes)
+
+Pumpkin Pie
+Ingredients: Pumpkin
+Effect: Plenty Satisfied (8 minutes), Well Fed (45 minutes, 15 minutes)
+
+Teacup
+Ingredients: Bottled Water
+Effect: Well Fed (5 minutes)
+
+Sashimi
+Ingredients: Fish (e.g., Flounder, Tuna, Trout, Salmon, Red Snapper)
+Effect: Plenty Satisfied (8 minutes), Well Fed (20 minutes, 3 minutes)
+
+Ammo Reservation Potion
+Ingredients: Bottled Water, Double Cod, Moonglow
+Effect: 20% chance to save ammo (8 minutes)
+
+Archery Potion
+Ingredients: Bottled Water, Daybloom, Lens
+Effect: 10% increased bow damage and 20% increased arrow speed (8 minutes)
+
+Battle Potion
+Ingredients: Bottled Water, Deathweed, Vertebra or Rotten Chunk
+Effect: Increases enemy spawn rate (7 minutes)
+
+Biome Sight Potion
+Ingredients: Bottled Water, Fireblossom, Blinkroot, Moonglow, Grass Seeds
+Effect: Shows the location of infected blocks (5 minutes)
+
+Builder Potion
+Ingredients: Bottled Water, Blinkroot, Shiverthorn, Moonglow
+Effect: Increases placement speed and range (45 minutes)
+
+Calming Potion
+Ingredients: Bottled Water, Damselfish, Daybloom
+Effect: Decreases enemy spawn rate (12 minutes)
+
+Crate Potion
+Ingredients: Bottled Water, Amber, Moonglow, Shiverthorn, Waterleaf
+Effect: Increases chance to get a crate (4 minutes)
+
+Dangersense Potion
+Ingredients: Bottled Water, Shiverthorn, Cobweb
+Effect: Allows you to see nearby danger sources (10 minutes)
+
+Endurance Potion
+Ingredients: Bottled Water, Armored Cavefish, Blinkroot
+Effect: Reduces damage taken by 10% (4 minutes)
+
+Featherfall Potion
+Ingredients: Bottled Water, Daybloom, Blinkroot, Feather
+Effect: Slows falling speed (10 minutes)
+
+Fishing Potion
+Ingredients: Bottled Water, Crispy Honey Block, Waterleaf
+Effect: Increases fishing power by 15 (8 minutes)
+
+Flipper Potion
+Ingredients: Bottled Water, Shiverthorn, Waterleaf
+Effect: Lets you move swiftly in liquids (8 minutes)
+
+Gills Potion
+Ingredients: Bottled Water, Waterleaf, Coral
+Effect: Breathe water instead of air (4 minutes)
+
+Gravitation Potion
+Ingredients: Bottled Water, Fireblossom, Deathweed, Blinkroot, Feather
+Effect: Allows the control of gravity (3 minutes)
+
+Greater Luck Potion
+Ingredients: Bottled Water, Waterleaf, Ladybug, Pink Pearl
+Effect: Increases the Luck of the user (10 minutes)
+
+Heartreach Potion
+Ingredients: Bottled Water, Crimson Tigerfish, Daybloom, Moonglow
+Effect: Increases pickup range for life hearts (8 minutes)
+
+Hunter Potion
+Ingredients: Bottled Water, Daybloom, Blinkroot, Shark Fin
+Effect: Shows the location of enemies (8 minutes)
+
+Inferno Potion
+Ingredients: Bottled Water, Flarefin Koi, Obsidifish, Fireblossom
+Effect: Ignites nearby enemies (4 minutes)
+
+Invisibility Potion
+Ingredients: Bottled Water, Blinkroot, Moonglow
+Effect: Grants invisibility and lowers the spawn rate of enemies (3 minutes)
+
+Ironskin Potion
+Ingredients: Bottled Water, Daybloom, Iron Ore or Lead Ore
+Effect: Increases defense by 8 (8 minutes)
+
+Lesser Luck Potion
+Ingredients: Bottled Water, Waterleaf, Ladybug, White Pearl
+Effect: Increases the Luck of the user (3 minutes)
+
+Lifeforce Potion
+Ingredients: Bottled Water, Prismite, Moonglow, Shiverthorn, Waterleaf
+Effect: Increases max life by 20% (8 minutes)
+
+Love Potion
+Ingredients: Bottled Water, Princess Fish, Shiverthorn
+Effect: Throw this to make someone fall in love (30 seconds)
+
+Luck Potion
+Ingredients: Bottled Water, Waterleaf, Ladybug, Black Pearl
+Effect: Increases the Luck of the user (5 minutes)
+
+Magic Power Potion
+Ingredients: Bottled Water, Moonglow, Deathweed, Fallen Star
+Effect: 20% increased magic damage (4 minutes)
+
+Mana Regeneration Potion
+Ingredients: Bottled Water, Moonglow, Daybloom, Fallen Star
+Effect: Increased mana regeneration (8 minutes)
+
+Mining Potion
+Ingredients: Bottled Water, Antlion Mandible, Blinkroot
+Effect: Increases mining speed by 25% (10 minutes)
+
+Night Owl Potion
+Ingredients: Bottled Water, Daybloom, Blinkroot
+Effect: Increases night vision (10 minutes)
+
+Obsidian Skin Potion
+Ingredients: Bottled Water, Fireblossom, Waterleaf, Obsidian
+Effect: Provides immunity to lava (6 minutes)
+
+Rage Potion
+Ingredients: Bottled Water, Hemopiranha, Deathweed
+Effect: Increases critical chance by 10% (4 minutes)
+
+Regeneration Potion
+Ingredients: Bottled Water, Daybloom, Mushroom
+Effect: Provides life regeneration (8 minutes)
+
+Shine Potion
+Ingredients: Bottled Water, Daybloom, Glowing Mushroom
+Effect: Emits an aura of light (10 minutes)
+
+Sonar Potion
+Ingredients: Bottled Water, Waterleaf, Coral
+Effect: Detects hooked fish (8 minutes)
+
+Spelunker Potion
+Ingredients: Bottled Water, Blinkroot, Moonglow, Gold Ore or Platinum Ore
+Effect: Shows the location of treasure and ore (5 minutes)
+
+Stink Potion
+Ingredients: Bottled Water, Stinkfish, Deathweed
+Effect: Throw this to make someone smell terrible (30 seconds)
+
+Summoning Potion
+Ingredients: Bottled Water, Variegated Lardfish, Moonglow
+Effect: Increases your max number of minions by 1 (8 minutes)
+
+Swiftness Potion
+Ingredients: Bottled Water, Blinkroot, Cactus
+Effect: 25% increased movement speed (8 minutes)
+
+Thorns Potion
+Ingredients: Bottled Water, Deathweed, Cactus
+Effect: Attackers also take damage (8 minutes)
+
+Titan Potion
+Ingredients: Bottled Water, Bone, Deathweed, Shiverthorn
+Effect: Increases knockback (8 minutes)
+
+Warmth Potion
+Ingredients: Bottled Water, Frost Minnow, Shiverthorn
+Effect: Reduces damage from cold sources (15 minutes)
+
+Water Walking Potion
+Ingredients: Bottled Water, Waterleaf, Shark Fin
+Effect: Allows the ability to walk on water (10 minutes)
+
+Wrath Potion
+Ingredients: Bottled Water, Ebonkoi, Deathweed
+Effect: Increases damage by 10% (4 minutes)
+
+Wiesnbräu
+Source: Purchased from the Merchant during Oktoberfest
+Effect: Receive half damage and deal half damage (30 seconds)
+
+Flask of Cursed Flames
+Ingredients: Bottled Water, Cursed Flame
+Effect: Melee and whip attacks inflict Cursed Inferno.
+
+Flask of Fire
+Ingredients: Bottled Water, Hellstone
+Effect: Melee and whip attacks inflict On Fire!
+
+Flask of Gold
+Ingredients: Bottled Water, Gold Dust
+Effect: Melee and whip attacks inflict Midas.
+
+Flask of Ichor
+Ingredients: Bottled Water, Ichor
+Effect: Melee and whip attacks inflict Ichor.
+
+Flask of Nanites
+Ingredients: Bottled Water, Nanites
+Effect: Melee and whip attacks inflict Confused.
+
+Flask of Party
+Ingredients: Bottled Water, Confetti
+Effect: Melee and whip attacks create confetti explosions.
+
+Flask of Poison
+Ingredients: Bottled Water, Stinger
+Effect: Melee and whip attacks inflict Poisoned.
+
+Flask of Venom
+Ingredients: Bottled Water, Vial of Venom
+Effect: Melee and whip attacks inflict Acid Venom.
+
+Gender Change Potion
+Ingredients: Bottled Water, Daybloom, Moonglow, Blinkroot, Waterleaf, Deathweed, Shiverthorn, Fireblossom
+Effect: Changes the character's gender to the opposite.
+
+Potion of Return
+Ingredients: Recall Potion, Obsidifish
+Effect: Teleports the player to their spawn point and creates a portal to return to their previous location.
+
+Recall Potion
+Ingredients: Bottled Water, Specular Fish, Daybloom
+Effect: Teleports the player to their spawn point.
+
+Teleportation Potion
+Ingredients: Bottled Water, Chaos Fish, Fireblossom
+Effect: Teleports the player to a random location within the world.
+
+Wormhole Potion
+Ingredients: Bottled Water, Specular Fish, Blinkroot
+Effect: Teleports the player to a teammate when their icon is clicked on the map.
+
+Red Potion
+How to Obtain: Found in chests in worlds with the seed "05162020", "for the worthy", or "get fixed boi". Also dropped by Jungle Mimics in "Celebrationmk10" seed worlds.
+Effect: Inflicts multiple debuffs (Darkness, Poisoned, Cursed, On Fire!, Weak, Confused, Slow, Silenced, Broken Armor, Bleeding, and Suffocation). In worlds with the "for the worthy" seed, it grants 3 random 30-minute buffs instead.

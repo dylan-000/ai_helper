@@ -1,0 +1,1230 @@
+
+wiki.gg logo
+
+Guide:Weapon playthroughs
+This means the page will walk you through a specific task, strategy, or enemy/boss fight.
+
+This guide provides playthrough guidelines for players limiting themselves to certain weapon types. Aside from the main damage types melee, ranged, magic, summon, and throwing, most weapons can be grouped in subtypes, like swords or bows.
+Contents
+
+1 Melee
+1.1 Swords
+1.2 Spears
+1.3 Flails
+1.4 Yoyos
+2 Ranged
+2.1 Bows
+2.2 Guns
+2.3 Launchers
+2.4 Dart-firing weapons
+3 Magic
+3.1 Magic guns
+4 Summon
+4.1 Minions only
+4.2 Whips only
+5 Other weapon types
+5.1 Pre-bosses
+5.2 King Slime and Eye of Cthulhu
+5.3 Goblin Army
+5.4 Eater of Worlds/Brain of Cthulhu
+5.5 Queen Bee
+5.6 Skeletron
+5.7 Wall of Flesh
+5.8 Hardmode
+6 References
+
+Melee
+Swords
+Swords
+Ash Wood SwordAsh Wood Sword
+Bat BatBat Bat
+BladetongueBladetongue
+Boreal Wood SwordBoreal Wood Sword
+Brand of the InfernoBrand of the Inferno
+Candy Cane SwordCandy Cane Sword
+Classy CaneClassy Cane
+Exotic ScimitarExotic Scimitar
+Fetid BaghnakhsFetid Baghnakhs
+Flying DragonFlying Dragon
+FlymealFlymeal
+GladiusGladius
+Ham BatHam Bat
+Influx WaverInflux Waver
+KatanaKatana
+Mandible BladeMandible Blade
+MeowmereMeowmere
+Orange PhasebladeOrange Phaseblade
+Orange PhasesaberOrange Phasesaber
+Palm Wood SwordPalm Wood Sword
+Psycho KnifePsycho Knife
+RulerRuler
+SeedlerSeedler
+Slap HandSlap Hand
+Star WrathStar Wrath
+Stylish ScissorsStylish Scissors
+Tentacle SpikeTentacle Spike
+Tragic UmbrellaTragic Umbrella
+Adamantite SwordAdamantite Sword
+Beam SwordBeam Sword
+Bee KeeperBee Keeper
+Blade of GrassBlade of Grass
+Bladed GloveBladed Glove
+Blood ButchererBlood Butcherer
+Blue PhasebladeBlue Phaseblade
+Blue PhasesaberBlue Phasesaber
+Bone SwordBone Sword
+Breaker BladeBreaker Blade
+Breathing ReedBreathing Reed
+Cactus SwordCactus Sword
+Chlorophyte ClaymoreChlorophyte Claymore
+Chlorophyte SaberChlorophyte Saber
+Christmas Tree SwordChristmas Tree Sword
+Cobalt SwordCobalt Sword
+Copper BroadswordCopper Broadsword
+Copper ShortswordCopper Shortsword
+CutlassCutlass
+Death SickleDeath Sickle
+Ebonwood SwordEbonwood Sword
+Enchanted SwordEnchanted Sword
+ExcaliburExcalibur
+Falcon BladeFalcon Blade
+FrostbrandFrostbrand
+Gold BroadswordGold Broadsword
+Gold ShortswordGold Shortsword
+Green PhasebladeGreen Phaseblade
+Green PhasesaberGreen Phasesaber
+Ice BladeIce Blade
+Ice SickleIce Sickle
+Iron BroadswordIron Broadsword
+Iron ShortswordIron Shortsword
+KeybrandKeybrand
+Lead BroadswordLead Broadsword
+Lead ShortswordLead Shortsword
+Light's BaneLight's Bane
+MuramasaMuramasa
+Mythril SwordMythril Sword
+Night's EdgeNight's Edge
+Orichalcum SwordOrichalcum Sword
+Palladium SwordPalladium Sword
+Pearlwood SwordPearlwood Sword
+Platinum BroadswordPlatinum Broadsword
+Platinum ShortswordPlatinum Shortsword
+Purple ClubberfishPurple Clubberfish
+Purple PhasebladePurple Phaseblade
+Purple PhasesaberPurple Phasesaber
+Red PhasebladeRed Phaseblade
+Red PhasesaberRed Phasesaber
+Rich Mahogany SwordRich Mahogany Sword
+Shadewood SwordShadewood Sword
+Silver BroadswordSilver Broadsword
+Silver ShortswordSilver Shortsword
+StarfuryStarfury
+Terra BladeTerra Blade
+The Horseman's BladeThe Horseman's Blade
+Tin BroadswordTin Broadsword
+Tin ShortswordTin Shortsword
+Titanium SwordTitanium Sword
+True ExcaliburTrue Excalibur
+True Night's EdgeTrue Night's Edge
+Tungsten BroadswordTungsten Broadsword
+Tungsten ShortswordTungsten Shortsword
+UmbrellaUmbrella
+VolcanoVolcano
+White PhasebladeWhite Phaseblade
+White PhasesaberWhite Phasesaber
+Wooden SwordWooden Sword
+Yellow PhasebladeYellow Phaseblade
+Yellow PhasesaberYellow Phasesaber
+Zombie ArmZombie Arm
+
+The sword is the most basic melee weapon of the game. They have the shortest range of all weapons of the game. However, as the game progresses, most swords can also shoot projectiles, which increases their overall range. There are 100 / 78 / 73 swords, 41 / 29 of which are Hardmode-exclusive.
+Pre-bosses
+
+The first weapon you start out with is a Copper Shortsword, which has short range and pitiful damage. Upon spawning, it's recommended you immediately craft a Wooden Sword, then quickly go to the Desert and make a Cactus Sword. This is a large weapon with decent damage. Alternatively, you can quickly venture into the Corruption or Crimson and chop down some trees to get an Ebonwood or Shadewood Sword, respectively. These are equivalent in power to Iron and Lead Broadsword and can be obtained quite easily and provide a great advantage at the beginning of the game.
+
+If it's Christmas, you can obtain the Candy Cane Sword, which is dropped from Presents and is quite powerful and has great range. If it is Halloween you can get the Bladed Glove as a rare drop from weak enemies, a fast and strong sword with good range and autoswing.
+
+At night, you have a 1/250 (0.4%) chance to get a Zombie Arm from a Zombie at night, which is equivalent in power to a Tungsten Broadsword but easier to obtain.
+
+If a Traveling Merchant spawns, there's a chance he'll have the Katana, a fast and powerful weapon with great range that can be purchased for 10.
+
+The Underground Ice Biome contains Underground Houses that have the possibility of containing an Ice Blade. Ice Blades have autoswing and shoot an icy bolt projectiles which can easily increase your power when you're exploring, and give off light for when you're out of torches. Similarly, in the Underground Desert, killing Antlions can give you a Mandible Blade which has a fast usetime and relatively high damage.
+
+Venturing 20% of the map width away from the world's center, it's possible to encounter an Enchanted Sword Shrine. There is a chance that the shrine will have a 1 block shaft leading down to the top of the cave. Breaking the background object in these shrines has a 49/50 (98%) chance to drop an Enchanted Sword – a very powerful weapon that is autoswing, shoots a projectile and deals an impressive 23 damage, and can carry you through most of pre-Hardmode. The Enchanted Sword is also an upgrade to the Ice Blade. Otherwise, there is a 1/50 (2%) chance it'll be a Terragrim. This deals 17 damage, but is incredibly fast and easily stun-locks most enemies. Combined with its DPS, it can effortlessly take you through most biomes in pre-Hardmode. However, its short range will require that you have higher defense to shield you from the additional hits you'll take.
+
+Before fighting any bosses, a player can smash a Shadow Orb or Crimson Heart. This gives a 50% chance that a Meteorite will crash, which gives access to Phaseblades, which deal a good amount of damage and are crafted with 15 Meteorite Bars (45 Meteorite) and 10 of any gem.
+
+If you obtained some Gravitation Potions and are brave enough to battle the versatile Harpies that spawn, you can explore Floating Islands. The chests on them have a 1/3 (33.33%) chance of containing the Starfury, a weapon which deals 25 damage on its own but also summons a star projectile that falls from the sky to the location of the mouse cursor, piercing enemies and dealing a 40 damage. Though it isn't autoswing, the Starfury makes it easier for melee players to battle both bosses and enemies, and can even be used to defeat the Wall of Flesh.
+
+If using a strong weapon without autoswing, the Feral Claws will give it autoswing and improve the attack rate of the blade itself (but not any projectiles). Once you've obtained either an Arkhalis/Terragrim, Enchanted Sword, Starfury, Ice Blade, or Katana, then you'll be ready to take on the bosses.
+King Slime and Eye of Cthulhu
+
+King Slime and the Eye of Cthulhu's fights can be difficult with a melee loadout, but swords with large range (like the Blade of Grass, Fiery Greatsword or Katana) and/or projectiles (like the Enchanted Sword or Ice Blade) can make the fight quite easy. Mobility is key, so having an arena with a long row or two of platforms or a mount like the Slimy Saddle (for the Eye of Cthulhu) will be useful, as well as Hooks.
+Eater of Worlds/Brain of Cthulhu
+
+After fighting the Eye of Cthulhu, you'll receive Demonite or Crimtane Ore, allowing you to craft a Light's Bane or Blood Butcherer. These are strong weapons in their own right and can later be used to craft the ultimate pre-Hardmode sword, the Night's Edge. Though the Light's Bane is much faster than the Blood Butcherer, it also deals less damage and has a smaller range.
+
+Despite their different attack styles, the Eater of Worlds and Brain of Cthulhu generally require the same strategies. Fast swinging swords with either large range (like the Blood Butcherer, Fiery Greatsword, or Phasesaber) or projectiles (like the Enchanted Sword or Ice Blade) will help stunlock the Eater of Worlds and will easily kill the Brain of Cthulhu's minions, the Creepers.
+Queen Bee and the Underground Jungle
+
+After your fight with the Eater of Worlds or Brain of Cthulhu, you will be able to craft the Shadow armor or Crimson armor, which both of which benefit melee users. The Shadow armor provides 19 defense alongside 21% increased melee speed and a set bonus of 15% increased movement speed. Meanwhile, Crimson armor provides 6% increased damage and a set bonus of greatly increase life regeneration.
+
+Due to the increased risk of taking damage when using swords in an Expert Mode or Master Mode world, using the Worm Scarf or Brain of Confusion dropped by these bosses is recommended.
+
+The next step is the Underground Jungle. You're going to have three major goals here. First, you'll want to obtain 12 Jungle Spores and 12 Stingers (the latter of which dropped from Hornets and Spiked Jungle Slimes). These can be combined to create a Blade of Grass, which deals a powerful 18 damage and has a 25% chance of inflicting the Poisoned debuff on hit enemies.
+
+The Blade of Grass can also be used for the Queen Bee fight as it has both a big range and can inflict Poisoned on the Queen Bee (who, strangely, isn't immune to the debuff ()). More importantly, however, it is one of the four swords that's combined to craft the Night's Edge. Additionally, Jungle Shrines and Living Mahogany Trees will always have an Ivy Chest. These have a 22.5% chance of having the Feral Claws, which increases your melee speed by 12% and will later be used to craft the Power Glove, and eventually the Fire Gauntlet in Hardmode.
+
+The boss of this area is Queen Bee. When she's doing her dashing attack, you'll want to avoid her as she can deal heavy damage. When she is hovering and spawning Bees, you'll want to be right under or next to her. Continue swinging your sword in order to both deal damage and kill the bees she spawns. You'll want a sword that autoswings (or Feral Claws so you aren't attacked by bees. The Queen Bee will often also hover and shoot stingers at the player. In this case, you'll want a sword that has a large range (such as the Blade of Grass or Fiery Greatsword) or has a projectile attack (such as the Enchanted Sword). Using a Bezoar or dipping yourself in Honey can help with her poisonous attacks.
+
+The Queen Bee will have a 1/3 (33.33%) chance of dropping the Bee Keeper, an autoswing sword that deals 30 damage, has a 90% chance of inflicting the Confused debuff on an enemy it hits, and will spawn friendly bees to fight for you. In Expert Mode, the Queen Bee will have dropped the Hive Pack. This is an accessory that increases the damage, knockback, piercing, quantity, and size of the friendly Bees spawned from the Bee Keeper and other bee-related weapons. It can be very useful and can easily allow massive swarms of bees to collect, dealing high damage to enemies.
+Skeletron and the Dungeon
+
+If you haven't already ventured to the Underworld and obtained Molten armor and the Fiery Greatsword, then it's recommended you do that to prepare yourself for the Dungeon. It's also recommended you break the Pots you find there, as these often contain very useful buff potions and Healing Potions.
+
+It is also a good idea to build a house for the Witch Doctor, to provide access to flasks which can increase your dps significantly.
+
+One of the best swords against Skeletron is the Starfury, whose projectile does double the damge of the sword. The Fiery Greatsword and Bee Keeper are riskier alternatives that require you to get close.
+Wall of Flesh
+
+With Skeletron gone, you can enter the Dungeon to get the Muramasa. This is the last weapon needed for crafting the Night's Edge (the other materials being the Blood Butcherer/Light's Bane, Blade of Grass, and Fiery Greatsword).
+
+Two strategies for defeating the Wall of Flesh are:
+
+Using the Night's Edge on a long bridge to attack the wall directly, either killing off the Hungries (in Normal mode) or using the Bone Glove and minions to protect you (in Expert Mode or Master Mode).
+Using the Starfury to attack the eye from behind with the projectile. The sword itself will attack the Hungries and leeches.
+
+Early Hardmode/pre-mechanical bosses
+
+The swords craftable from Hardmode ores are much weaker than other swords at this stage, as is the Breaker Blade, since none of them have projectiles. Better alternatives include the Bladetongue (fishable in a Crimson world), the Ice Sickle (dropped by enemies in the Hardmode Ice biome), the Fetid Baghnakhs (dropped by Crimson Mimics), and Frostbrand (dropped by Ice Mimics).
+Mechanical bosses and Queen Slime
+
+The Ice Sickle is a good choice for all of the mechanical bosses, especially The Destroyer and other worm-like bosses. Using a long, flat arena (or a skybox if you can estimate his maximum height well), spam the Ice Sickle's projectiles onto The Destroyer, keeping an eye out for the head on the minimap and dodging when it appears. Mobility accessories such as the Amphibian Boots and Wings are necessary here.
+
+Similarly, the Ice Sickle is also effective against Skeletron Prime and The Twins, especially for Spazmatism, while Frostbrand can be better against Retinazer.
+
+The ice-based weapons are also effective, if slow, against Queen Slime.
+Plantera
+
+This is a difficult boss that requires careful preparation, especially having a large arena for the first stage and a long tunnel for the second.
+
+The True Excalibur or True Night's Edge are strong choices against Plantera, depending on whether it's easier for you to find extra chlorophyte or extra souls. The Terra Blade is a strong sword for this portion of the game. With enough careful preparation, Plantera can also be face-tanked by the Fetid Baghnakhs.
+
+If a Solar Eclipse spawns before the fight, the Death Sickle is a particularly good sword to use in this fight, as Plantera is slow moving and the sickles can even hit her when she is moving through a wall.
+Golem
+
+The Terra Blade and Seedler can damage all portions of the boss at once, and the Death Sickle can attack through protective walls. For bold players, the Keybrand or Psycho Knife can do intense damage but at high risk to yourself.
+Pumpkin Moon, Frost Moon, Martian Madness and Old One's Army events
+
+The Terra Blade is excellent against early stages in all of these events. Against bosses, Seedler is especially effective as it also damages other enemies around the boss, but the Terra Blade is also effective. Once obtained, the Influx Waver, Flying Dragon and Christmas Tree Sword are effective against the other events.
+Duke Fishron and Empress of Light
+
+The best swords available for these fights are the Terra Blade, Seedler, Influx Waver, or Flying Dragon. In Expert Mode or Master Mode, using the Witch's Broom for flight can free up room for more melee accessories.
+
+The Empress of Light drops Starlight, a very powerful sword that is somewhat risky to use.
+Lunatic Cultist/Lunar Events
+
+Starlight or Flying Dragon can quickly finish off the Lunatic Cultist.
+
+Against the Celestial Pillars, the Christmas Tree Sword can cover the screen in projectiles (which can inflict Ichor or Venom when using Flasks) and cannot be reflected by Selenians. Otherwise, the Influx Waver, Terra Blade or Flying Dragon are strong weapons, but can be reflected by the Selenian.
+Moon Lord
+
+Swords are not the strongest weapons at this stage. The Flying Dragon and Terra Blade can, if positioned correctly, attack multiple eyes at once, while the Influx Waver is a powerful alternative.
+Spears
+Spears
+Ghastly GlaiveGhastly Glaive
+Storm SpearStorm Spear
+Adamantite GlaiveAdamantite Glaive
+Chlorophyte PartisanChlorophyte Partisan
+Cobalt NaginataCobalt Naginata
+Dark LanceDark Lance
+GungnirGungnir
+Mushroom SpearMushroom Spear
+Mythril HalberdMythril Halberd
+North PoleNorth Pole
+Obsidian SwordfishObsidian Swordfish
+Orichalcum HalberdOrichalcum Halberd
+Palladium PikePalladium Pike
+SpearSpear
+SwordfishSwordfish
+The Rotted ForkThe Rotted Fork
+Titanium TridentTitanium Trident
+TridentTrident
+
+Spears are relatively versatile weapons, which are used in a stabbing motion rather than swung like swords. Spears have piercing ability, but lack range at times, and although they look like it, they cannot hit enemies through blocks, with two exceptions; the Mushroom Spear’s and Chlorophyte Partisan's sprites cannot hit through blocks, but the spores/mushrooms they create can.
+
+There are 16 different Spears, 5 of which are Pre-Hardmode, 11 are Hardmode. Note that one of them, the Tonbogiri, is Old-gen console version Old-gen console version and Nintendo Nintendo 3DS version version-exclusive.
+Pre-bosses
+
+The ordinary Spear is the first available spear. It can be found in a Wooden chest. Its high knockback and piercing ability makes it an excellent weapon early-game, especially for fighting off Zombies, but lacks a bit of damage.
+
+On a Crimson world, players can access the The Rotted Fork by opening Crimson Hearts. If you don't fancy going into the Crimson, the Trident, found in Water Chests is a fine alternative.
+
+In Desktop version Desktop version, Console version Console version, and Mobile version Mobile version, the Storm Spear, found in the Underground Desert, has a projectile with very good range for an early melee weapon (and the projectile does 125% of the Spear's damage). This improves early survivability and is useful for bosses.
+King Slime and Eye of Cthulhu
+
+Little is required for King Slime and the Eye of Cthulhu fights except range, and that can pose a problem. It's better to dodge the bosses' attacks given the gear you have right now, than to tank it all. Recommended weapons include Trident, The Rotted Fork, Storm Spear, or the Swordfish.
+
+The safest option is the Storm Spear, especially when attacking from long platforms.
+Eater of Worlds/Brain of Cthulhu
+
+Strong options against these bosses include the Swordfish (a fishable spear with short range), or the safer Storm Spear. Since spears have low base damage and these bosses have high defense, a Shark Tooth Necklace is an excellent addition, as well as Thorns Potion, since you'll likely experience some contact damage.
+Skeletron
+
+This fight requires high mobility, as Skeletron's hands move rapidly and hit hard. The spinning head, especially in Expert mode, is very dangerous without good armor. The Swordfish is a high-damage spear that, although it lacks range, makes up for it in DPS. The Storm Spear has low DPS but can finish the fight safely in Master Mode.
+Queen Bee
+
+This is a difficult fight due to Queen Bee's high defense. The higher base damage you can get, the better, making the Dark Lance perhaps the best option. The Feral Claws, found in the Underground Jungle, will be useful for the rest of the game.
+Wall of Flesh
+
+This fight is incredibly difficult in Expert Mode and Master Mode, where Hungries spawn continually. Two items from the Dungeon will help. The first is the Bone Glove, which adds a projectile to your attack and helps with the Hungries. The second is the Shadow Key which can help get the Dark Lance, the most powerful Pre-Hardmode spear.
+
+Molten armor can prove to be very helpful, with the damage increase and defense boost.
+
+In Master Mode a spear fight is extremely hard, but just barely doable, and if you equip the Bone Glove it may end up doing most of the damage.
+Pre-mechanical bosses/early Hardmode
+
+Getting better weapons is easier in Hardmode because you can craft the ore spears. When you begin Hardmode, you'll probably spend most of your time on mining the Hardmode ores, so you can get the spears and armor.
+
+Once you have defeated the Wall of Flesh, you can immediately fish (if you have a Lavaproof Bug Net or similar item) for the Obsidian Swordfish), which has incredible damage but almost no reach. It will aid in fighting off enemies during exploration.
+
+Consider getting Titanium armor, for its Titanium Barrier effect (or its Shadow Dodge effect) which will help with enemies that slip past your reach. The Titanium Trident is a very powerful spear that can be easily obtained. It's enormous and its knockback is ferocious, making it a very powerful weapon to have. If you don't have Titanium, Frost armor with an Adamantite Glaive will work as well.
+Mechanical bosses and Queen Slime
+
+Against The Destroyer, The Titanium Trident is perhaps the safest spear available, while the Obsidian Swordfish is much faster albeit riskier. Since spears are effective against worm bosses, this will likely be the first mechanical boss you defeat.
+
+Once a mechanical boss is defeated, you have access to three new spears: Gungnir, a standard spear but with high damage and low use time; the Ghastly Glaive, a short spear that is difficult to use against bosses; and the Mushroom Spear, an excellent weapon that leaves a trail of mushrooms behind it.
+
+The Mushroom Spear with a Flask of Ichor is especially effective against the Twins when running away from them, and can easily defeat Skeletron Prime as well. Similarly, it is stronger against Queen Slime than other available spears.
+Plantera and Golem
+
+The Chlorophyte Partisan is a "sidegrade" to the Mushroom Spear, with lower attack but better range and almost double the attack speed.
+
+Alternatively, you can get a Tonbogiri, a very powerful spear worthy late game.
+
+The Chlorophyte Partisan should make quick work of Plantera if you have a spacious arena for the first phase and a long, narrow tunnel for the second.
+
+It is also effective against Golem.
+Pumpkin Moon and Frost Moon
+
+In Expert Mode, Pumpkin Moon can provide you with the Witch's Broom, which will make other events easier. The Frost Moon holds the North Pole, a very useful and powerful weapon to use Post-Golem. It is dropped by the Ice Queen.
+Duke Fishron and Empress of Light
+
+Both of these fights are fairly difficult with spears. Duke Fishron can be defeated even with just the Mushroom Spear on Master Mode. No spears are very effective against the Empress of Light, although both the Chlorophyte Partisan and North Pole can finish the job in roughly the same time.
+Old One's Army, Lunatic Cultist, and Lunar Events
+
+The North Pole is excellent for all of these fights. There is a projectile cap which, when exceeded, decreases the damage done by the snowflakes and eventually stops producing, so aim low. In the Old One's Army, the North Pole can defeat Betsy even in Master Mode, if you are able to farm enough medals for good armor.
+Moon Lord
+
+No spear is especially strong against the Moon Lord. It is possible to defeat him with the North Pole on Expert Mode, although many consider using the Daybreak weapon acceptable, as it is not part of any other weapon playthrough and strongly resembles the North Pole in sending a spear projectile out each use. With the Daybreak, the fight is fairly easy.
+Flails
+Flails
+Chain GuillotinesChain Guillotines
+Drippler CripplerDrippler Crippler
+Flaming MaceFlaming Mace
+MaceMace
+AnchorAnchor
+Ball O' HurtBall O' Hurt
+Blue MoonBlue Moon
+Chain KnifeChain Knife
+Dao of PowDao of Pow
+FlaironFlairon
+Flower PowFlower Pow
+Golem FistGolem Fist
+KO CannonKO Cannon
+SunfurySunfury
+The MeatballThe Meatball
+
+There are currently 15 different types of Flails, 7 of which are Pre-Hardmode, 8 of which are Hardmode. Flails are exceptional, excellent weapons that are thrown, piercing and high-damaging. There are two types of Flails; thrown and launched. Thrown Flails are affected by gravity, but can be thrown, spun around the player, and can be kept out on the ground as a trap. What they lack in accuracy, they make up for their piercing ability and controllability. Launched Flails aren't affected by gravity, but retract when the flail hits an enemy, or it reaches its maximum range. What they lack in range, they make up for their speed and autofire, with the Chain Knife being the only one without autofire of any kind.
+Pre-bosses
+
+The easiest flail you can get is the Mace, which is found in Underground Chests. You can also upgrade it immediately with 99 Torches, to make a Flaming Mace, which has a chance to give enemies the On Fire! debuff. Once obtained, you can try farming for the Chain Knife, a launched flail which will be very useful when enemies are closer to you, and is also a bit easier to aim with since it isn't affected by gravity.
+
+Another suggestion is to break two Shadow Orbs in a Corruption world to possibly get a Ball O' Hurt, an excellent weapon that will help all the way to the Dungeon.
+King Slime
+
+Fighting the King Slime is best done using the Ball O' Hurt, but if you are in a Crimson world, you should use the Chain Knife as it is the next best option. If none of the options are available for you to use, then use the Flaming Mace. It is only a bit worse than the Chain Knife as it is a bit more risky, but more rewarding when you hit your shots. Once defeated, if you don't already have some decent armor try fighting them again so you can get the full Ninja armor as it provides additional movement speed, along with some critical strike chance which can be helpful to deal additional damage and increase your chances of getting that boost in damage.
+Eye of Cthulhu
+
+Fighting the Eye of Cthulhu will be a little tedious if you don't have a Chain Knife. The Flaming Mace will work regardless, although it will take a while. However, if you have the Chain Knife you'll be able to do tons of damage up-close. Not to mention that you can get in from virtually all angles, including throwing the knife behind you as you run. Hermes Boots are a recommended choice, especially for expert mode. If you have a Corruption world, and got the Ball O' Hurt as previously mentioned, this fight should go a bit smoother.
+Eater of Worlds/Brain of Cthulhu
+
+After beating the Eye of Cthulhu, you should fight the world's evil boss (Eater of Worlds/Brain of Cthulhu). The Eater of Worlds can be easily dealt with by making 2-3 long platforms and using the Ball O' Hurt. Easily dispatch of the segments by throwing the flail and holding the mouse button, allowing the flail head to stay out, allowing you to catch the boss while its going up. Your best bet at getting the most amount of damage while its out is throwing the flail down the way the Eater is going, which will allow you to hit many of its segments speeding up the process to kill the boss.
+
+However, against the Brain of Cthulhu, you won't have access to the Ball O' Hurt, so your next best choice is to attempt fighting the Brain using a Flaming Mace, which will work well as you can swing it around you to protect yourself from the Creepers, and since flails have infinite pierce it will be easy to keep the Creepers back. If you fail the fight, you can try using the Crimtane and Tissue Samples to make The Meatball, which is the Ball O' Hurt equivalent in Crimson worlds and even has some slightly improved stats over the Corruption variant. This will allow you to easily beat the Brain much faster and with less effort with the improved stats of The Meatball.
+Goblin Army
+
+There isn't much to worry about other than the Goblin Archers as they will be a nuisance that you'll need to focus on, dodging as necessary. Goblin Sorcerers can easily be taken care of as spinning your flail around you will nullify their projectiles.
+Skeletron
+
+Once you've defeated the Eater of Worlds/Brain of Cthulhu, you should use the armor from the Demonite/Crimtane in order to make their respective variants, as they provide extra defense regardless of their bonuses. Shadow armor provides extra melee speed (which, strangely, gives Flails more reach instead of making them attack faster), and even a bit of extra movement speed, while Crimson armor provides a bit of extra damage and increased regeneration.
+
+Afterwards, go to the dungeon and fight Skeletron. Mobility accessories will be your best friend during this fight, so be sure that you have Hermes Boots or some other variation/upgrade of them, along with a Cloud in a Bottle or any of the other variations/upgrades of them.
+
+Your best bet is to simply dodge during the phase where Skeletron is more calm and smacks you with his hands. Focusing on them is the best idea during this phase when you have the chance, as in Expert Mode this will lower his defense a good bit. In fact, using the Chain Knife isn't a bad idea for attacking their hands as they have a decent range and are easier to aim with, meaning you can hit your shots a bit more often, but this will deal a considerably lower amount of damage than your current flails.
+
+While Skeletron is spinning, you should focus on the head if at least one of the hands are gone, as flails will lag behind with Skeletron while running backwards, which means your flail will hit them a ton of times, dealing a ton of damage. If at least one of the hands aren't taken care of though, try your best to focus on them more. Knowing when to switch gears from dodging his hands to running from his head is best in this fight.
+
+If you're still having a lot of trouble with this fight, it is advised that you go to The Underworld and get Molten armor, as it provides the most defense of any pre-Hardmode gear and grants a 17% boost in melee damage as its set bonus.
+Queen Bee
+
+After Skeletron has been defeated, go into the Dungeon and acquire the Blue Moon, as it will be a fantastic upgrade to obtain, and will be useful for exploring the Underworld. If you haven't already, get Molten armor. Your next goal is to get the Sunfury, a fantastic thrown flail that deals massive damage, and even sets things on fire occasionally.
+
+While Queen Bee is not necessary for obtaining a flail, she allows access to flasks through the Witch Doctor NPC. Giving yourself lots of space and using an Inferno Potion to kill the bees she releases will help.
+Wall of Flesh
+
+Your best bet is to make a hellbridge, a long platform stretching across the entirety of the underworld, and to stay as close as you can without putting yourself in a lot of danger. While difficult, it is one of the faster ways to kill the Wall of Flesh, especially when aided by minions such as the Vampire Frog Staff.
+Pre-mechanical bosses
+
+First, travel to the desert and farm the materials for a Dao of Pow, creating your own Hallowed Desert or evil desert as needed. This will be tough, but it is the only way to get a good weapon for the mechanical bosses. If you are on the Desktop version Desktop version, Console version Console version, and Mobile version Mobile version, use the flail you just got to farm a blood moon until you have a Drippler Crippler.
+Mechanical bosses and Queen Slime
+
+Skeletron Prime is slow and does mediocre damage. Stay close to his limbs when you are destroying them, as flails don’t have much range, unless you are using the Drippler Crippler. Once you have severed off two of Skeletron Prime's limbs, assault the head, but be careful of his spin attack, as it is extremely deadly to close range players. If you need additional range, adding melee speed-boosting accessories and armor actually increases flail length instead of making the attacks faster.
+
+Queen Slime's fight is fairly similar to Skeletron Prime's, although she benefits from moving away in one direction.
+
+The Destroyer is particularly vulnerable to dropping a flail head to do continuous damage. He has a lot of health, but his weakness is piercing weapons. Take out the probes as soon as you can, because they stack up in numbers and deal a lot of damage. Try to hit him where you can get a lot of segments, but be careful not to get hit head on.
+
+The most difficult mechanical bosses are The Twins, they dash a lot and are fast, so hitting them will be hard. Spazmatism will be almost impossible to hit in his second phase, so take him out first and attack him as much as you can while he is dashing. Again, the Drippler Crippler can help get some range. Alternatively, the Chain Guillotines have some good reach, especially if firing behind you.
+Plantera
+
+Before Plantera you can get Chlorophyte, Turtle, Monk or Squire armor sets, which will help with survivability, and you can get the Fire Gauntlet, which will help with damage. Make sure to circle Plantera and keep launching your flail. Plantera drops the Flower Pow, a powerful flail that has a semi-homing ranged attack.
+Post-Plantera
+
+Before doing anything, farm Plantera for a Flower Pow if you haven't already obtained it. After that, you have 2 options. Golem, or Duke Fishron. Golem drops the Golem Fist, and allows you to get Beetle armor, while Duke Fishron drops the Flairon, arguably the strongest flail in the game, depending on if you count the Solar Eruption as a flail or not.
+
+Flairon is useful against all invasion events (including Old One's Army) as well as the Empress of Light.
+Pre-Moon Lord
+
+After Golem and Duke Fishron, you should have the Flairon and top-level melee armor (such as Beetle armor, Valhalla Knight armor, Shinobi Infiltrator armor or a combination of armor pieces). You can then fight the Lunatic Cultist. Once you've defeated the pillars, you could make the Solar Eruption if you think it should be classified as a flail. After that, you should prepare for the Moon Lord.
+Yoyos
+Yoyos
+AmarokAmarok
+AmazonAmazon
+ArteryArtery
+CascadeCascade
+ChikChik
+Code 1Code 1
+Code 2Code 2
+Format:CFormat:C
+GradientGradient
+Hel-FireHel-Fire
+Hive-FiveHive-Five
+KrakenKraken
+MalaiseMalaise
+RallyRally
+Red's ThrowRed's Throw
+TerrarianTerrarian
+The Eye of CthulhuThe Eye of Cthulhu
+Valkyrie YoyoValkyrie Yoyo
+ValorValor
+Wooden YoyoWooden Yoyo
+YeletsYelets
+
+There are 21 different types of yoyos in the game, 9 of which are from pre-Hardmode, 12 in Hardmode. As their name suggests, yoyos are "thrown" melee weapons that deal damage a small distance away from the player. Unlike beam swords, their range is limited.
+
+Due to difficulties with some bosses (such as the Wall of Flesh), completing this challenge on higher difficulty levels may be unlikely. It has been done, however.
+Pre-bosses
+
+Few yoyos are available before any boss has been defeated, but it is possible to go into the Underground Jungle and get enough materials to craft the Amazon, a powerful yoyo that can be crafted with a few jungle items easily found.
+
+If going into the jungle is too difficult, it's best if you stick to a Wooden Yoyo, find heart crystals to increase life, and mine for ore to make armor. While mining, keep an eye out for Giant Shellies, Crawdads and Salamanders, which have a small chance to drop Rally.
+King Slime and Eye of Cthulhu
+
+If you have the Amazon, these fights should be no problem, as long as you have some kind of mobility aids (such as a mount, platforms, Hermes Boots, hooks, etc.)
+
+However, if you stuck to the wooden yoyo, keep in mind that it doesn't do much damage, especially since the defense of these bosses can negate half of the wooden yoyo's damage, so the fight could be a bit tedious. A Shark Tooth Necklace will increase damage significantly. Alternatively, since crafting wooden yoyos is so cheap, you can keep making them until you get a Godly or Demonic modifier.
+Eater of Worlds/Brain of Cthulhu
+
+If you just defeated the Eye with the Wooden Yoyo, it's time to switch that with something more powerful. In a Corruption world, take your Demonite Ore and then craft the Malaise using Bars, or in a Crimson world, use your Crimtane Ore and then make an Artery using the Bars. These are both nice upgrades to get before fighting the Eater of Worlds or the Brain of Cthulhu.
+
+If you defeated the Eye of Cthulhu with the Amazon, you can continue on and defeat the Eater of Worlds or Brain of Cthulhu. Alternatively, the Traveling Merchant can sell the Code 1, a slightly better yoyo than the Amazon.
+Eater of Worlds
+
+Without a piercing weapon, the Eow is not as efficient to kill, so focus on damaging segments when the Eow is arching. When head areas are low, hack them off with your Yoyo.
+
+An arena is advisable. Campfires can help and always remember, especially in Expert mode, that the head does the most damage of all the worm's segments.
+Brain of Cthulhu
+
+Your Yoyo should make killing Creepers easy, as the Yoyo gets knocked around, damaging more Creepers at a time. As the Brain gets into second form, focus on predicting the Brain's movements.
+
+The central cavern of the chasm makes a pretty good arena, once make some improvements. Just wall off the tunnels, install some platforms, and place conveniences like a campfire and bed. An arena of some sort is a good idea, as the Creepers are easier to hit as long as you can move around the arena, and the Brain is easier to dodge.
+Skeletron and Queen Bee
+
+At this point, you may wish to boost your Yoyo with a couple of accessories: White String, (which can be crafted at a loom with cobwebs), will increase your range, and counterweights double your attack. A variety of counterweights can be bought from the Skeleton Merchant and/or Traveling Merchant. Later (in Hardmode), the Skeleton merchant will sell you the Yoyo Glove, and you can combine the three items into a Yoyo Bag.
+
+If you haven't already crafted it, the Amazon is a crucial upgrade, proving necessary to destroy Skeletron with.
+
+After defeating the Eater of Worlds/Brain of Cthulhu, you should make Shadow/Crimtane armor for their melee benefits. These armor will prove lifesaving in later situations.
+
+Defeating Skeletron gives access to the Dungeon, which holds the Valor, the second-strongest yoyo in pre-Hardmode. Defeating Queen Bee gives access to Flasks, which become more powerful in Hardmode.
+Wall of Flesh
+
+In The Underworld, enemies drop the Cascade. It does lots of damage, as well as giving the On Fire! debuff.
+
+Molten armor provides the most damage at this point. Shadow armor's melee speed increases don't increase DPS but lengthen your yoyo's string (Corruption only), and Crimtane armor improves life regeneration and damage (Crimson only).
+
+In Normal mode, focus on defeating the Hungries first and then attacking the eye. In higher difficulty levels, yoyos struggle significantly with this fight. It is possible even in Master Mode, but only with extreme tactics such as Nurse cheesing, and even then it is incredibly hard.
+Pre-mechanical bosses/early Hardmode
+
+A good start would be to farm more monsters in the underworld, so you can get a Hel-Fire, a great yoyo to get. A quicker (higher drop rate) and slightly stronger alternative is the Amarok, a similar yoyo found in the ice biome. If you can't find either one, collect a few Crystal Shards from the Hallow, salvage the dinky Wooden Yoyo you put away before, and craft a Chik, a nice damaging yoyo.
+
+While mining for stronger armor, find the Skeleton Merchant to buy your Yoyo Glove and make a Yoyo Bag. If you don't like grinding for Yoyos, he can sell you a couple of decent ones as well, namely Format C and Gradient.
+Queen Slime
+
+Yoyos actually work quite well against Queen Slime, as long as during the first stage you continually move to keep out of the way of the slimes she spawns. As she is not immune to most debuffs, using Frost armor or Flasks can speed up the fight and improve damage against the slimes she spawns.
+Mechanical bosses
+
+In preparation of destroying some Mechanical bosses, get some good armor, good mobility and a Yoyo Bag to take down these bosses quicker. Flasks will help all fights except for The Destroyer, who is immune to debuffs.
+The Destroyer
+
+You can use the same strategy for defeating the Eater of Worlds, but since the whole destroyer shares one bar of health, hit anywhere you please. A high arena will help, but not so high you can't reach the Destroyer itself.
+
+Probes could serve a problem without a Yoyo Bag. One Yoyo isn't good enough to take down several probes.
+The Twins
+
+Treat them like two powerful Eyes of Cthulhu, one that shoots lasers (keep distance) and one that spits cursed fire (dodge well).
+
+Spazmatism's second form's "flamethrower" can be a big problem, since it punishes you for staying in range. Your options include only attacking when he 'charges', or to get a longer string for attacking. This can be done by farming for a Yelets in the Jungle after defeating another mechanical boss, or buying the Code 2 which becomes available at the same time, or repeatedly killing The Destroyer to obtain Red's Throw or the Valkyrie Yoyo. Alternatively, you can maximize your melee speed, since for yoyos melee speed increases string length.
+Skeletron Prime
+
+Skeleton Prime is relatively hard without range, and the Yoyo is no exception. Always stay center to Prime, so you can hit his head more than his limbs. If the limbs become a nuisance, remove them, but at the cost of time.
+Plantera
+
+Before you fight Plantera, obtaining a Yelets or Code 2 is really helpful, and if you're in Expert mode, Red's Throw and Valkyrie Yoyo are sweet deals as well. Use Chlorophyte, Turtle armor, or Hallowed armor.
+
+When fighting Plantera, make a large arena for the first phase and a long tunnel for the second. Yoyos are very strong at this stage, and this should be a comparatively easy fight.
+Golem
+
+After defeating Plantera, you now have access to two better Yoyos; the Kraken, found in the Dungeon, and The Eye of Cthulhu, dropped in a Solar Eclipse by Mothron. The Eye of Cthulhu is the more damaging Yoyo, doing 115 base damage, however the Kraken has more knockback.
+
+When fighting the Golem, you can get close to him, but only when he's not jumping. Always maintain good mobility, as the Golem's attacks are unpredictable and quick. In his first stage, use regeneration and wrath/rage potions to tank down the Golem fast.
+Invasion events and optional bosses
+
+All of the moon events and the optional bosses Duke Fishron and Empress of Light feature quickly-moving aerial battles. The Eye of Cthulhu is the best weapon for these fights, and maximizing string length through melee speed is helpful. Most of the fights will require learning the enemies' patterns to enable you to stay close and dodge their worst attacks.
+
+While risky, yoyos are rewarding in these fights, and in testing The Eye of Cthulhu was actually faster than any pre-Lunar Events melee weapon at killing the Empress of Light.
+Moon Lord/endgame
+
+After Golem is defeated, the Beetle Armor set, Valhalla Knight armor or Shinobi Infiltrator armor will prove useful to fight the Moon Lord with. Before you do, reforge all your accessories and Yoyos to damage or crit modifiers, as they will make quick work of the Moon Lord.
+
+The Moon Lord drops the Terrarian, the strongest yoyo and the only one with a different attack pattern, sending homing projectiles out as it attacks.
+Ranged
+Bows
+Bows
+Aerial BaneAerial Bane
+Ash Wood BowAsh Wood Bow
+Blood Rain BowBlood Rain Bow
+Boreal Wood BowBoreal Wood Bow
+Daedalus StormbowDaedalus Stormbow
+EventideEventide
+Hellwing BowHellwing Bow
+Palm Wood BowPalm Wood Bow
+PhantasmPhantasm
+Phantom PhoenixPhantom Phoenix
+Pulse BowPulse Bow
+Shadowflame BowShadowflame Bow
+The Bee's KneesThe Bee's Knees
+Copper BowCopper Bow
+Demon BowDemon Bow
+Ebonwood BowEbonwood Bow
+Gold BowGold Bow
+Ice BowIce Bow
+Iron BowIron Bow
+Lead BowLead Bow
+MarrowMarrow
+Molten FuryMolten Fury
+Pearlwood BowPearlwood Bow
+Platinum BowPlatinum Bow
+Rich Mahogany BowRich Mahogany Bow
+Shadewood BowShadewood Bow
+Silver BowSilver Bow
+Tendon BowTendon Bow
+Tin BowTin Bow
+TsunamiTsunami
+Tungsten BowTungsten Bow
+Wooden BowWooden Bow
+
+Bows are the earliest type of ranged weapon that the player can obtain. They have the slowest projectiles, requiring players to aim, but have the most variety, with both bows and arrows having special effects that become very powerful when combined.
+Pre-bosses
+
+The Wooden Bow is the first type of bow one may acquire, and a pretty solid option both for surface and underground exploration. It can be almost immediately upgraded to a Boreal Wood bow from the Snow biome or a Palm Wood Bow from an Oasis, or, even better, a Shadewood Bow or Ebonwood Bow from quickly chopping down trees in an evil biome. A bomb or two can take down trees quickly if you struggle to fight off enemies while harvesting.
+
+Crafting Wooden Arrows is cheap, and it is recommended to upgrade at least few hundreds of wooden arrows into Frostburn ones as soon as you have collected enough gel to create a couple stacks of torches and some ice. Frostburn arrows substantially increase your damage output, and are better saved for EOC and Skeletron. Upgrade to a Silver Bow or Gold Bow as a first priority, as it increases both damage and firing rate.
+
+Playing ranged doesn't require as much armor compared to melee, so you can delay armor upgrade, sticking to cactus or low-tier ore equipment set for quite a bit longer.
+King Slime and Eye of Cthulhu
+
+For both of these fights, don't forget to switch to Frostburn arrows, by adjusting order in your ammo tray. Ammo in top cell is used first, and all ammo tray ammunition is always used before ammunition from the main inventory. Take into consideration that pre-hardmode bows with basic arrows are affected by gravity, thus forcing you to adjust your aim accordingly. Jester's Arrows fly straighter but are more difficult to craft.
+
+As soon as you kill the Eye of Cthulhu you gain access to Demon and Tendon bows, a substantial upgrade to ore bows. Note that crimson variant has slower fire rate, but provides more damage per shot, making it a better option vs armored opponents.
+Eater of Worlds/Brain of Cthulhu
+
+Before getting these fights, make sure to collect a couple dozens of stars – they can be used to craft Jester's Arrows, which is one of the two types of piercing arrows obtainable pre-hardmode. Using Jester's arrows makes fighting both these bosses considerably easier. Note, however, that these arrows, while having almost no arc, disappear into thin air after a fixed amount of time after being shot, so you can neither collect them afterwards, nor consistently hit the enemy off-screen.
+
+An alternative is the Blood Rain Bow, which causes streams of blood to fall from the top of the screen. This may require clearing out a larger arena.
+Queen Bee and Skeletron
+
+Queen Bee has high defense (in Expert Mode and Master Mode) and releases bees. These issues can be overcome by using the strongest bows available (Tendon Bow, Demon Bow, or, if you are struggling, the Molten Fury bow obtainable from The Underworld), and by using minions, sentries, or a melee weapon to defeat the bees.
+
+She drops The Bee's Knees, one of the strongest pre-hardmode bows, especially when used with the Hive Pack she drops on higher difficulty levels.
+
+The Bee's Knees is an excellent choice against Skeletron, shortening the fight significantly. Inside the Dungeon, after defeating Skeletron, you can find materials for crafting Necro armor, as well as the Shadow Key, useful for obtaining the Hellwing Bow from Shadow Chests).
+Wall of Flesh
+
+Once you get to the Underworld, Hellfire Arrows become available, being one of the best bow ammunition, proving to be very useful all the way through the game's content. Hellfire arrow's explosion doesn't hurt the player and provides a lot of knockback.
+
+Against the Wall of Flesh, the Bee's Knees is not only the best bow available, but one of the best weapons of any type available when used with the Hive Pack and assisted by minions. Molten Fury with Jester's Arrows or the Hellwing Bow with wooden arrows come after it in that order.
+Hardmode
+
+Finding the Wizard will enable you to craft the Endless Quiver. Defeating Skeleton Archers will give you the Magic Quiver, which increases speed and damage. Frost armor gives the Frostburn effect to all of your arrows and provide high defense.
+
+Three bows drop from Hardmode enemies: the Ice Bow, Marrow, and the Shadowflame Bow. Each of these is best used with the Endless Quiver, as they convert all arrows into a special type.
+
+It may be easier to craft Repeaters, which auto-fire and are simply made from easily obtainable ores.
+
+It is now possible to craft hardmode arrows, including Cursed Arrows and Ichor Arrows (which have high base damage, fly straighter and inflict debuffs) and the powerful Holy Arrows, which spawn two stars on each hit that do significant damage (although this has been reduced in the Desktop version Desktop version, Console version Console version, and Mobile version Mobile version).
+
+Finally, one of the strongest bows in the game, the Daedalus Stormbow, can be found by defeating Hallowed Mimics. These mimics can be found naturally in the Underground Hallow or summoned by placing a Key of Light into an empty chest.
+Queen Slime and mechanical bosses
+
+The Daedalus Stormbow and holy arrows is an excellent choice against Queen Slime, defeating her and her minions simultaneously. Against The Destroyer, the Daedalus Stormbow is best paired with piercing arrows such as Jester's Arrows or Unholy Arrows / Holy Arrows.
+
+Defeating the Destroyer gives access to Hallowed armor and the Hallowed Repeater, as well as the Phantom Phoenix. Against the other mechanical bosses, continuing to use the Daedalus Stormbow is good for fights where the bosses remain in the same place and the Hallowed Repeater or Phantom Phoenix for skybridge or chasing fights.
+Plantera
+
+Against Plantera, your strongest weapons are either the Chlorophyte Shotbow or the Phantom Phoenix, both of which have better accuracy than the Daedalus stormbow. Using Holy Arrows in conjunction with an ichor debuff. You also have access to Chlorophyte Arrows now, which have a semi-homing bouncing attack and high damage as an alternative to Holy Arrows.
+Golem
+
+You can use Shroomite armor for this fight. The Pulse Bow can attack multiple segments at once, or you can continue to use the stronger bows and repeaters that you used in previous fights.
+Invasion events
+
+The Phantom Phoenix does very well with the early stages of the different invasions. The Stake Launcher, dropped in the Pumpkin Moon event, is a very strong repeater useful against both crowds and bosses. Reaching the higher levels of these invasion events is easiest once you have obtained the Tsunami or Eventide bows.
+Duke Fishron, Empress of Light, and Betsy
+
+These bosses drop the best bows in the game (before the Lunar events): Tsunami, Eventide, and Aerial Bane. The first two are fairly similar, firing multiple copies of an arrow. The Tsunami shoots 5, while the Eventide shoots 4 plus a special bolt and converts wooden arrows or the Endless Quiver into piercing arrows. The Aerial Bane converts all arrows into a special type that is heavily affected by gravity. While it is the most difficult to aim and can't use Holy Arrows, it can kill large bosses faster than the other two.
+
+All three of these bosses have difficult attack patterns. Killing one will give you a strong weapon for the other two. The Daedalus Stormbow with Holy Arrows, the Pulse Bow with Venom Arrows, or the Stake Launcher can be used to kill the first boss.
+Lunatic Cultist
+
+If you have obtained one of the strong bows from the optional bosses, this fight will be very easy. You can use Venom Arrows to improve accuracy and avoid hitting the copies of the cultist with the stars from Holy Arrows.
+Lunar Events
+
+Focus on the Vortex Pillar first. Chlorophyte Arrows, fired from a multi-shot weapon, will carpet the area and attack everything. The Pulse Bow and Eventide are excellent with the Endless Quiver due to their piercing abilities, and the Tsunami and Eventide can use Holy Arrows to great effect. Aerial Bane does extra damage to aerial enemies while 'dripping' onto ground-based enemies below.
+
+Once you've defeated the Vortex Pillar, you can craft a Phantasm and take on the other pillars.
+Moon Lord
+
+Against the Moon Lord, keep just off-screen and use the Phantasm with your arrow of choice. The secondary projectiles fired by the Phantasm always point to an enemy, allowing you to track his position more easily.
+Guns
+Guns
+GatligatorGatligator
+Onyx BlasterOnyx Blaster
+Pew-matic HornPew-matic Horn
+Quad-Barrel ShotgunQuad-Barrel Shotgun
+Red RyderRed Ryder
+RevolverRevolver
+S.D.M.G.S.D.M.G.
+Vortex BeaterVortex Beater
+XenopopperXenopopper
+BoomstickBoomstick
+Candy Corn RifleCandy Corn Rifle
+Chain GunChain Gun
+Clockwork Assault RifleClockwork Assault Rifle
+Flintlock PistolFlintlock Pistol
+HandgunHandgun
+MegasharkMegashark
+MinisharkMinishark
+MusketMusket
+Phoenix BlasterPhoenix Blaster
+ShotgunShotgun
+Sniper RifleSniper Rifle
+Tactical ShotgunTactical Shotgun
+The UndertakerThe Undertaker
+UziUzi
+Venus MagnumVenus Magnum
+
+Guns are another type of ranged weapon, which becomes available by smashing the first Shadow Orb or Crimson Heart. Guns have the fastest projectiles of the four types of ranged weapons, making them easier in general to aim.
+Choice of evil biome
+
+Corruption worlds have the Musket, which has higher damage pre-Hardmode than the Crimson's Undertaker, especially against bosses with high defense. They also have access to Putrid Scent, a useful accessory. Crimson worlds have Ichor, which provides an amazing debuff in Hardmode.
+Pre-bosses
+
+You have 5 choices in terms of strong weapons.
+
+The easiest weapon to obtain is the Musket or The Undertaker, found by going to the Corruption or Crimson and smashing a Shadow Orb or Crimson Heart.
+
+During Christmas, you have a chance of finding the Red Ryder in Presents.
+
+If you are willing to risk a trip to the jungle, the Boomstick is an excellent weapon, shooting multiple bullets at once but suffering from a lack of accuracy.
+
+The Revolver, sold by the travelling merchant is a good choice, with decent damage.
+
+Your final choice is obtain one of those earlier weapons so that the Arms Dealer arrives. From him, you can buy a Minishark. He also sells the Flintlock Pistol, which is the weakest gun in the game besides the Flare Gun.
+King Slime and Eye of Cthulhu
+
+Both of these fights are fairly simple with any of the above guns. If using the Minishark, the Shark Tooth Necklace will increase DPS significantly due to the relatively high defense of these two enemies.
+Eater of Worlds/Brain of Cthulhu
+
+Against the Eater of Worlds, the Musket does surprisingly well, even in Master Mode. The Minishark is strong against both bosses, especially with the Shark Tooth Necklace and can stunlock the Brain of Cthulhu's final phase. The Boomstick is good early on in both fights, catching a lot of body segments or creepers.
+
+Defeating these bosses allows you to craft the Star Cannon, an extraordinarily powerful weapon that uses a difficult-to-find ammo (Fallen Stars) very rapidly. It has the highest damage of any pre-hardmode weapon of any type except for Explosives. Using this weapon is only recommended for players who are stuck on a boss.
+Queen Bee and Skeletron
+
+The high damage of the Musket makes it an excellent choice against these two bosses.
+
+Against Queen Bee, however, its slow rate of fire can make it hard to defeat the bees she releases, so minions or sentries may be needed to supplement. In Crimson worlds, The Undertaker or Boomstick are preferred, or the Handgun if you defeat Skeletron first.
+
+Skeletron's head has a high defense in Expert Mode or Master Mode until the hands are defeated, so focusing on the hands first should be a priority if using a lower-attack weapon.
+Wall of Flesh
+
+Defeating Skeletron unlocks the Handgun (which can immediately be upgraded to the Phoenix Blaster) and the Quad-Barrel Shotgun. Using Meteor Shot, these weapons are very effective against the Wall of Flesh, although the Phoenix Blaster is faster and safer. The Star Cannon is the best weapon by far for this fight but is very expensive to use.
+Hardmode
+
+Early hardmode is a low point for guns. But it's a great time for bullets. You gain access to Cursed Bullets or Ichor Bullets that afflict debuffs, Exploding Bullets with very high knockback and area of effect, and Crystal Bullets, which split into shards that do 50% of the original damage. Golden Bullets allow to make money faster and Party Bullets are a cheap, high-damage bullet.
+
+For single targets, the Clockwork Assault Rifle is a great option, obtainable by farming the Wall of Flesh. The Shotgun is available for crowds, but should immediately be upgraded to the Onyx Blaster, which has a wide spread and also does double damage with its Onyx shot.
+
+If you're lucky, you can find the Gatligator from the Traveling Merchant or the Uzi which rarely drops in the Jungle from Angry Trappers and is an excellent early weapon.
+Queen Slime, mechanical bosses, and Plantera
+
+The Onyx Blaster with Crystal Bullets is effective against Queen Slime, although you may need to keep moving in this fight to clear out of her minion's way. It is similarly strong against The Destroyer.
+
+The destroyer gives access to Soul of Might, an ingredient in the Megashark, a gun that has historically been considered one of the best weapons in the game since it was introduced. Using the Megashark and Crystal Bullets or the Onyx Blaster, the other mechanical bosses and Plantera will be fairly simple.
+Golem and invasion events
+
+After killing Plantera, you gain access to the Hardmode Dungeon, which has great options for gun users. These include the Sniper Rifle, which does incredible damage at a slow rate; the Tactical Shotgun, which fires six bullets at a time and has autofire capability; and the Sniper Scope, which can be tinkered into several powerful gun-relate accessories. Plantera also drops the Venus Magnum, which is generally not as powerful as those two weapons.
+
+All of these weapons make Golem an easy fight. Chlorophyte Bullets are now accessible, but an even cheaper option is Nano Bullets, which have 12 more damage than Chlorophyte and will bounce directly into Golem indoors.
+
+You are also now able to craft High Velocity Bullets, which pierce multiple enemies. These are great for invasions.
+
+From the invasion events, you can receive the Candy Corn Rifle, perhaps the best gun for plowing through crowds; the Chain Gun, an upgrade to the Megashark; and the Xenopopper, a strong autofire shotgun with an unusual way of firing (releasing bubbles that shoot bullets when popped).
+Duke Fishron, Empress of Light, and Betsy
+
+A classic method for defeating these bosses is to use the Tactical Shotgun with Chlorophyte Bullets. This benefits a lot from Ichor or Betsy's Wrath (if she has been defeated first). The Xenopopper, Chain Gun, or Sniper Rifle may be just as good or better, as can Crystal Bullets.
+Lunatic Cultist and Lunar Events
+
+By now you should have a Xenopopper or a Chain Gun. The cultist is an easy fight, even though Chlorophyte Bullets do less damage against him like all homing weapons.
+
+The enemies of the Vortex Pillar cannot attack through blocks, so using Chlorophyte Bullets and hiding behind a wall can make this fight easier. Once the pillar is dead, collect the fragments, craft a Vortex Beater, kill the other pillars, and wait for the Moon Lord to spawn.
+Moon Lord
+
+The Vortex Beater with Chlorophyte Bullets is one of the safest ways to kill the Moon Lord, moving in a zigzag pattern to avoid attacks and flying up to avoid the Phantasmal Deathray. In the second stage, you can simply fly as far away as possible (making sure not to go so far he teleports towards you) while firing backwards.
+
+Once the Moon Lord is dead, you can farm him for the S.D.M.G. and Vortex armor
+Launchers
+Launchers
+Celebration Mk2Celebration Mk2
+CelebrationCelebration
+Electrosphere LauncherElectrosphere Launcher
+Nail GunNail Gun
+Grenade LauncherGrenade Launcher
+Jack 'O Lantern LauncherJack 'O Lantern Launcher
+Proximity Mine LauncherProximity Mine Launcher
+Rocket LauncherRocket Launcher
+Snowman CannonSnowman Cannon
+StyngerStynger
+
+Launchers are a Hardmode subclass of Ranged, which becomes available by defeating Plantera. It's the most damaging ranged subclass, but also the most risky and expensive one.
+
+Launchers come initially in four main damaging types as well as a few utility types. The main types for attacking are Rocket I (always sold) and Rocket III (sold at night). The other rocket types either destroy blocks, destroy liquids or create liquids.
+
+If the Truffle has moved in, you can create Shroomite Bars to make Mini Nuke I, the strongest rocket in the game. You can also craft Shroomite armor with the helmet option.
+
+After defeating Martian Madness, you can also buy the expensive Cluster Rocket I, which is useful for invasion events.
+
+The first launcher available is the Grenade Launcher, which always drops from Plantera in Normal mode. In all modes, the Cyborg moves in after defeating Plantera, offering the Proximity Mine Launcher
+Dungeon and Solar Eclipse
+
+The Grenade Launcher is well-suited to the Dungeon, letting you attack enemies safely from a distance. In the dungeon you can find the Rocket Launcher, a powerful but risky weapon that is great for the Old One's Army and similar events with large, slow bosses.
+
+In Solar Eclipses you can find the Nail Gun, the first safe rocket launcher. The Nail Gun can tear through Golem easily.
+Golem
+
+Golem is a slow-moving, large target. The Rocket Launcher is a good weapon as it has high damage. Alternatively, the Nail Gun is very powerful against Golem with less danger. The Jack 'O Lantern Launcher benefits from the tight room. Flying above golem and shooting will result in an easy kill.
+Pumpkin Moon, Martian Madness, and Frost Moon
+
+The Stynger from Golem is a good choice here, since the main bolt will hit the bosses and the shrapnel will hit enemies below. If you are having trouble finding launchers, the Celebration is now available from the Party Girl, although it is weaker than most launchers.
+
+You can get three more rocket launchers from this event: the Jack 'O Lantern Launcher, which is primarily good for crowd control or underground, especially the Jungle Temple if you get it before facing Golem; the Electrosphere Launcher, which does heavy damage against targets that stand still; and the Snowman Cannon, a homing weapon that is generally considered the best pre-Moon Lord rocket weapon.
+Duke Fishron, Empress of Light, and Betsy
+
+The Stynger can defeat all of these strong bosses. The Nail Gun will perform better against the individual bosses, while the Snowman Cannon and Electrosphere Launcher will kill them the most quickly, with the Snowman Cannon doing slightly less damage with more accuracy.
+Lunar Events
+
+The Snowman Cannon is a useful weapon for the cultist. Flying around the cultist and attacking is the standard strategy. The Electrosphere Launcher is also useful.
+
+There is no vortex rocket launcher, so pillar progression doesn’t start with the vortex pillar. Instead, kill the stardust pillar first so you can craft a summon weapon. Dealing with large groups of pillar enemies can be made easier with Cluster Rocket I.
+Moon Lord
+
+Using a Snowman Cannonn while performing the same strategy as with guns is a good idea. As with all Moon Lord fights, dodge the Phantasmal Deathray while attacking. Once you have beaten the moon lord, you can farm him till you get a Celebration Mk2 or Celebration.
+Dart-firing weapons
+Dart weapons
+Dart PistolDart Pistol
+Dart RifleDart Rifle
+BlowgunBlowgun
+BlowpipeBlowpipe
+
+Dart-firing weapons are a minor type of ranged weapon consisting of the pre-hardmode Blowpipe and Blowgun and the hardmode Dart Pistol and Dart Rifle. They only last up to about Plantera, which is where launchers begin, making them a good choice for a combined playthrough.
+King Slime and Eye of Cthulhu
+
+Using Seeds, the Blowpipe does about the same damage as a Silver Bow with wooden arrows. Using Poison Darts, which can be farmed in the Jungle from Stingers, it is similar to the Demon Bow in damage and also poisons the enemy. This makes the early fights fairly easy.
+Queen Bee
+
+This fight allows access to the Blowgun, so it's very important. Make sure to have a way to deal with the bees, as the pipe may get blocked by them or be unable to target them easily.
+
+Fossil armor is the best armor available.
+
+Once you obtain the Blowgun, it does damage similar to the Musket as well as poisoning the target.
+Eater of Worlds/Brain of Cthulhu and Skeletron
+
+The Blowgun is fairly efficient for these fights. For the Brain of Cthulhu or Eater of Worlds, the Slimy Saddle or Thorns Potion both do contact damage that may help you avoid getting swarmed due to your slow weapon.
+
+With Skeletron, you can simply target the hands first before targeting the head. Defeating Skeletron gives access to Necro armor, a great armor upgrade.
+Wall of Flesh
+
+The Blowgun works against the Wall of Flesh. Still, this will be a long fight, with Hungries continually getting in the way in Guide:Expert Mode. You'll need to prepare a very long bridge or clear pathway for this fight.
+Hardmode
+
+Upon entering Hardmode, you can immediately craft Crystal Darts and either Cursed Darts or Ichor Darts. Even with a lowly Blowgun, these darts do high damage and have special properties.
+
+Killing Corrupt or Crimson Mimics should be your next priority. These drop your final weapon, either the high-damage Dart Rifle or the quick-firing Dart Pistol. These are some of the most overpowered weapons in the game, and retain their usefulness far longer than most early weapons.
+Queen Slime, mechanical bosses, and Plantera
+
+Cursed Darts and Crystal Darts are excellent against Queen Slime and her minions. Similarly, Cursed Darts and Crystal Darts are great against The Destroyer, some of the best weapons for this fight.
+
+Ichor Darts are the strongest weapons against The Twins, Skeletron Prime, and Plantera, although Crystal Darts work as well for the first two and Cursed Darts for the latter. With good mobility accessories and appropriate arenas, these will be easy fights.
+Magic
+
+Magic weapons are not as easy to categorize as other weapons, and in the early game very few weapons are available, making specialized playthroughs more difficult.
+Magic guns
+Magic guns
+Charged Blaster CannonCharged Blaster Cannon
+Gray ZapinatorGray Zapinator
+Laser MachinegunLaser Machinegun
+Orange ZapinatorOrange Zapinator
+Bee GunBee Gun
+Bubble GunBubble Gun
+Heat RayHeat Ray
+Laser RifleLaser Rifle
+Leaf BlowerLeaf Blower
+Rainbow GunRainbow Gun
+Space GunSpace Gun
+Wasp GunWasp Gun
+
+These are generally gun-shaped, and still do consume mana and not ammo/bullets. The earliest accessible one is the Space Gun / Gray Zapinator.
+Pre-Eater of Worlds/Brain of Cthulhu
+
+In the Old-gen console version Old-gen console version and Nintendo Nintendo 3DS version version, there are no magic guns available before these two bosses. However, in the Desktop version Desktop version, Console version Console version, and Mobile version Mobile version, you have access to the Gray Zapinator bought from the Traveling Merchant. Due to the rarity of this weapon, it may be best to look for it in other playthroughs, reserving it for a new character playthrough. Alternatives include building a bed and sleeping until he comes or using Journey Mode's time skip capabilities.
+
+The Gray Zapinator is a strong weapon against King Slime and the Eye of Cthulhu, but is unpredictable for the Eater of Worlds and Brain of Cthulhu, where the randomness can either devastate the enemy or make things much worse.
+
+After defeating the Eater of Worlds or Brain of Cthulhu, a meteor has a chance of spawning each day. Mining the Meteorite will let you craft the Meteor armor and Space Gun. This combination gives you essentially unlimited mana for the gun.
+Queen Bee and Skeletron
+
+The Space Gun is an excellent weapon for both these fights, although the high defense of Queen Bee in her later stage (28 defense, removing 14 points of damage from the Space Gun's 17) means that the Shark Tooth Necklace may be useful.
+
+For both fights, a large arena with a clear line of sight will help. The Space Gun doesn't have amazing DPS but the constant firing will eventually wear them down.
+
+Defeating Queen Bee gives access to the Bee Gun, which shoots swarming, homing bees. With the Hive Pack in Expert Mode or Master Mode, this becomes even more powerful.
+
+Defeating Skeletron gives access to the Dungeon, where you can find an Alchemy Table. At this point, it will be easier to craft the Magic Power Potion, which will be a great help against future bosses.
+Wall of Flesh and early Hardmode
+
+Your best options here are the Bee Gun with the Hive Pack or the Space Gun with Meteor armor. Both are fairly slow but very safe, allowing you to attack from afar.
+
+Once defeated, the Wall of Flesh can be farmed for the Laser Rifle and Sorcerer Emblem, both of which will be useful in the fights to come.
+
+Again, the Orange Zapinator can be purchased from the Traveling Merchant. This benefits from Meteor armor's reduced mana cost and 27% damage boost, although it will likely do better with the combined damage and critical hit boosts from higher-tier ore armors.
+Queen Slime and mechanical bosses
+
+The Orange Zapinator is very strong against Queen Slime and The Destroyer. With the Gelatinous Pillion mount and Hallowed armor, the other mechanical bosses will be fairly easy.
+
+Without the Zapinator, the Laser Rifle is capable of fighting the Mechanical Bosses, although it is not the strongest option.
+Plantera
+
+This is one of the most difficult fights, although it is still possible with the Orange Zapinator. Be careful of awakening Queen Bee with the beam's teleportation. If using the Laser Rifle it may be worth it to craft Chlorophyte armor simply for the additional damage done by the crystal of the set bonus.
+
+Plantera drops the Wasp Gun, a strong weapon. It has been buffed to avoid 10 enemy defense, which, with ichor, can remove all or most of Golem's defense. Some people include the Leaf Blower as a gun; its higher damage helps significantly against Golem.
+Dungeon and Golem
+
+The Wasp Gun is excellent in the Hardmode Dungeon, where you can farm Ectoplasm for the Spectre armor. Here you can find the Rainbow Gun, an excellent weapon against invasion events and Golem.
+
+Using the Spectre armor against Golem (swapping between the Mask and Hood for damage or healing) with the Rainbow Gun and another magic gun, he'll go down easily and you can obtain the Heat Ray.
+Martian Madness
+
+Martian Madness drops two powerful magical guns: the Laser Machinegun and the Charged Blaster Cannon. Both get stronger as you shoot longer, although the Laser Machinegun uses less Mana.
+Duke Fishron, Empress of Light, Betsy, Pumpkin Moon, and Frost Moon
+
+Both of the Martian Madness guns are excellent in these fights, although Duke Fishron can be fought earlier. In fact, these two weapons outperform essentially all pre-Lunar Event weapons against Empress of Light.
+
+Duke Fishron drops the Bubble Gun, which, while not as powerful as the Martian Madness weapons, has a very low magic cost and can be obtained eaerlier.
+Lunar Events
+
+The Lunatic Cultist should be fairly easy at this point. The Charged Blaster Cannon is perhaps the best choice against both the Celestial Pillar enemies and the Moon Lord himself. It is not as good as non-gun weapons such as the Nebula Blaze, so it will be important to maintain your distance and monitor your health.
+Summon
+
+Summoners are designed to be played with both minions and Whips, together with the strongest available non-summoning weapon. See Guide:Class setups for a walkthrough for standard summoners.
+
+This guide is intended for players doing a summon-only or whip-only challenge, both of which are more difficult than a combined challenge.
+Minions only
+Minion summon items
+Abigail's FlowerAbigail's Flower
+Blade StaffBlade Staff
+Deadly Sphere StaffDeadly Sphere Staff
+Desert Tiger StaffDesert Tiger Staff
+Finch StaffFinch Staff
+Flinx StaffFlinx Staff
+Hornet StaffHornet Staff
+Imp StaffImp Staff
+Optic StaffOptic Staff
+Pirate StaffPirate Staff
+Sanguine StaffSanguine Staff
+Spider StaffSpider Staff
+Stardust Cell StaffStardust Cell Staff
+Stardust Dragon StaffStardust Dragon Staff
+TerraprismaTerraprisma
+Vampire Frog StaffVampire Frog Staff
+Xeno StaffXeno Staff
+Pygmy StaffPygmy Staff
+Raven StaffRaven Staff
+Slime StaffSlime Staff
+Tempest StaffTempest Staff
+
+This challenge is much easier on the Desktop version Desktop version, Console version Console version, and Mobile version Mobile version, and will be written from that viewpoint. The main differences in the Old-gen console version Old-gen console version and Nintendo Nintendo 3DS version version are the absence of the Finch Staff, Vampire Frog Staff, Flinx Staff, Flinx Fur Coat, Blade Staff, Sanguine Staff, and Desert Tiger Staff, as well as poorer AI for many minions.
+Pre-bosses
+
+The minion-summoning item Abigail's Flower grows in the Graveyard biome, and is obtainable right from the start, making it an excellent option.
+
+If you are unwilling to create a graveyard or don't have access to 1.4.3, at the very start of a playthrough, you should immediately search all Living Trees to find the Finch Staff (Note that Journey Mode characters already start with this weapon). This is the most basic summon weapon, and while not ideal, is a decent enough start. If you plan on using the staff for a while, it is recommended to collect Fallen Stars at night to make Mana Crystals. Using this, you can target an enemy, and repeated click or tap on them to cause the finch to remain in one spot, dealing rapid damage. This can be very helpful with dealing with early foes, but will become unnecessary as soon as you get stronger weapons. The Slime Staff can also be obtained although is not recommended due to its rarity, although it can be a viable option if a Slime statue is found early on, as a contraption can be set up to farm for the staff.
+
+After the Finch Staff has been obtained, the next step players should take should be to explore the Ice biome. Notably, players will want to create a platform of non-snow or ice blocks in order to farm Snow Flinxes. This is because Flinxes will not spawn on normal ice or snow blocks. The main drop that is needed from the Flinxes is Flinx Fur. This will be used to craft the Flinx Fur Coat, a must have early game armor piece that allows an additional minion, and the Flinx Staff, which is a decent improvement to the Finch Staff, with more damage and accuracy, but without the capability of flight.
+
+Once the player feels well prepared, it is a good idea to wait for a Blood Moon and set up an arena and fishing area to attempt to fight Wandering Eye Fish and Zombie Merman to obtain the Vampire Frog Staff. This summon weapon drops as a 1/8 chance from the two previously mentioned enemies, and deals 11 base damage, 5 more than the Flinx Staff and 6 more than the Finch Staff.
+Early bosses
+
+Because of the nature of the summoner class, and its lack of strong weapons in early pre-hardmode, players should not feel required to take out the King Slime or the Eye of Cthulhu, as neither of these bosses drop any major power ups to the class. There are still some good reasons to defeat these bosses early though.
+
+The King Slime drops the Slime Hook and the Slimy Saddle, both of which can enhance player movement. The mount also does summon damage, if you allow that in your playthrough. It also drops a decent amount of money.
+
+The Eye of Cthulhu does not drop any items useful to a summoner, but they can use the ore at a later stage in progression or sell it. The boss also drops a decent amount of money.
+
+In Expert Mode, the Eye of Cthulhu will also drop a Shield of Cthulhu, which provides 2 defense and gives the player a dashing ability. This dashing ability both greatly increases your mobility and also deals damage to the enemies you dash into.
+
+If you decide to face them, the Vampire Frog Staff is the strongest summon available at this stage. The Shark Tooth Necklace will increase their damage.
+Brain of Cthulhu/Eater of Worlds
+
+This is the point where things start to get tough. Players will need to beat one of these bosses to progress (The Queen Bee can be beaten first), and with the basic gear this can be difficult. The usual tips for boss fights apply, however. Get plenty of Buff potions, create an arena, and be as overprepared as you can.
+
+Even if you cannot defeat the boss, players can pick up the Shadow Scales/Tissue Samples and Demonite/Crimtane to craft a Nightmare/Deathbringer Pickaxe. Players should then travel to the underworld, find a Hellforge, and mine enough Hellstone to make an Imp Staff (17 Hellstone Bars, or 51 Hellstone ore and 17 Obsidian). Players should also mine an extra 60 Obsidian, as well as be on the lookout for cobwebs, since they will need the 60 obsidian, as well as 30 silk (210 cobwebs) and 15 Shadow Scales/Tissue Samples to craft the Obsidian Outlaw Armor, which aside from the additional defense provides a massive boost to minion damage, rivaled only by some of the late hardmode armor sets. It also allows 1 extra minion, however if players already had a Flinx fur coat, this is not a change.
+Queen Bee
+
+Another option players have, although it is likely to be more difficult, is to fight the Queen Bee before the Eater of Worlds/Brain of Cthulhu. The first part of this section will give strategies dealing with the Queen Bee before the EoW/BoC, and the second part will discuss strategies for beating it after those bosses.
+
+Players who are fighting the Queen Bee prior to the EoW/BoC should focus on dodging, especially in Expert/Master modes, as without stronger armor the Queen Bee can deal large amounts of damage to players. Once again, basic tips apply, but it is recommended that players deactivate their summons before entering the hive to avoid accidently starting the boss fight unintentionally.
+
+Players fighting the boss after the EoW/BoC will likely have a much easier time, as the Imp Staff and Obsidian Outlaw Armor grant a much increased damage output compared to earlier gear. Players should still be cautious, though.
+
+After defeating the Queen Bee, players will be able to craft the Hornet Staff, a useful staff on par with the Imp staff in some cases. More importantly, players will be able to craft the Bee armor, which increases your max number of minions by 2. This is a potential alternative to the Obsidian Outlaw Armor if players desire more minions as opposed to more damage. Players will also unlock the Witch Doctor who sells the Pygmy Necklace during night granting the player an extra minion slot.
+Skeletron
+
+Skeletron is difficult but has predictable attack patterns. The hands need to be defeated first, so re-summoning minions directly onto the hands can be beneficial, as can the Shark Tooth Necklace. The Imp Staff is the strongest available minion.
+
+Once you have defeated Skeletron, you gain access to the Bewitching Table. Use the Bewitching Table, Pygmy Necklace and use a Summoning Potion to achieve the maximum amount of Pre-Hardmode minions, 6.
+Wall of Flesh
+
+The Wall of Flesh can be defeated with even just the Hornet Staff, but the Imp Staff will be faster. Both will require a long bridge. The Bee armor is the best armor available for this fight.
+Early Hardmode
+
+Once in Hardmode, locate a Spider Nest and get the Spider Staff and possibly the Queen Spider Staff, as well as the Spider armor, which increases the maximum minion capacity to 4.
+Queen Slime and Dreadnautilus
+
+With the Spider armor Queen Slime to obtain the Blade Staff a high speed summon that ignores 25 defence, which is effective against early Hardmode enemies.
+
+A good option is to acquire the Sanguine Staff, which is dropped from the Dreadnautilus and sports decent damage and great range compared to other alternatives. The Dreadnautilus can be killed by hiding in a box with regeneration items such as the Heart Lantern and Campfire and summoning spiders directly onto it. This may be very difficult at higher difficulty levels due to the low damage of minions alone and the high damage dealt by the Dreadnautilus.
+The Twins
+
+The Twins will drop materials needed to craft the Optic Staff, which is better than the Spider Staff but worse than the Sanguine Staff. Using mobility accessories and dodging will give you time for your minions to attack. If using the Spider Staff, make sure to regularly summon the spiders directly onto the Twins. The Sanguine Staff is the best weapon for this fight.
+
+Besides the Optic Staff, killing the Twins repeatedly will allow you to craft Hallowed armor with the hood option, which has less damage than Spider armor but far more survivability.
+Old One's Army
+
+Since summoner armor boosts sentry damage, this will be easier for summoners than for others. It can help to save up medals from Tier 1 to get a good sentry staff as soon as a mechanical boss is beaten.
+
+The Ogre drops the Brand of the Inferno, which is especially useful for minion-only playthroughs. If equipped together with a shield, holding down right-click grants an additional 20 defense.
+Skeletron Prime and The Destroyer
+
+The Sanguine Staff is the best available option for Skeletron Prime. A large arena and mobility accessories will make fighting him fairly easy.
+
+For The Destroyer, use the Optic Staff and create a sky platform about 150 blocks into the air, too high for the boss to reach you. You should have a Heart Statue, Bewitching Table and Heart Lantern. Re-summon your minions for control of the probes. The destroyer fight may take a long time.
+
+If you find The Destroyer easier to fight than The Twins, try using the same tactic. Instead of using the Optic Staff, use the Spider Staff. The Spiders will fall down the platform and latch on The Destroyer. Re-summon the spiders to fight the probes.
+Plantera
+
+For Plantera, you can either use the Optic Staff, Spider Staff, Sanguine Staff or the Pirate Staff. Of these options, the Sanguine Staff is the most powerful.
+
+Defeating Plantera gives access to the Pygmy Staff, the Tiki armor, and the Hercules Beetle. The Pygmy Staff is not very powerful, but the armor is the best available at this stage of the game.
+
+It also opens up the Desert Tiger Staff, which is one of the best summons in the game, found in the Dungeon. It may be worth farming for the Biome Keys, although even better summons will be available soon.
+Golem and invasion events
+
+Golem can easily be killed with any Hardmode summon, with the Desert Tiger Staff being especially strong here.
+
+Whether before or after fighting him, the Pumpkin Moon and Martian Madness are important stops, where you can get the Papyrus Scarab, Cosmic Car Key or Witch's Broom, and Necromantic Scroll, as well as the Raven Staff and Xeno Staff, two of the most powerful summons.
+Empress of Light and Duke Fishron
+
+The Empress of Light is an incredibly difficult boss but also useful since she drops the Terraprisma, arguably the best summon in the game. However, this requires fighting her in the daytime, when all of her attacks kill the player instantly if they hit.
+
+To fight her, a very large arena is recommended due to her large scale attacks and insta-kill projectiles. It is recommended to use the Xeno Staff due to its insanely fast attacks to counter The Empress of Light's fast movement speed. Another valid option is to use the Sanguine Staff which gives less damage output but allows you to play at more of a range, and is potentially a better option if your having a hard time staying in range with the Xeno Staff. However, a true summoner playthrough will be very difficult and take a long time to kill her. You'll need to dodge quite a bit. Fishron Wings are recommended for their increased flight capabilities, and also killing the Empress of Light during the night for the Soaring Insignia (Expert Mode and Master Mode only), which greatly increases flight speeds and grants infinite flight for the day-time fight. The fight will essentially be a endurance boss fight, dodge and stay close for your summons to deal damage otherwise they'll not attack and greatly decrease damage output.
+
+The Duke Fishron fight is similar to the Empress of Light, involving a significant amount of dodging. He drops the Tempest Staff, which is less accurate and damaging than other available staffs unless you fight him out of order early in Hardmode.
+Lunatic Cultist, Lunar Events, and Moon Lord
+
+The Lunatic Cultist is easy. Just run away from him.
+
+The Lunar Events are a matter of dodging attacks. Do Stardust first so you can get the Stardust Dragon Staff and the Stardust Cell Staff. The Stardust Cells are recommended in the Lunar Events, as they will be able to attack most of the enemies near you.
+
+As for the Moon Lord, as long as you can dodge his attacks, you can tear through him in seconds. The Stardust Dragon and Terraprisma will be your go-to in this fight, because of their high 'single' target dps.
+Optional route: Celebration Seed
+
+Using the "celebrationmk10" gives a summoner numerous advantages.
+
+There are additional Living Trees, making the Finch Staff easier to find.
+The Princess is immediately present and will sell the Slime Staff, albeit for an expensive 15 gold coins.
+The Wizard Hat gives an extra minion slot, which, combined with the Flinx Fur Coat, gives early summoners 3 minions.
+The hat can be found by wearing a Gemstone Robe in the Cavern layer, which causes Tim to spawn more frequently.
+Once a pirate invasion is defeated, the Pirate Staff is available to purchase.
+
+Note however that you will spawn at the edge of the world, which is great if it's the Dungeon side but very difficult if it's the Jungle side.
+Whips only
+Whips
+Cool WhipCool Whip
+Dark HarvestDark Harvest
+DurendalDurendal
+FirecrackerFirecracker
+KaleidoscopeKaleidoscope
+Leather WhipLeather Whip
+Morning StarMorning Star
+SnapthornSnapthorn
+Spinal TapSpinal Tap
+
+Whips are the latest addition to weapon types in Terraria. An all-whips playthrough has little choice in weapons but is possible even in higher difficulty modes.
+Pre-bosses
+
+You will want to kill as many unique enemies as they can find, as well as exploring different biomes and looking for Critters. Specifically, you should attempt to add 50 entries to the Bestiary, which will allow the Zoologist to spawn. The Zoologist sells the Leather Whip right off the bat, which is the first whip you can obtain.
+
+Players should also explore the underground jungle to craft the Snapthorn, an upgraded whip that deals 4 more base damage than the leather whip. While in the jungle, it is useful to find the Feral Claws, which grant autoswing to all whips.
+
+Although the player does not need the extra minion slot, the Flinx Fur Coat will boost your whip's damage. If available, Pumpkin armor will also boost damage while providing more defense.
+
+With these weapons prepared, players will likely be ready to take on some bosses.
+King Slime, Eye of Cthulhu, and Eater of Worlds/Brain of Cthulhu
+
+All of these early bosses are fairly simple with the Snapthorn. It's wide area of attack and piercing make the minions or segments of these bosses easier to handle, despite the low damage and knockback of the whip. Defeating the Eater of Worlds or Brain of Cthulhu will give access to higher-tier pickaxes as well as dropping Shadow Scales or Tissue Samples, allowing the player to venture to The Underworld, grab a Hellforge and Obsidian, and craft Obsidian armor, which may very well be your armor for the rest of the game, depending on your play style. It boosts whip damage, length and speed tremendously.
+Queen Bee and Skeletron
+
+These fights each unlock a useful tool for the future. Upon defeating Queen Bee, the Witch Doctor moves in, selling the Imbuing Station. Defeating Skeletron grants access to the Dungeon, where Spinal Tap, the best pre-hardmode whip, can be crafted.
+
+Both of these bosses have high defense, especially Queen Bee in her final phases in Expert Mode and Master Mode. A Shark Tooth Necklace will increase damage quite a bit. For Skeletron, defeating the hands first will reduce the head's defense to almost nothing.
+Wall of Flesh
+
+With access to both Snapthorn and Spinal Tap, the player has access to whip-swapping, a difficult but rewarding technique where you use a weaker whip that grants a speed bonus (like Snapthorn) then switching to a stronger whip )(like Spinal Tap) that will benefit from that temporary boost. While it is not necessary for fights, it makes them faster.
+
+With these whips and the reach provided by Obsidian armor, the Wall of Flesh will be a straightforward fight.
+Hardmode
+
+Immediately upon entering Hardmode, the Wall of Flesh can be farmed for the Summoner Emblem and Firecracker.
+
+Visiting the Snow biome during Rain will allow you to find the Ice Golem who drops Frost Cores that allow you to craft the Cool Whip. While the Cool Whip is usually less used due to its lack of minion effects, as a whips-only user it is much better than the Firecracker, inflicing the Frostburn debuff, doing more damage, having two more tiles of range and summoning a snowflake minion that attacks enemies for you.
+
+It is recommended to upgrade your Feral Claws to a Berserker's Glove if in a Crimson world. This gives an amazing boost in survivability.
+
+You can now craft the Flask of Ichor, which will greatly increase damage output, or the weaker Flask of Cursed Flames, which is more useful the more enemies you are fighting at once.
+Queen Slime and mechanical bosses
+
+Queen Slime is not a necessary fight, but she provides the Gelatinous Pillion, which allows for excellent mobility in fights for the mechanical bosses.
+
+All of these fights are fairly similar, using Cool Whip and the reach provided by Obsidian armor to stay just out of the boss's range while attacking. Whip swapping with Snapthorn can increase damage.
+
+Upon defeating one mechanical boss, you gain access to Durendal, the strongest whip so far and with another speed buff, making whip-swapping between it and Snapthorn even more viable. You also gain several more armor options, including Hallowed armor (which gives much lower damage but adds the shadow dodge effect) and Squire armor (which has the same damage boosts as Obidian armor but includes huge defense and life regeneration). Both of these options lose the whip speed and length boosts of Obsidian armor, and many players opt not to use them.
+
+Upon defeating all Mechanical bosses, the player can craft a Mechanical Glove or Fire Gauntlet, which can stack with earlier speed-boosting accessories.
+Plantera, Dungeon, Pumpkin Moon, and Frost Moon
+
+Plantera will be a difficult fight with the available tools, but definitely possible. Defeating her gives access to the Hercules Beetle, which will increase damage quite a bit. The Tiki armor provided at this stage has the exact same damage boosts as Squire armor but with 20 less defense and no regeneration.
+
+The Dungeon provides the Morning Star, a slow but very powerful whip with a long range. While it gets outclassed by the two remaining whips, it is good for one-shotting enemies while exploring.
+
+The Pumpkin Moon provides many benefits for whip players, including the Necromantic Scroll, the Papyrus Scarab, and Spooky armor, which has double the damage bonuses of Obsidian armor (but without the whip speed or length boosts). The Pumpking drops the Dark Harvest, the final whip with a speed boost. Switching between it, Durendal, Snapthorn, and possibly Kaleidoscope gives immense damage boosts.
+Golem, Old One's Army, and Martian Madness
+
+Golem is a fairly simple fight using these new tools. Upon his death, the tier 3 Tavernkeep's armors become available. These represent the first real challengers to Obsidian armor's supremacy. Valhalla Knight armor has double the damage bonuses that Obsidian armor does, making up for the loss in whip speed, and also includes the largest regeneration boost in the game while having almost 4 times the defense. Shinobi Infiltrator armor lacks the defense, but includes a +20% boost to melee speed that also affects whips, making it directly better than Obsidian armor in everything but length. Given the size of Dark Harvest and Kaleidoscope, however, length is not quite as important now as in earlier parts of the game.
+
+The Martian Madness event is only useful for obtaining a Cosmic Car Key. If the player already has a Witch's Broom from the Expert Mode Pumpkin Moon event, it is unnecessary.
+Duke Fishron and Empress of Light
+
+These fights both involve large, predictable bosses with high defense and high damage. The player can either use the armors from Old One's Army to tank some of the hits or use the Obsidian armor to attack from a distance with a longer whip.
+
+The Empress of Light drops the Kaleidoscope with a 25% chance. This is the best whip in the game, with the longest reach and highest damage. While it doesn't have its own speed buff, it benefits from the speed buffs of other whips.
+Lunar Events
+
+The Lunatic Cultist will be an easy fight with the Kaleidoscope. For the Celestial Pillars, it helps that the whip cannot be reflected and can hit many enemies at once.
+
+The Moon Lord fight is very difficult due to the need to remain close. While possible, it may require the use of the tankier armors like Valhalla Knight armor or the dodging capacities of Hallowed armor.
+Other weapon types
+Pre-bosses
+
+Upon joining a new world, you need to get some weapons. Your options are to either obtain Snowballs, which you can get from snow blocks, or you can open chests and pots to get Shuriken and Throwing Knives. The Merchant NPC will sell Shuriken at all times and Throwing Knives during a Blood Moon. The latter can be used to craft Poisoned Knives, which have auto-fire and inflict more damage.
+
+Fishing can give you the Extractinator in wooden crates and Frost Daggerfish in the Snow biome. Extractinators can also be found in the Underground Desert and Ice biomes. In the Desktop version Desktop version, Console version Console version, and Mobile version Mobile version, players can mine Desert Fossil to use in the Extractinator to obtain Sturdy Fossil which can be used to craft Bone Javelins, Bone Throwing Knives, and, most importanly, Fossil armor.
+King Slime and Eye of Cthulhu
+
+Against these bosses, Sticky Grenades are very effective.
+
+Bone Javelins are especially good for these bosses as well, since they are easy to aim and deal lasting damage that stacks.
+
+King Slime can be farmed for Ninja armor, a specialized throwing armor.
+Goblin Army
+
+This can be started early by breaking Shadow Orbs or Crimson Hearts and waiting. This provides Spiky Balls which are dropped by enemies and then sold by the Goblin Tinkerer.
+Eater of Worlds/Brain of Cthulhu
+
+In Classic Mode, Sticky Grenades make the fight against the Eater of Worlds very simple. In Expert or Master Mode, however, explosives do a lot less damage against it. Other piercing weapons like Spiky Balls or Molotov Cocktails should be used.
+
+Piercing weapons work well against the Brain of Cthulhu's Creepers, such as Spiky Balls, Bone Throwing Knives, or Frost Daggerfish.
+Queen Bee
+
+All players now have access to Fossil armor, which will increase the damage of throwing weapons. The Shark Tooth Necklace is useful on higher difficulties due to Queen Bee's high defense.
+
+Poisoned Knives made from Throwing Knives and the powder of the world's evil should be a good weapon. Once she is defeated, you can use Beeswax for making Beenades.
+
+Speaking of bees, if you play in Expert, then it drops the Hive Pack. An extra 7.5% damage from bees is nothing to scoff at.
+Skeletron
+
+Skeletron's hands have high defense, so you need something to counteract that. Beenades are particularly effective against the hands.
+
+Aiming may be tough in this fight. To compensate, high-velocity weapons such as the Bone Javelin are recommended.
+
+In Expert Mode, Skeletron drops the Bone Glove, which is a specialized throwing weapon.
+
+While the Bone Glove is still useful in these version, it is now an accessory that auto-throws bones. More importantly, the Necro armor is now available for boosting throwing damage.
+Wall of Flesh
+
+You've now got one challenge left: The Wall of Flesh, the last pre-hardmode boss. The Wall of Flesh is a difficult fight, as you'd expect. More than ever, an arena is required. Start the fight at the world's edge, and throw weapons at a distance. Strong weapons for this fight include Beenades and Dynamite.
+Hardmode
+
+Due to the complete lack of Hardmode gear for throwers, it is almost impossible to beat the rest of the game as the class, so you should switch to another one at this point – if you're playing 1.4, another form of Ranged is the most natural transition. However, one could still use melee class throwing-type weapons, such Boomerangs, Shadowflame Knife and the Daybreak.
+References
+
+https://www.youtube.com/watch?v=CF6dJDC6J64
+https://www.youtube.com/watch?v=ecJqI4LR9Tk
+https://forums.terraria.org/index.php?threads/lots-of-pre-hardmode-weapons-tested-against-the-wall-of-flesh.104891/
+https://www.youtube.com/watch?v=O2JabJPmlqE
+https://www.youtube.com/watch?v=oh2nsbKX7mg&t=8s
+https://forums.terraria.org/index.php?threads/a-ton-of-weapons-tested-against-empress-of-light.104767/
+https://www.youtube.com/watch?v=-o_muHZ0qjc
+https://www.youtube.com/watch?v=Cg28h1-j8Ws
+https://www.youtube.com/watch?v=O8Ouqtl5WCU
+https://forums.terraria.org/index.php?threads/lots-of-pre-hardmode-weapons-tested-against-the-wall-of-flesh.104891/
+https://www.youtube.com/watch?v=CFjEm3VH0o8
+https://forums.terraria.org/index.php?threads/lots-of-pre-hardmode-weapons-tested-against-the-wall-of-flesh.104891/
+https://www.youtube.com/playlist?list=PL868R6u83CmTHb9AO_lYxRJE7v-k3UD62
+https://www.youtube.com/watch?v=i6azR6B-IXQ&list=PL868R6u83CmTHb9AO_lYxRJE7v-k3UD62&index=8
+https://www.youtube.com/watch?v=J5NIZut4RFs
+https://www.youtube.com/watch?v=xIXQ3ZMusz4
+https://forums.terraria.org/index.php?threads/a-ton-of-weapons-tested-against-empress-of-light.104767/
+https://forums.terraria.org/index.php?threads/lots-of-pre-hardmode-weapons-tested-against-the-wall-of-flesh.104891/
+https://forums.terraria.org/index.php?threads/a-ton-of-weapons-tested-against-empress-of-light.104767/
+https://www.youtube.com/watch?v=C9fGmXQMpWo
+https://forums.terraria.org/index.php?threads/lots-of-pre-hardmode-weapons-tested-against-the-wall-of-flesh.104891/
+https://www.youtube.com/watch?v=IvKgkaw1LLg
+https://forums.terraria.org/index.php?threads/a-ton-of-weapons-tested-against-empress-of-light.104767/
+https://www.youtube.com/watch?v=7w-buv3BNWo
+https://www.youtube.com/watch?v=0wEkAaMSsHg
+https://www.youtube.com/watch?v=pnEJxg76p8o
+https://forums.terraria.org/index.php?threads/a-ton-of-weapons-tested-against-empress-of-light.104767/
+https://forums.terraria.org/index.php?threads/journeys-end-1-4-official-item-balance-feedback-and-discussion-thread.88978/post-1995397
+https://forums.terraria.org/index.php?threads/lots-of-pre-hardmode-weapons-tested-against-the-wall-of-flesh.104891/
+https://www.youtube.com/watch?v=cv1RrN74d1o
+
+https://www.youtube.com/watch?v=80fjn_r-x8s&list=PL80jD2t3XxDBo_O3S8IyO0kA6I0rBLLQB
+
+View or edit this template
+Basics
+
+Guide:Getting startedGetting started Guide:Practical tipsPractical tips Walkthrough
+Guide:Game progressionGame progression Guide:Game progression graphProgression graph Guide:Mining techniquesMining techniques
+
+Setups
+
+Guide:Class setupsClass setups
+Guide:Weapon playthroughsWeapon playthroughs Guide:Armor progressionArmor progression Guide:Inventory managementInventory management
+
+Farming
+
+Guide:Making moneyMoney Guide:Enemy farmingEnemies Guide:Farming Biome Keys or Key MoldsBiome Keys or Key Molds Guide:Farming resourcesResources
+
+Crafting
+
+Guide:Crafting 101Crafting 101 (Quick reference) Guide:Crafting a Night's EdgeNight's Edge Guide:Crafting Frostspark BootsFrostspark Boots Guide:Crafting Terraspark BootsTerraspark Boots Guide:Crafting a ShellphoneShellphone Guide:Crafting an Ankh ShieldAnkh Shield Guide:Crafting a Terra BladeTerra Blade Guide:Crafting a ZenithZenith
+
+Building
+
+Guide:ArenaArena Guide:Artificial biomesArtificial biomes Guide:BasesBases Guide:TravelTravel Guide:WiringWiring
+
+Surviving in Environments
+
+Guide:Surviving in the CorruptionCorruption Guide:Surviving in the CrimsonCrimson Guide:Surviving in the DesertDesert Guide:Surviving in the DungeonDungeon Guide:Surviving in the JungleJungle Guide:Surviving in the OceanOcean Guide:Surviving in the UnderworldUnderworld
+
+Pre-Hardmode Boss Strategies
+
+Guide:King Slime strategiesKing Slime Guide:Eye of Cthulhu strategiesEye of Cthulhu Guide:Eater of Worlds strategiesEater of Worlds Guide:Brain of Cthulhu strategiesBrain of Cthulhu Guide:Deerclops strategiesDeerclops Guide:Queen Bee strategiesQueen Bee Guide:Lepus strategiesLepus Guide:Skeletron strategiesSkeletron Guide:Turkor the Ungrateful strategiesTurkor the Ungrateful Guide:Wall of Flesh strategiesWall of Flesh
+
+Hardmode
+
+Guide:Getting started with HardmodeGetting started
+Walkthrough Guide:Maintaining world purityMaintaining purity Guide:Surviving in the HallowHallow Guide:Surviving in the Jungle TempleJungle Temple
+
+Hardmode Boss Strategies
+
+Guide:Queen Slime strategiesQueen Slime Guide:The Twins strategiesThe Twins Guide:The Destroyer strategiesThe Destroyer Guide:Skeletron Prime strategiesSkeletron Prime Guide:Mechdusa strategiesMechdusa Guide:Plantera strategiesPlantera Guide:Empress of Light strategiesEmpress of Light Guide:Golem strategiesGolem Guide:Ocram strategiesOcram Guide:Duke Fishron strategiesDuke Fishron Guide:Lunatic Cultist strategiesLunatic Cultist Guide:Moon Lord strategiesMoon Lord
+
+Events
+
+Guide:Blood Moon strategiesBlood Moon Guide:Goblin Army strategiesGoblin Army Guide:Old One's Army strategiesOld One's Army Guide:The Torch God strategiesThe Torch God Guide:Pirate Invasion strategiesPirate Invasion Guide:Pumpkin Moon strategiesPumpkin Moon Guide:Frost Moon strategiesFrost Moon Guide:Martian Madness strategiesMartian Madness Guide:Lunar Events strategiesLunar Events
+
+Secret world seeds
+
+Guide:The ConstantThe Constant Guide:Don't dig upDon't dig up Guide:Get fixed boiGet fixed boi Guide:Not the beesNot the bees
+
+Multiplayer
+
+Guide:Setting up a Terraria serverSetting up a Terraria server Guide:Setting up Steam MultiplayerSetting up Steam Multiplayer Guide:Capture the GemCapture the Gem Guide:PvPPvP
+
+Advanced
+
+Guide:Beating the Tutorial"Beating" the Tutorial Guide:Completing the BestiaryCompleting the Bestiary Guide:Dungeon Guardian strategiesDungeon Guardian Guide:Expert ModeExpert Mode Guide:HardcoreHardcore Guide:NPC HappinessNPC Happiness Guide:Obtaining a TerraprismaObtaining a Terraprisma Guide:Skipping aheadSkipping ahead Guide:Teleporter networkTeleporter network
+
+Other
+
+Guide:IdeasIdeas Guide:VanityVanity
+
+Categories:
+
+Revised GuidesGuides
+
+This page was last edited on 22 June 2024, at 20:55.
+Pages that were created prior to March 14, 2022 are adapted from the Fandom Terraria Wiki.
+Page content is under Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 License unless otherwise noted.
+
+Terms of Service
+Privacy policy
+Support Wiki
+Send a ticket to wiki.gg
+Status page
+Manage cookie settings
+
+Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 License
+Powered by MediaWiki
+Part of wiki.gg

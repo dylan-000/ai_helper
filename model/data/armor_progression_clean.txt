@@ -1,0 +1,384 @@
+
+wiki.gg logo
+
+Guide:Armor progression
+This means the page will walk you through a specific task, strategy, or enemy/boss fight.
+
+Progression in Terraria is marked by the player gaining access to new weapons, accessories, and armors. While weapons are the main determinant of combat effectiveness, armor also plays an important role by mitigating damage taken and passively boosting damage output.
+
+Although simply choosing a tier-appropriate set of three matching armor pieces will typically be enough to beat the game, players seeking to optimize their loadouts for maximum offense or defense will often get better results from using mix-and-match hybrid sets. This guide will help you decide on which armor combinations to use at various points in game progression.
+
+The armor listings within each section are in no particular order; sortable stat comparison charts are provided for those who want to maximize a particular stat. For stats on individual armor pieces, refer to armor stat table.
+
+Contents
+
+1 Stat overview
+2 Earlygame
+3 Late pre-Hardmode
+4 Early Hardmode
+5 Pre-Plantera
+6 Post-Golem (Old One's Army, Tier 2)
+7 Post-Golem (Old One's Army, Tier 3)
+8 Endgame
+9 Max Stat Loadouts
+
+Stat overview
+
+In most combat situations, the most beneficial armor stats are damage, critical strike chance, minion capacity, health regeneration, and defense.
+
+Damage and critical strike chance are straightforward stats that boost the player's damage output. The optimal combination of total damage and critical chance is around 50/50, though enemy defense tilts the balance slightly in favor of damage. For simplicity, this guide assumes that both stats are equally valuable.
+
+Minion capacity is often thought of as a class-specific stat. However, the autonomous nature of minions allows all classes to benefit from increased capacity. Even without investment in summon damage, a single minion can contribute a considerable amount of DPS, along with other potential benefits like attacking enemies coming from multiple directions, or stunlocking them.
+
+Sentry capacity has similar offensive potential, but it is not as universally useful as minion capacity due to the stationary nature of sentries making them difficult to use outside of dedicated arenas.
+
+Defense is a historically undervalued but useful stat that becomes even more useful on specialized tank builds, some of which are listed in this guide. To maximize the effectiveness of these sets, it's recommended to use defensive accessories reforged to Warding. As a rule of thumb, each point of defense is more effective than a 1% DPS boost when damage taken per hit is less than 50 / 75 / 100. While defensive builds are viable on higher difficulties, it will usually take heavier defense investment to reach the same level of effectiveness, and raw defense is unlikely to offer much protection from contact damage in the for the worthy and get fixed boi seeds.
+
+Regeneration is a rare and highly desirable stat for armor to have. It is a more consistent source of survivability than defense, as it provides the same benefit regardless of how much damage the player takes per hit. For perspective, 2 HP/sec is equivalent to 80% of the total regeneration one would gain by using Greater Healing Potions on a 60 second cooldown.
+
+Melee speed is a situational stat whose effectiveness depends entirely on the melee weapon that is being used. For most melee weapons that are capable of attacking at a distance, the only effect of melee speed is to increase the projectile velocity and/or range, with no effect on the actual attack rate. One significant exception is the Terra Blade, which does fire at a faster rate when melee speed increases, and therefore benefits greatly from melee speed investment. Swords that are mainly used for close-ranged combat like the Night's Edge and Keybrand also benefit from melee speed, although due to the increased risk to the player, it is typically better to run defensive investment instead.
+
+Maximum mana and reduced mana usage can both be thought of as roundabout bonuses to magic DPS, as they both reduce the frequency that players will have to consume mana potions and therefore lessen the effect of Mana Sickness. However, since most magic weapons don't consume mana rapidly enough for Mana Sickness to be a serious hindrance, mana bonuses are usually less important than direct DPS bonuses, and mainly serve to improve quality-of-life when not using mana potions or magic buffs.
+
+Movement speed is not worth investing in, even for players who highly value mobility. It only affects grounded movement speed, making it useless in Hardmode when players will be flying or mounted most of the time. In pre-Hardmode, movement speed bonuses are made obsolete by Hermes Boots and other movement accessories. While grounded movement can be useful in an arena made of Asphalt, running on Asphalt boosts speed by such an extreme degree that any additional movement speed bonuses become virtually unnoticeable.
+
+Earlygame
+
+At this point, armor serves little purpose other than to boost your defense. You may obtain up to 20 defense with metal armors such as Platinum armor, but obtaining these sets is time-consuming and usually unnecessary. It's perfectly fine to simply wear Ebonwood armor, Shadewood armor, or other basic, easy-to-craft armors until you can get your hands on a real armor set; whatever you wear at the start of the game will be replaced very quickly. More experienced players can save time by completely skipping armor in the early game, potentially even up to the Wall of Flesh battle.
+
+Since there are no melee-specific armor sets at this stage, melee users are advised to use classless sets.
+
+Seed-specific considerations:
+
+Drunk world - Moon Lord Legs are available early on and can be worn on mixed sets as a mobility-based alternative to Jungle Pants, at the cost of 3 defense.
+Celebrationmk10 - Wizard Hat provides an additional minion slot, increasing its offensive firepower compared to other magic armors.
+Don't dig up - Ash Wood armor is available immediately (although with reduced defense) and can be worn to reduce damage from lava.
+Get fixed boi - All of the above.
+
+Head 	Chest 	Legs 	Notes
+All classes
+Ancient Shadow HelmetAncient Shadow Helmet 	Ancient Shadow ScalemailAncient Shadow Scalemail 	Ancient Shadow GreavesAncient Shadow Greaves 	(15% crit, 19 def) Ultra-rare set with good offense, defense, and mobility. Extremely time-consuming to obtain.
+Ancient Shadow HelmetAncient Shadow Helmet 	GiGi 	Ancient Shadow GreavesAncient Shadow Greaves 	(5% dmg, 15% crit, 16 def) Variant of Ancient Shadow armor that maximizes melee and ranged bonuses.
+Ancient Shadow HelmetAncient Shadow Helmet 	Flinx Fur CoatFlinx Fur Coat 	Ancient Shadow GreavesAncient Shadow Greaves 	(10% crit, +1 cap, 5% summon, 13 def) Variant of Ancient Shadow armor with summon bonuses. Technically optimal for pure summoners.
+Gladiator HelmetGladiator Helmet 	Gladiator BreastplateGladiator Breastplate 	Gladiator LeggingsGladiator Leggings 	(16 def) Provides high defense and knockback immunity. Can be farmed from a Hoplite Statue placed near a natural wired trap.
+Platinum HelmetPlatinum Helmet 	Platinum ChainmailPlatinum Chainmail 	Platinum GreavesPlatinum Greaves 	(20 def) Maximizes defense.
+Ultrabright HelmetUltrabright Helmet 	Flinx Fur CoatFlinx Fur Coat 	Jungle PantsJungle PantsJungle Pants 	(+1 cap, 5% summon, 11 def) Hybrid set consisting of the most useful items in each armor slot. Mining Helmet also works.
+Ultrabright HelmetUltrabright Helmet 	Mining ShirtMining Shirt 	Mining PantsMining Pants 	(5 def) Provides 30% increased mining speed. Requires some luck with Undead Miners.
+Pumpkin HelmetPumpkin Helmet 	Pumpkin BreastplatePumpkin Breastplate 	Pumpkin LeggingsPumpkin Leggings 	(10% dmg, 7 def) Earlygame set that can be easily obtained during the Halloween season, or by converting Cactus using Shimmer.
+Cactus HelmetCactus Helmet 	Cactus BreastplateCactus Breastplate 	Cactus LeggingsCactus Leggings 	(3 def) Earlygame set that repels enemies upon making contact.
+Ranged
+Fossil HelmetFossil Helmet 	GiGi 	Fossil GreavesFossil Greaves 	(5% dmg, 13% crit, 12 def) Alternative to Ancient Shadow armor. Full Fossil armor can be used as a slight downgrade.
+Fossil HelmetFossil Helmet 	Flinx Fur CoatFlinx Fur Coat 	Fossil GreavesFossil Greaves 	(8% crit, +1 cap, 5% summon, 9 def) Hybrid summoner set.
+Magic
+Wizard HatWizard Hat 	Mystic RobeMystic Robe 	Jungle PantsJungle PantsJungle Pants 	(11% dmg, 22% crit, 12 def) Maximizes magic bonuses, but requires some luck from the Traveling Merchant.
+Wizard HatWizard Hat 	Diamond RobeDiamond Robe 	Jungle PantsJungle PantsJungle Pants 	(5% dmg, 16% crit, 13 def) Reliably obtainable set with high mana economy.
+Jungle HatJungle HatJungle Hat 	Jungle ShirtJungle ShirtJungle Shirt 	Jungle PantsJungle PantsJungle Pants 	(6% dmg, 12% crit, 17 def) Offers a mix of magic offense, mana economy, and defense.
+Magic HatMagic Hat 	Flinx Fur CoatFlinx Fur Coat 	Jungle PantsJungle PantsJungle Pants 	(6% dmg, 12% crit, +1 cap, 5% summon, 9 def) Hybrid summoner set.
+Summon
+Jungle HatJungle HatJungle Hat 	Flinx Fur CoatFlinx Fur Coat 	Jungle PantsJungle PantsJungle Pants 	(+1 cap, 5% summon, 12 def) Focuses on defense, since there is no other summoner equipment. Any helmet with high defense will work.
+
+Stat comparisons:
+
+Click/tap here to reveal this content. (there may be a slight delay)
+Late pre-Hardmode
+
+Sets that can be acquired after defeating at least one pre-Hardmode boss.
+Head 	Chest 	Legs 	Notes
+All classes
+Shadow HelmetShadow Helmet 	Shadow ScalemailShadow Scalemail 	Shadow GreavesShadow Greaves 	(15% crit, 19 def) Classless set that substantially boosts ground and air speed.
+Crimson HelmetCrimson Helmet 	Crimson ScalemailCrimson Scalemail 	Crimson GreavesCrimson Greaves 	(9% dmg, 9% summon, extra regen, 19 def) Classless set used to regenerate health while exploring. Works best outside of combat when standing still.
+Melee
+Molten HelmetMolten Helmet 	Molten BreastplateMolten Breastplate 	Molten GreavesMolten Greaves 	(17% dmg, 7% crit, 25 def) Maximizes melee bonuses and defense, and grants immunity to On Fire!.
+Ranged
+Necro HelmetNecro HelmetNecro Helmet 	Necro BreastplateNecro Breastplate 	Necro GreavesNecro Greaves 	(15% dmg, 10% crit, 19 def) Maximizes ranged bonuses.
+Magic
+Wizard HatWizard Hat 	Mystic RobeMystic Robe 	Meteor LeggingsMeteor Leggings 	(20% dmg, 16% crit, 11 def) Maximizes magic bonuses.
+Wizard HatWizard Hat 	Diamond RobeDiamond Robe 	Jungle PantsJungle PantsJungle Pants 	(5% dmg, 16% crit, 13 def) Mix and match with above set for better mana economy.
+Jungle HatJungle HatJungle Hat 	Jungle ShirtJungle ShirtJungle Shirt 	Jungle PantsJungle PantsJungle Pants 	(6% dmg, 12% crit, 17 def) Offers a mix of magic offense, mana economy, and defense.
+Meteor HelmetMeteor Helmet 	Meteor SuitMeteor Suit 	Meteor LeggingsMeteor Leggings 	(27% dmg, 0% crit, 16 def) Removes mana cost from Space Gun and Gray Zapinator.
+Summon
+Obsidian Outlaw HatObsidian Outlaw Hat 	Obsidian LongcoatObsidian Longcoat 	Obsidian PantsObsidian Pants 	(+15% whip speed, +1 cap, 31% summon, 15 def) Provides substantial speed and range bonuses to whips.
+Bee HeadgearBee Headgear 	Bee BreastplateBee Breastplate 	Bee GreavesBee Greaves 	(+2 cap, 23% summon, 13 def) Maximizes minion bonuses; optimal for non-whip users.
+Bee HeadgearBee Headgear 	Bee BreastplateBee Breastplate 	Molten GreavesMolten Greaves 	(+7% whip speed, +2 cap, 8% summon, 17 def) Defensive set. Whip tag damage compensates for low damage bonuses.
+
+Stat comparisons:
+
+Click/tap here to reveal this content. (there may be a slight delay)
+Early Hardmode
+
+To save time and resources, it is recommended to prioritize turning Hardmode ores into pickaxes/drills, anvils, and forges to unlock Titanium or Adamantite as soon as possible, which will give you the best chances against your first mechanical boss. Until then, extra ores can be turned into individual armor pieces with the highest stats (typically head pieces) and deconstructed with Shimmer later on.
+Head 	Chest 	Legs 	Notes
+All classes
+Crystal Assassin HoodCrystal Assassin Hood 	Crystal Assassin ShirtCrystal Assassin Shirt 	Crystal Assassin PantsCrystal Assassin Pants 	(15% dmg, 15% crit, 15% summon, 36 def) Requires killing Queen Slime. Provides a dash effect, freeing up accessory slot that would normally be taken up by Shield of Cthulhu in Expert mode.
+Titanium MaskTitanium Mask 	Frost BreastplateFrost Breastplate 	Adamantite LeggingsAdamantite Leggings 	(9/0/0% dmg, 27/18/7% crit, 55 def) Provides near-max defense.
+Titanium MaskTitanium Mask 	Frost BreastplateFrost Breastplate 	Forbidden TreadsForbidden Treads 	(9/0/10% dmg, 20/11/0% crit, +1 cap, 51 def) Defensive hybrid summoner set with assorted bonuses.
+Melee
+Adamantite HelmetAdamantite Helmet 	Frost BreastplateFrost Breastplate 	Mythril GreavesMythril Greaves 	(14% dmg, 28% crit, 51 def) Balanced offensive + defensive melee set.
+Mythril HelmetMythril Helmet 	Mythril ChainmailMythril Chainmail 	Mythril GreavesMythril Greaves 	(17% dmg, 28% crit, 7% summon, 37 def) Cheaper set that maximizes melee bonuses at the cost of defense.
+Titanium MaskTitanium Mask 	Titanium BreastplateTitanium Breastplate 	Titanium LeggingsTitanium Leggings 	(16% dmg, 15% crit, 7% summon, 49 def) Damages and knocks back enemies in close range.
+Ranged
+Adamantite MaskAdamantite Mask 	Frost BreastplateFrost Breastplate 	Mythril GreavesMythril Greaves 	(14% dmg, 31% crit, 37 def) Maximizes ranged bonuses.
+Adamantite MaskAdamantite Mask 	Frost BreastplateFrost Breastplate 	Spider GreavesSpider Greaves 	(14% dmg, 21% crit, +1 cap, 6% summon, 35 def) Extra minion slot for improved crowd control.
+Frost HelmetFrost Helmet 	Frost BreastplateFrost Breastplate 	Frost LeggingsFrost Leggings 	(26% dmg, 11% crit, 43 def) Provides decent ranged bonuses and defense, along with a useful Frostbite debuff.
+Titanium HelmetTitanium Helmet 	Titanium BreastplateTitanium Breastplate 	Titanium LeggingsTitanium Leggings 	(23% dmg, 13% crit, 7% summon, 34 def) Damages and knocks back enemies in close range, but set bonus may not be useful on ranger.
+Magic
+Adamantite HeadgearAdamantite Headgear 	Adamantite BreastplateAdamantite Breastplate 	Forbidden TreadsForbidden Treads 	(30% dmg, 12% crit, +1 cap, 8% summon, 28 def) Balanced offensive + defensive mage set.
+Adamantite HeadgearAdamantite Headgear 	Forbidden RobesForbidden Robes 	Forbidden TreadsForbidden Treads 	(22% dmg, 12% crit, +2 cap, 10% summon, 24 def) Offensive hybrid summoner set.
+Titanium HeadgearTitanium Headgear 	Titanium BreastplateTitanium Breastplate 	Titanium LeggingsTitanium Leggings 	(23% dmg, 13% crit, 7% summon, 30 def) Damages and knocks back enemies in close range, but set bonus may not be useful on mage.
+Forbidden MaskForbidden Mask 	Forbidden RobesForbidden Robes 	Forbidden TreadsForbidden Treads 	(25% dmg, 0% crit, +2 cap, 25% summon, 26 def) Excellent set bonus for crowd control and killing The Destroyer.
+Adamantite HeadgearAdamantite Headgear 	Mystic RobeMystic Robe 	Forbidden TreadsForbidden Treads 	(28% dmg, 18% crit, +1 cap, 14 def) Maximizes magic bonuses, but provides almost no defense.
+Summon
+Spider MaskSpider Mask 	Spider BreastplateSpider Breastplate 	Spider GreavesSpider Greaves 	(+3 cap, 28% summon, 20 def) Strongest offensive summoner set.
+Titanium MaskTitanium Mask 	Forbidden RobesForbidden Robes 	Spider GreavesSpider Greaves 	(+9% whip speed, +2 cap, 16% summon, 42 def) Defensive summoner set.
+Obsidian Outlaw HatObsidian Outlaw Hat 	Obsidian LongcoatObsidian Longcoat 	Obsidian PantsObsidian Pants 	(+15% whip speed, +1 cap, 31% summon, 15 def) Can be useful during boss fights due to its bonuses to whip range. Best used with Firecracker.
+Forbidden MaskForbidden Mask 	Forbidden RobesForbidden Robes 	Forbidden TreadsForbidden Treads 	(+2 cap, 25% summon, 26 def) Excellent set bonus for crowd control and killing The Destroyer.
+
+Stat comparisons:
+
+Click/tap here to reveal this content. (there may be a slight delay)
+Pre-Plantera
+
+Aside from Hallowed and Chlorophyte Bars, you now have access to the second tier of the Old One's Army, the rewards of which provide welcome upgrades to every class. Though the set bonuses of the Tavernkeep's armor sets are often too situational to be useful, many of the individual armor pieces have very high stats that make them optimal for hybrid sets.
+
+Hallowed armor greatly increases the survivability of glass cannon loadouts, but is less effective than raw defense for pure tanking. Those who plan to use Spectre, Shroomite, or Beetle armor in the future can use Chlorophyte armor at this stage, and use Shimmer to deconstruct it into bars later.
+Head 	Chest 	Legs 	Notes
+All classes
+Crystal Assassin HoodCrystal Assassin Hood 	Crystal Assassin ShirtCrystal Assassin Shirt 	Crystal Assassin PantsCrystal Assassin Pants 	(15% dmg, 15% crit, 15% summon, 36 def) Remains viable since it provides the longest pre-Plantera dash, and the only dash in Classic mode.
+Chlorophyte MaskChlorophyte Mask 	Chlorophyte Plate MailChlorophyte Plate Mail 	Chlorophyte GreavesChlorophyte Greaves 	(21/5/5% dmg, 21/15/15% crit, 5% summon, 51 def) Provides good melee bonuses and serviceable ranged/magic bonuses for tank sets.
+Hallowed HoodHallowed Hood 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(7/7/7% dmg, 7/7/7% crit, +3 cap, 17% summon, 27 def) Glass cannon set with higher classless bonuses than other summoner armors.
+Melee
+Hallowed MaskHallowed Mask 	Turtle Scale MailTurtle Scale Mail 	Squire's GreavesSquire's Greaves 	(18% dmg, 33% crit, 15% summon, 69 def) Provides maximum possible defense with decent melee bonuses.
+Chlorophyte MaskChlorophyte Mask 	Monk's ShirtMonk's Shirt 	Squire's GreavesSquire's Greaves 	(36% dmg, 21% crit, 35% summon, 60 def) Maximizes melee bonuses.
+Turtle HelmetTurtle Helmet 	Turtle Scale MailTurtle Scale Mail 	Turtle LeggingsTurtle Leggings 	(14% dmg, 12% crit, 65 def) Fully defensive set with 15% damage reduction.
+Hallowed MaskHallowed Mask 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(17% dmg, 17% crit, 7% summon, 50 def) Periodically dodges incoming attacks.
+Ranged
+Chlorophyte HelmetChlorophyte Helmet 	Chlorophyte Plate MailChlorophyte Plate Mail 	Chlorophyte GreavesChlorophyte Greaves 	(21% dmg, 15% crit, 5% summon, 44 def) Provides an auto-targeting Leaf Crystal. Optimal for single targets.
+Adamantite MaskAdamantite Mask 	Huntress's JerkinHuntress's Jerkin 	Mythril GreavesMythril Greaves 	(34% dmg, 20% crit, 20% summon, 34 def) Maximizes ranged bonuses; useful for multi-target weapons like the Flamethrower.
+Adamantite MaskAdamantite Mask 	Huntress's JerkinHuntress's Jerkin 	Spider GreavesSpider Greaves 	(34% dmg, 10% crit, +1 cap, 26% summon, 32 def) Hybrid summoner set. Helps with crowd control.
+Hallowed HelmetHallowed Helmet 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(22% dmg, 15% crit, 7% summon, 35 def) Periodically dodges incoming attacks.
+Magic
+Chlorophyte HeadgearChlorophyte Headgear 	Chlorophyte Plate MailChlorophyte Plate Mail 	Chlorophyte GreavesChlorophyte Greaves 	(21% dmg, 15% crit, 5% summon, 38 def) Provides an auto-targeting Leaf Crystal.
+Hallowed HeadgearHallowed Headgear 	Chlorophyte Plate MailChlorophyte Plate Mail 	Apprentice's TrousersApprentice's Trousers 	(17% dmg, 39% crit, 15% summon, 33 def) Slightly better DPS than Chlorophyte armor.
+Hallowed HeadgearHallowed Headgear 	Forbidden RobesForbidden Robes 	Apprentice's TrousersApprentice's Trousers 	(12% dmg, 32% crit, +1 cap, 20% summon, 27 def) Hybrid summoner set.
+Hallowed HeadgearHallowed Headgear 	Squire's PlatingSquire's Plating 	Apprentice's TrousersApprentice's Trousers 	(12% dmg, 32% crit, 25% summon, 42 def) Somewhat tanky magic set that provides more reliable defense than Hallowed armor.
+Hallowed HeadgearHallowed Headgear 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(19% dmg, 19% crit, 7% summon, 31 def) Periodically dodges incoming attacks.
+Summon
+Hallowed HoodHallowed Hood 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(+3 cap, 17% summon, 27 def) Periodically dodges incoming attacks. Favors Blade Staff due to low damage bonuses.
+Spider MaskSpider Mask 	Spider BreastplateSpider Breastplate 	Spider GreavesSpider Greaves 	(+3 cap, 28% summon, 20 def) Strongest offensive summoner set.
+Hallowed MaskHallowed Mask 	Squire's PlatingSquire's Plating 	Squire's GreavesSquire's Greaves 	(+10% whip speed, 30% summon, 69 def) Fully specialized in defense. Also works as a melee set.
+Obsidian Outlaw HatObsidian Outlaw Hat 	Obsidian LongcoatObsidian Longcoat 	Obsidian PantsObsidian Pants 	(+15% whip speed, +1 cap, 31% summon, 15 def) Weaker alternative to above sets that offers better attack range.
+Squire's Great HelmSquire's Great Helm 	Squire's PlatingSquire's Plating 	Squire's GreavesSquire's Greaves 	(+2 sentry, 30% summon, 2 regen, 58 def) Defensive sentry-based set.
+
+Stat comparisons:
+
+Click/tap here to reveal this content. (there may be a slight delay)
+Post-Golem (Old One's Army, Tier 2)
+
+While Plantera and Golem provide separate advancements to game progression when defeated, they are treated as one milestone by this guide due to their similar difficulty level. At this point, players will likely be preparing to face Duke Fishron, Empress of Light, Martian Madness, and the Pumpkin Moon. The gear available at this stage is the minimum recommended gear for fighting the Moon Lord. For ranged users, the non-specific Adamantite Mask (or Hallowed Helmet) and weapon-specific Shroomite headpieces can be considered mostly interchangeable.
+
+This section is mainly for players who are unable to efficiently clear the final tier of the Old One's Army due to not having planned for it in advance. Even without sentries, it should be possible to clear wave 5 to earn 15 medals, enough to buy a single tier 2 armor piece. Those who have stockpiled a large supply of Defender Medals prior to defeating Golem can skip to the next section.
+Head 	Chest 	Legs 	Notes
+All classes
+Beetle HelmetBeetle Helmet 	Beetle ShellBeetle Shell 	Beetle LeggingsBeetle Leggings 	(11/0/0% dmg, 5/0/0% crit, 73 def) Purely defensive set with up to 45% damage reduction. Due to poor melee bonuses, it performs similarly for all classes.
+Melee
+Beetle HelmetBeetle Helmet 	Beetle Scale MailBeetle Scale Mail 	Beetle LeggingsBeetle Leggings 	(44% dmg, 8% crit, +42% melee speed, 61 def) Optimal set for weapons that scale with melee speed, notably the Terra Blade.
+Chlorophyte MaskChlorophyte Mask 	Monk's ShirtMonk's Shirt 	Squire's GreavesSquire's Greaves 	(36% dmg, 21% crit, 35% summon, 60 def) Optimal set for weapons that do not scale with melee speed.
+Hallowed MaskHallowed Mask 	Beetle ShellBeetle Shell 	Squire's GreavesSquire's Greaves 	(15% dmg, 30% crit, +10% melee speed, 15% summon, 74 def) Similar to defensive Beetle armor, trading away damage reduction for decent melee bonuses.
+Hallowed MaskHallowed Mask 	Spooky BreastplateSpooky Breastplate 	Squire's GreavesSquire's Greaves 	(10% dmg, 25% crit, +10% melee speed, +2 cap, 26% summon, 53 def) Hybrid summoner set.
+Squire's Great HelmSquire's Great Helm 	Squire's PlatingSquire's Plating 	Squire's GreavesSquire's Greaves 	(15% dmg, 15% crit, +2 sentry, 30% summon, 2 regen, 58 def) For use against the Old One's Army, paired with Ballistas.
+Monk's Bushy Brow Bald CapMonk's Bushy Brow Bald Cap 	Monk's ShirtMonk's Shirt 	Monk's PantsMonk's Pants 	(20% dmg, 15% crit, +2 sentry, 30% summon, 46 def) For use against the Old One's Army, paired with Lightning Auras.
+Ranged
+Shroomite headpieceShroomite headpiece 	Shroomite BreastplateShroomite Breastplate 	Tiki PantsTiki Pants 	(13% dmg x1.15, 18% crit, +1 cap, 10% summon, 47 def) Provides about as much DPS as full Shroomite, and better crowd control.
+Shroomite headpieceShroomite headpiece 	Shroomite BreastplateShroomite Breastplate 	Shroomite LeggingsShroomite Leggings 	(13% dmg x1.15, 25% crit, 51 def) Excellent overall stats, though the set bonus is usually useless outside of multiplayer.
+Adamantite MaskAdamantite Mask 	Shroomite BreastplateShroomite Breastplate 	Shroomite LeggingsShroomite Leggings 	(27% dmg, 30% crit, 48 def) Provides more flexible damage boosts to all ranged weapons. Also optimal when using rocket weapons.
+Hallowed MaskHallowed Mask 	Shroomite BreastplateShroomite Breastplate 	Shroomite LeggingsShroomite Leggings 	(13% dmg, 20% crit, 64 def) Uses the melee helmet to greatly increase defense and tanking ability.
+Hallowed HelmetHallowed Helmet 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(22% dmg, 15% crit, 7% summon, 35 def) Periodically dodges incoming attacks.
+Huntress's WigHuntress's Wig 	Huntress's JerkinHuntress's Jerkin 	Huntress's PantsHuntress's Pants 	(20% dmg, 10% crit, +2 sentry, 30% summon, 36 def) For use against the Old One's Army, paired with Explosive Traps.
+Magic
+Spectre HoodSpectre Hood 	Spectre RobeSpectre Robe 	Spectre PantsSpectre Pants 	(-25% dmg, 7% crit, 30 def) Reduces magic damage, but grants near-immortality as long as you can manage your mana.
+Spectre MaskSpectre Mask 	Spectre RobeSpectre Robe 	Spectre PantsSpectre Pants 	(25% dmg, 17% crit, 42 def) Set bonus provides 400 DPS of extra burst damage. Can be switched to/from Spectre Hood quickly.
+Spectre MaskSpectre Mask 	Beetle ShellBeetle Shell 	Apprentice's TrousersApprentice's Trousers 	(10% dmg, 30% crit, 10% summon, 60 def) Unconventional defensive set that provides more reliable protection from frequent hits.
+Spectre MaskSpectre Mask 	Spooky BreastplateSpooky Breastplate 	Apprentice's TrousersApprentice's Trousers 	(10% dmg, 30% crit, +2 cap, 21% summon, 39 def) Weaker than Spectre Mask overall, but less reliant on mana thanks to minion investment.
+Hallowed HeadgearHallowed Headgear 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(19% dmg, 19% crit, 7% summon, 31 def) Periodically dodges incoming attacks.
+Forbidden MaskForbidden Mask 	Apprentice's RobeApprentice's Robe 	Apprentice's TrousersApprentice's Trousers 	(25% dmg, 20% crit, 45% summon, 31 def) For use against the Old One's Army, paired with any sentry.
+Summon
+Spooky HelmetSpooky Helmet 	Spooky BreastplateSpooky Breastplate 	Spooky LeggingsSpooky Leggings 	(+4 cap, 58% summon, 30 def) Offensive glass cannon set.
+Tiki MaskTiki Mask 	Tiki ShirtTiki Shirt 	Tiki PantsTiki Pants 	(+4 cap, 30% summon, 35 def) Trades off some damage for 30% increased whip range.
+Hallowed MaskHallowed Mask 	Spooky BreastplateSpooky Breastplate 	Tiki PantsTiki Pants 	(+10% whip speed, +3 cap, 21% summon, 47 def) Balanced offensive + defensive summoner set.
+Hallowed MaskHallowed Mask 	Squire's PlatingSquire's Plating 	Tiki PantsTiki Pants 	(+10% whip speed, +1 cap, 25% summon, 63 def) Defensive summoner set.
+Hallowed HoodHallowed Hood 	Hallowed Plate MailHallowed Plate Mail 	Hallowed GreavesHallowed Greaves 	(+3 cap, 17% summon, 27 def) Periodically dodges incoming attacks.
+
+Stat comparisons:
+
+Click/tap here to reveal this content. (there may be a slight delay)
+Post-Golem (Old One's Army, Tier 3)
+
+With a good supply of Defender Medals in your pocket, you can purchase the best armor available before challenging the Lunar Events. The most notable of these armor pieces is the Valhalla Knight's Breastplate, which noticeably increases the survivability of all classes; it restores 240 health in 1 minute, which is more than a Super Healing Potion can heal in the same amount of time.
+Head 	Chest 	Legs 	Notes
+All classes
+Beetle HelmetBeetle Helmet 	Beetle ShellBeetle Shell 	Beetle LeggingsBeetle Leggings 	(11/0/0% dmg, 5/0/0% crit, 73 def) Purely defensive set that works best against infrequent, powerful hits.
+Melee
+Hallowed MaskHallowed Mask 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(10% dmg, 30% crit, +10% melee speed, 50% summon, 4 regen, 72 def) Maximizes survivability and provides respectable melee bonuses.
+Hallowed MaskHallowed Mask 	Shinobi Infiltrator's TorsoShinobi Infiltrator's Torso 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(10% dmg, 35% crit, +30% melee speed, 40% summon, 74 def) Provides decent melee bonuses (including melee speed) and exceptional defense. Also viable for whip users.
+Beetle HelmetBeetle Helmet 	Beetle Scale MailBeetle Scale Mail 	Beetle LeggingsBeetle Leggings 	(44% dmg, 8% crit, +42% melee speed, 61 def) Optimal offensive set for weapons that scale with melee speed, notably the Terra Blade. However, actual melee speed bonuses might not surpass the above set due to rounding.
+Chlorophyte MaskChlorophyte Mask 	Monk's ShirtMonk's Shirt 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(36% dmg, 26% crit, 40% summon, 66 def) Optimal offensive set for weapons that do not scale with melee speed.
+Valhalla Knight's HelmValhalla Knight's Helm 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(10% dmg, 20% crit, +3 sentry, 60% summon, 4 regen, 68 def) Defensive sentry-based set.
+Shinobi Infiltrator's HelmetShinobi Infiltrator's Helmet 	Spooky BreastplateSpooky Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(20% dmg, 20% crit, +2 sentry, +2 cap, 51% summon, 45 def) Hybrid summoner set.
+Ranged
+Shroomite headpieceShroomite headpiece 	Red Riding DressRed Riding Dress 	Red Riding LeggingsRed Riding Leggings 	(25% dmg x1.15, 15% crit, 50% summon, 51 def) Highest total DPS when combined with minions.
+Adamantite MaskAdamantite Mask 	Red Riding DressRed Riding Dress 	Red Riding LeggingsRed Riding Leggings 	(39% dmg, 20% crit, 50% summon, 48 def) Flexible alternative that is optimal for rocket weapons.
+Red Riding HoodRed Riding Hood 	Red Riding DressRed Riding Dress 	Red Riding LeggingsRed Riding Leggings 	(25% dmg, 20% crit, +3 sentry, 60% summon, 48 def) Extreme buff to Explosive Trap firing speed makes this optimal for Old One's Army and invasion events.
+Shroomite headpieceShroomite headpiece 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Red Riding LeggingsRed Riding Leggings 	(0% dmg x1.15, 15% crit, 55% summon, 4 regen, 51 def) Defensive ranged set.
+Shroomite headpieceShroomite headpiece 	Red Riding DressRed Riding Dress 	Tiki PantsTiki Pants 	(25% dmg x1.15, 5% crit, +1 cap, 35% summon, 47 def) Hybrid summoner.
+Magic
+Spectre MaskSpectre Mask 	Dark Artist's RobesDark Artist's Robes 	Dark Artist's LeggingsDark Artist's Leggings 	(20% dmg, 35% crit, 45% summon, 53 def) Highly mana-efficient offensive set.
+Spectre MaskSpectre Mask 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Dark Artist's LeggingsDark Artist's Leggings 	(10% dmg, 35% crit, 50% summon, 4 regen, 56 def) Offers a combination of survivability and damage.
+Spectre HoodSpectre Hood 	Spectre RobeSpectre Robe 	Spectre PantsSpectre Pants 	(-25% dmg, 7% crit, 30 def) A fallback option for rapidly healing yourself and your teammates.
+Spectre MaskSpectre Mask 	Spectre RobeSpectre Robe 	Spectre PantsSpectre Pants 	(25% dmg, 17% crit, 42 def) Set bonus provides 400 DPS of extra burst damage. Does not scale with weapon strength.
+Spectre MaskSpectre Mask 	Spooky BreastplateSpooky Breastplate 	Dark Artist's LeggingsDark Artist's Leggings 	(10% dmg, 35% crit, +2 cap, 31% summon, 43 def) Offensive hybrid summoner.
+Dark Artist's HatDark Artist's Hat 	Spooky BreastplateSpooky Breastplate 	Dark Artist's LeggingsDark Artist's Leggings 	(15% dmg, 25% crit, +2 sentry, +2 cap, 46% summon, 32 def) Sentry-based hybrid summoner. Notably lacks mana bonuses.
+Summon
+Valhalla Knight's HelmValhalla Knight's Helm 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(+3 sentry, 60% summon, 4 regen, 68 def) Ultimate defensive set for a pure summoner.
+Spooky HelmetSpooky Helmet 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(+1 cap, 61% summon, 4 regen, 57 def) Balanced offensive + defensive summoner set.
+Spooky HelmetSpooky Helmet 	Spooky BreastplateSpooky Breastplate 	Spooky LeggingsSpooky Leggings 	(+4 cap, 58% summon, 30 def) Offensive glass cannon set.
+Tiki MaskTiki Mask 	Tiki ShirtTiki Shirt 	Tiki PantsTiki Pants 	(+4 cap, 30% summon, 35 def) Glass cannon set that trades off some damage for 30% increased whip range.
+Shinobi Infiltrator's HelmetShinobi Infiltrator's Helmet 	Shinobi Infiltrator's TorsoShinobi Infiltrator's Torso 	Shinobi Infiltrator's PantsShinobi Infiltrator's Pants 	(+20% whip speed, +3 sentry, 60% summon, 54 def) Sentry-based set that boosts whips and melee weapons.
+
+Stat comparisons:
+
+Click/tap here to reveal this content. (there may be a slight delay)
+Endgame
+
+All Luminite-tier armors are the best offensive armors for their respective classes (aside from Solar Flare armor, which offers a combination of offense and defense). However, the Valhalla Knight's Breastplate can still be worn by ranged users and summoners, who do not receive any defensive benefits from their respective endgame armors. Sentry-based hybrid sets are also viable due to the massive power of endgame sentry weapons.
+Head 	Chest 	Legs 	Notes
+Melee
+Solar Flare HelmetSolar Flare Helmet 	Solar Flare BreastplateSolar Flare Breastplate 	Solar Flare LeggingsSolar Flare Leggings 	(29% dmg, 26% crit, 3 regen, 78 def) Offers almost as much regen as the Valhalla Knight's Breastplate, and provides decent offensive bonuses and damage reduction on top of that.
+Solar Flare HelmetSolar Flare Helmet 	Solar Flare BreastplateSolar Flare Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(29% dmg, 46% crit, 20% summon, 2 regen, 82 def) Maximizes melee bonuses and raw defense.
+Solar Flare HelmetSolar Flare Helmet 	Solar Flare BreastplateSolar Flare Breastplate 	Stardust LeggingsStardust Leggings 	(29% dmg, 26% crit, +2 cap, 22% summon, 2 regen, 70 def) Defensive hybrid summoner.
+Shinobi Infiltrator's HelmetShinobi Infiltrator's Helmet 	Stardust PlateStardust Plate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(20% dmg, 20% crit, +2 sentry, +2 cap, 62% summon, 50 def) Offensive sentry-based hybrid summoner.
+Ranged
+Vortex HelmetVortex Helmet 	Vortex BreastplateVortex Breastplate 	Vortex LeggingsVortex Leggings 	(36-116% dmg, 27-47% crit, 62 def) Immense DPS when stealthed, at the cost of horizontal acceleration (unless using Soaring Insignia). Appreciates teammates that can draw aggro.
+Shroomite headpieceShroomite headpiece 	Red Riding DressRed Riding Dress 	Stardust LeggingsStardust Leggings 	(25% dmg x1.15, 5% crit, 2 cap, 47% summon, 47 def) Maximizes non-stealthed total DPS for mounted combat.
+Vortex HelmetVortex Helmet 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Vortex LeggingsVortex Leggings 	(24% dmg, 15% crit, 30% summon, 4 regen, 58 def) Defensive ranged set.
+Magic
+Nebula HelmetNebula Helmet 	Nebula BreastplateNebula Breastplate 	Nebula LeggingsNebula Leggings 	(26-71% dmg, 16% crit, 0-45% summon, 0-9 regen, 46 def) Provides immense damage and regen bonuses to yourself and your teammates.
+Spectre MaskSpectre Mask 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Dark Artist's LeggingsDark Artist's Leggings 	(10% dmg, 35% crit, 50% summon, 4 regen, 56 def) Defensive set. Useful if you are unable to pick up Nebula boosters, or have a teammate who can provide them.
+Dark Artist's HatDark Artist's Hat 	Stardust PlateStardust Plate 	Dark Artist's LeggingsDark Artist's Leggings 	(15% dmg, 25% crit, +2 sentry, +2 cap, 57% summon, 37 def) Mixed glass cannon set that can be used in the same situations as above.
+Spectre HoodSpectre Hood 	Spectre RobeSpectre Robe 	Spectre PantsSpectre Pants 	(-25% dmg, 7% crit, 30 def) Remains mildly useful for pinch healing, with the highest healing potential (36/30 health per second).
+Summon
+Stardust HelmetStardust Helmet 	Stardust PlateStardust Plate 	Stardust LeggingsStardust Leggings 	(+1 sentry, +5 cap, 66% summon, 38 def) Glass cannon set.
+Valhalla Knight's HelmValhalla Knight's Helm 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Stardust LeggingsStardust Leggings 	(+2 sentry, +2 cap, 62% summon, 4 regen, 56 def) Balanced offensive + defensive sentry-based summoner.
+Valhalla Knight's HelmValhalla Knight's Helm 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(+3 sentry, 60% summon, 4 regen, 68 def) Fully defensive sentry-based summoner.
+
+Stat comparisons:
+
+Click/tap here to reveal this content. (there may be a slight delay)
+Max Stat Loadouts
+
+Loadouts that maximize one specific stat (or two related stats), with no consideration for other stats. These loadouts are mainly included for reference, and are not necessarily viable.
+Head 	Chest 	Legs 	Notes
+All classes
+Cobalt HelmetCobalt Helmet 	GiGi 	Shinobi Infiltrator's PantsShinobi Infiltrator's Pants 	(50% movement speed) Max movement speed.
+Solar Flare HelmetSolar Flare Helmet 	Solar Flare BreastplateSolar Flare Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(82 def) Max defense.
+Squire's Great HelmSquire's Great Helm 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Solar Flare LeggingsSolar Flare Leggings 	(7 regen) Max regen.
+Melee
+Solar Flare HelmetSolar Flare Helmet 	Solar Flare BreastplateSolar Flare Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(29% dmg, 46% crit) Max combined melee damage + crit.
+Shinobi Infiltrator's HelmetShinobi Infiltrator's Helmet 	Solar Flare BreastplateSolar Flare Breastplate 	Orichalcum LeggingsOrichalcum Leggings 	(57% dmg) Max melee damage.
+Solar Flare HelmetSolar Flare Helmet 	Frost BreastplateFrost Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(57% crit) Max melee crit.
+Monk's Bushy Brow Bald CapMonk's Bushy Brow Bald Cap 	Shinobi Infiltrator's TorsoShinobi Infiltrator's Torso 	Solar Flare LeggingsSolar Flare Leggings 	(55% melee speed) Max melee and whip speed.
+Ranged
+Vortex HelmetVortex Helmet 	Vortex BreastplateVortex Breastplate 	Vortex LeggingsVortex Leggings 	(116% dmg, 47% crit) Max ranged damage, crit, and combined ranged damage + crit.
+Shroomite headpieceShroomite headpiece 	Shroomite BreastplateShroomite Breastplate 	Vortex LeggingsVortex Leggings 	(21% dmg x1.15, 26% crit) Max combined ranged damage + crit without stealth.
+Shroomite headpieceShroomite headpiece 	Red Riding DressRed Riding Dress 	Vortex LeggingsVortex Leggings 	(33% dmg x1.15) Max ranged damage without stealth.
+Orichalcum HelmetOrichalcum Helmet 	Shroomite BreastplateShroomite Breastplate 	Red Riding LeggingsRed Riding Leggings 	(38% crit) Max ranged crit without stealth.
+Chlorophyte HelmetChlorophyte Helmet 	Vortex BreastplateVortex Breastplate 	N/A 	(40% ammo conservation) Max ammo conservation.
+Magic
+Nebula HelmetNebula Helmet 	Nebula BreastplateNebula Breastplate 	Nebula LeggingsNebula Leggings 	(71% dmg, 16% crit) Max magic damage and combined magic damage + crit.
+Hallowed HeadgearHallowed Headgear 	Nebula BreastplateNebula Breastplate 	Dark Artist's LeggingsDark Artist's Leggings 	(21% dmg, 46% crit) Max combined magic damage + crit without Nebula boosters.
+Chlorophyte HeadgearChlorophyte Headgear 	Dark Artist's RobesDark Artist's Robes 	Nebula LeggingsNebula Leggings 	(36% dmg) Max magic damage without Nebula boosters.
+Orichalcum HeadgearOrichalcum Headgear 	Nebula BreastplateNebula Breastplate 	Dark Artist's LeggingsDark Artist's Leggings 	(52% crit) Max magic crit.
+Chlorophyte HeadgearChlorophyte Headgear 	Dark Artist's RobesDark Artist's Robes 	N/A 	(-29.5% mana usage) Max mana conservation.
+Hallowed HeadgearHallowed Headgear 	Diamond RobeDiamond Robe 	Forbidden TreadsForbidden Treads 	(+220 mana) Max mana. Note that mana is hard capped at 400.
+Summon
+Stardust HelmetStardust Helmet 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Red Riding LeggingsRed Riding Leggings 	(77% dmg) Max summon damage.
+Stardust HelmetStardust Helmet 	Stardust PlateStardust Plate 	Stardust LeggingsStardust Leggings 	(+5 cap) Max minion capacity. If Stardust Guardian is not desired, swap helmet for Spooky Helmet.
+Valhalla Knight's HelmValhalla Knight's Helm 	Valhalla Knight's BreastplateValhalla Knight's Breastplate 	Valhalla Knight's GreavesValhalla Knight's Greaves 	(+3 sentry) Max sentry capacity. All tier 3 armor sets have the same sentry capacity.
+Tiki MaskTiki Mask 	Stardust PlateStardust Plate 	Stardust LeggingsStardust Leggings 	(40% whip range) Max whip range.
+View or edit this template
+Basics
+
+Guide:Getting startedGetting started Guide:Practical tipsPractical tips Walkthrough
+Guide:Game progressionGame progression Guide:Game progression graphProgression graph Guide:Mining techniquesMining techniques
+
+Setups
+
+Guide:Class setupsClass setups
+Guide:Weapon playthroughsWeapon playthroughs Guide:Armor progressionArmor progression Guide:Inventory managementInventory management
+
+Farming
+
+Guide:Making moneyMoney Guide:Enemy farmingEnemies Guide:Farming Biome Keys or Key MoldsBiome Keys or Key Molds Guide:Farming resourcesResources
+
+Crafting
+
+Guide:Crafting 101Crafting 101 (Quick reference) Guide:Crafting a Night's EdgeNight's Edge Guide:Crafting Frostspark BootsFrostspark Boots Guide:Crafting Terraspark BootsTerraspark Boots Guide:Crafting a ShellphoneShellphone Guide:Crafting an Ankh ShieldAnkh Shield Guide:Crafting a Terra BladeTerra Blade Guide:Crafting a ZenithZenith
+
+Building
+
+Guide:ArenaArena Guide:Artificial biomesArtificial biomes Guide:BasesBases Guide:TravelTravel Guide:WiringWiring
+
+Surviving in Environments
+
+Guide:Surviving in the CorruptionCorruption Guide:Surviving in the CrimsonCrimson Guide:Surviving in the DesertDesert Guide:Surviving in the DungeonDungeon Guide:Surviving in the JungleJungle Guide:Surviving in the OceanOcean Guide:Surviving in the UnderworldUnderworld
+
+Pre-Hardmode Boss Strategies
+
+Guide:King Slime strategiesKing Slime Guide:Eye of Cthulhu strategiesEye of Cthulhu Guide:Eater of Worlds strategiesEater of Worlds Guide:Brain of Cthulhu strategiesBrain of Cthulhu Guide:Deerclops strategiesDeerclops Guide:Queen Bee strategiesQueen Bee Guide:Lepus strategiesLepus Guide:Skeletron strategiesSkeletron Guide:Turkor the Ungrateful strategiesTurkor the Ungrateful Guide:Wall of Flesh strategiesWall of Flesh
+
+Hardmode
+
+Guide:Getting started with HardmodeGetting started
+Walkthrough Guide:Maintaining world purityMaintaining purity Guide:Surviving in the HallowHallow Guide:Surviving in the Jungle TempleJungle Temple
+
+Hardmode Boss Strategies
+
+Guide:Queen Slime strategiesQueen Slime Guide:The Twins strategiesThe Twins Guide:The Destroyer strategiesThe Destroyer Guide:Skeletron Prime strategiesSkeletron Prime Guide:Mechdusa strategiesMechdusa Guide:Plantera strategiesPlantera Guide:Empress of Light strategiesEmpress of Light Guide:Golem strategiesGolem Guide:Ocram strategiesOcram Guide:Duke Fishron strategiesDuke Fishron Guide:Lunatic Cultist strategiesLunatic Cultist Guide:Moon Lord strategiesMoon Lord
+
+Events
+
+Guide:Blood Moon strategiesBlood Moon Guide:Goblin Army strategiesGoblin Army Guide:Old One's Army strategiesOld One's Army Guide:The Torch God strategiesThe Torch God Guide:Pirate Invasion strategiesPirate Invasion Guide:Pumpkin Moon strategiesPumpkin Moon Guide:Frost Moon strategiesFrost Moon Guide:Martian Madness strategiesMartian Madness Guide:Lunar Events strategiesLunar Events
+
+Secret world seeds
+
+Guide:The ConstantThe Constant Guide:Don't dig upDon't dig up Guide:Get fixed boiGet fixed boi Guide:Not the beesNot the bees
+
+Multiplayer
+
+Guide:Setting up a Terraria serverSetting up a Terraria server Guide:Setting up Steam MultiplayerSetting up Steam Multiplayer Guide:Capture the GemCapture the Gem Guide:PvPPvP
+
+Advanced
+
+Guide:Beating the Tutorial"Beating" the Tutorial Guide:Completing the BestiaryCompleting the Bestiary Guide:Dungeon Guardian strategiesDungeon Guardian Guide:Expert ModeExpert Mode Guide:HardcoreHardcore Guide:NPC HappinessNPC Happiness Guide:Obtaining a TerraprismaObtaining a Terraprisma Guide:Skipping aheadSkipping ahead Guide:Teleporter networkTeleporter network
+
+Other
+
+Guide:IdeasIdeas Guide:VanityVanity
+
+Categories:
+
+Revised GuidesGuides
+
+This page was last edited on 11 March 2025, at 07:10.
+Pages that were created prior to March 14, 2022 are adapted from the Fandom Terraria Wiki.
+Page content is under Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 License unless otherwise noted.
+
+Terms of Service
+Privacy policy
+Support Wiki
+Send a ticket to wiki.gg
+Status page
+Manage cookie settings
+
+Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 License
+Powered by MediaWiki
+Part of wiki.gg

@@ -1,0 +1,75 @@
+General Tips
+
+When it comes to Pickaxe progression, it is essentially a completely linear path and as such it's pretty obvious when a new pickaxe upgrade is available. As you unlock new, higher tier ores and materials, it just so happens that the Pickaxes you can make with those materials have both a higher Pickaxe Power and a higher Tool Speed, meaning they are a complete upgrade (for instance, the Mythril PickaxeMythril Pickaxe is less effecient than the Adamantite PickaxeAdamantite Pickaxe, which is less effecient than the Pickaxe AxePickaxe Axe, and it continues to follow game progression). There is, however, a notable exception to this with the Bone PickaxeBone Pickaxe. It is by far the best and most efficient Pickaxe in all of Pre-Hardmode thanks to its very high Tool Speed, and it reaches just a high enough Pickaxe Power to instantly mine soft blocks like Dirt and Snow. Even the Molten PickaxeMolten Pickaxe, the first Pickaxe to reach 100% Pickaxe Power which allows it to instantly mine Stone blocks like Stone and Ice, whereas the Bone Pickaxe must strike twice, is so slow that it fails to be more efficient. This means that, until you reach Hardmode ores, your main Pickaxe can ideally be the Bone Pickaxe.
+Granted, the Bone Pickaxe is a pretty rare drop from Undead Miners, so you certainly aren't guaranteed to get it and shouldn't be worried about acquiring it, but should you be lucky enough to get one definitely hold onto it; and it's likely a good idea to go out of your way to slay all the Undead Miners you encounter.
+If you were to stick with the Bone Pickaxe until you reach Hardmode Ore Pickaxes, the only complications you would run into are with HellstoneHellstone due to lack of Pickaxe Power. You would need to craft either the Deathbringer PickaxeDeathbringer Pickaxe or Nightmare PickaxeNightmare Pickaxe to mine it, and you would then need to craft and hold onto a Molten PickaxeMolten Pickaxe so you can mine the first tier of Hardmode Ore. You would also need either of these 3 pickaxes to mine Dungeon Bricks after beating Skeletron, but otherwise you can simply stick with the Bone PickaxeBone Pickaxe through all of Pre-Hardmode.
+It is important to note that, as of Terraria version 1.4.4.9, Drills are bugged and are significantly slower than pickaxes in every respect. It is recommended you avoid drills entirely.
+Modifiers that affect speed will affect the mining speed of tools; The Light modifier provides the greatest increase.
+Do not jump down a large hole or cave without a way to cancel fall damage, such as an extra jump, Hook, UmbrellaUmbrella, Featherfall PotionFeatherfall Potion, Angel WingsWings, or Lucky HorseshoeLucky Horseshoe. If you do not have those, consider using RopeRope and platforms to safely descend.
+As a rule of thumb, you should not jump down terrain without a way to stop falling if you cannot see the glow of a torch or GlowstickGlowstick that you threw down.
+One can cancel fall damage using a hook by hooking onto any block just before hitting the ground; including the ground you are about to fall onto.
+Spelunker PotionSpelunker Potions are extremely useful and valuable. They highlight any valuable treasure and ores that are on your screen, so if you find yourself unable to find anything of value, drinking a spelunker potion can easily solve this issue.
+Because of their extreme usefulness in particularly the early game, it's highly recommended to actually hold onto the potion ingredients for Spelunker potions, despite the annoyance and loss of inventory space. Obviously, bothering with potion making before having access to good fishing equipment, the Alchemy TableAlchemy Table, or even any Planter boxes is quite annoying, but Spelunker potions are relatively cheap all things considered. The only difficult ingredients are BlinkrootBlinkroot which is easily found and harvested underground as long as you keep an eye out, and MoonglowMoonglow which can be harvested in masse from just a few seeds via Clay Pots very easily due to it's only blooming requirement being that it is night time. The other ingredients, Bottled WaterBottled Water and either Gold OreGold Ore or Platinum OrePlatinum Ore ore are trivially easy to acquire. 3 of these 4 ingredients can be acquired passively as you are mining, and getting Moonglow Seeds really only requires a quick stop to the jungle. From there you can mass produce many Spelunker potions and breeze through early game mining.
+If you are heading into a dangerous underground area, such as the Underground Jungle or Underground Desert, specifically looking for either ores or chest loot, you can limit the time you spend in those dangerous locations by drinking spelunker potions.
+Mining PotionMining Potions, the Ancient ChiselAncient Chisel, the Slice of CakeSlice of Cake, and the Mining armorMining armor all increase mining speed directly. When used in conjunction with one another, you can mine incredibly quickly.
+When using explosives, such as a BombBomb, it's important to keep in mind that they are used most efficiently if one does not remain inactive. If you have a good enough Pickaxe, it's often that in the time you were waiting for the bomb to explode because you didn't want to get hit, you could have simply mined out the same area. This means the most effective ways to use explosives are to either use many at a time or to mine while waiting for your bomb to explode. In other words, you should let your explosives mine something, for instance an ore pocket, while you are mining something else. Once it explodes and you have finished mining what you were mining, you can pick up what the explosive left behind, and will have saved time.
+Using items that light through walls such as the StarfuryStarfury and FirecrackerFirecracker will light up the map, allowing you to locate and distinguish ores.
+Pressing the Left Ctrl (pressing down the right joystick on Xbox One Xbox) key toggles your mining style to Smart Cursor, which is extremely useful for strip mining.
+You can descend relatively fast by turning on Smart Cursor and aiming down. This will quickly dig a 2-block-wide shaft.
+Using Mining HelmetMining Armor is useful when mining. The helmet is especially useful as it mostly eliminates the need for torches. The MagiluminescenceMagiluminescence is an upgrade, providing more light alongside its movement capabilities.
+Additionally, the Mining Helmet can be upgraded into the Ultrabright HelmetUltrabright Helmet by combining it with the Night Vision HelmetNight Vision Helmet, providing enhanced vision, similar to that of the Night Owl PotionNight Owl Potion.
+For quick trips to the various layers of the world, a hellevator can be a very useful structure. Dig a vertical shaft from underneath your base down to The Underworld and consider placing RopeRopes or platforms to conveniently ascend and descend (note that rope is faster and more convenient to place).
+A hellevator is also a good place to start looking for Hardmode ores near the beginning of Hardmode. It will generally be safer than trying to mine in the Underground Corruption, Crimson, or Hallow.
+Hardmode ores are restricted to certain layers:
+Cobalt OreCobalt / Palladium OrePalladium Ore can be found in all Underground layers;
+Mythril OreMythril / Orichalcum OreOrichalcum Ore can be found in Cavern layers;
+Adamantite OreAdamantite / Titanium OreTitanium Ore can only be found in the lower Cavern layer (which is where Lava replaces Water).
+
+Shaft Mining
+See also: Hellevator.
+
+You can build shafts to connect disconnected caves. Build shafts if you can't proceed any further in the cave you're currently exploring, or as the safest way to explore them.
+Digging through Water
+
+If you're digging through water, you might drown and lose your coins. The safest method to prevent this is bringing along some Gills Potions or a Diving Helmet, or horizontally dig a tunnel of at least three tiles into the walls and mining the two tiles above the tunnel to create an air pocket. Additionally, as torches won't work underwater, consider bringing along some Glowsticks, a Flare Gun, or Cursed/Ichor Torches.
+
+When you come across water while digging downward, place blocks in the water where you want the walls of your tunnel. Sand and Silt can be useful here.
+
+Once your tunnel is completely sealed off from the rest of the body of water, you'll need to drain the water inside of its walls. If there is a cave nearby, you can dig an outlet to let the water drain into that. Otherwise, dig a cavity off to the side starting from the bottom of your tunnel. If you are digging sideways, you need to place blocks behind you before digging through the water to prevent flooding your tunnels.
+
+If you have access to Pumps, you can use them to move water from it to any nearby cave or reservoir. Simply place an Inlet Pump at the lowest point of your tunnel and wire it to an Outlet Pump where you want it to end up. Finally, place a trigger such as a Lever, connect it to the circuit, and use it to start draining the water.
+Digging through Lava
+
+No solid blocks can be placed in Lava, so digging through it can be a problem. If you need to dig through it, you can use obsidian skin potions which grant fire resistance to dig straight through the lava and move it to any nearby cave. Consider bringing a pickaxe that's capable of digging through Obsidian. Additionally consider bringing along some Gills Potions. Alternatively, Sand/Silt can be dropped into lava, and with enough, you can replace all of it with sand/silt. Bombs can also explode through lava and can easily be used for small-medium sized lava pits, especially when covered by obsidian.
+
+If you don't have access to obsidian skin potions you can also alternatively flood your tunnels with water, so that there's enough of it to turn lava into Obsidian. Newly formed Obsidian will become the walls of your tunnel, and can be replaced by digging them and using another block. As the tunnel is likely to be flooded you may want to seek ways for breathing underwater, like the Gills Potion or digging an air pocket.
+
+If you are doing this in the Underworld, water rapidly evaporates in it, so it must be replaced with Honey, which produces Crispy Honey Blocks instead of Obsidian.
+Finding Traps
+
+Traps can be found randomly while exploring, by using a Dangersense Potion, or by holding any wire-related item (for example, a Pressure Plate) or equipping a Mechanical Lens and looking for horizontal Wire lines. If the lines are short and not straight, it may be some explosives, Statues or Geysers. The Geysers can only be found in Lava layer.
+
+These methods can also be used to find any Dead Man's Chests, as the chest is connected with wires around the traps.
+Mining Hellstone
+
+Digging through the Underworld presents unique challenges, particularly in managing the lava spawned when Hellstone is mined.
+
+Superheated Blood can make mining Hellstone extremely easy because it makes you completely immune to lava damage.
+
+The fastest and easiest way is to use Obsidian Skin Potions, as you don't need to surround the Hellstone with blocks or move the lava. Furthermore, you can simply jump in one of the many lava lakes for easy access to the Hellstone. This will also prevent most monsters from reaching you. You can use a Magic Mirror to quickly escape before the buff ends.
+
+Alternatively, you can completely surround the Hellstone veins with a layer of blocks. That way, when the Hellstone is mined, the lava it leaves will be safely contained. While standing outside the barrier, mine the Hellstone vein. If some Hellstone is out of reach, drain the lava into a reservoir or move it with Pumps.
+
+A final though riskier option is to mine a small area under the Hellstone, and suspend yourself above the spawned lava with a multi-latching hook. This technique is sometimes faster but requires precise control of your position, and may make it difficult to reach veins in particularly inconvenient locations (such as those very close to a lava lake).
+Other Tips for Mining Hellstone
+Using an artificial Meteor biome
+
+If the player places 50 pieces of Meteorite ore or more on the screen where they are mining, they can create an artificial Meteorite biome. In this biome, all monster spawns are replaced by Meteor Heads, which are more predictable, and tend to do less damage than the naturally spawning creatures of The Underworld. If the player can withstand the Meteor Head attacks, they can mine Hellstone in relative peace.
+Using natural Underworld structures
+
+There are often Hellstone ore veins next to the Ruined Houses, and with the thin wall of Obsidian Brick between the Hellstone, in which makes a great natural barrier. The player can mine most Hellstone ore veins, and if some of it is out of reach, mine a single block to drain the lake, as the house can function as reservoir.
+Mining in Hardmode
+
+In Hardmode, mining becomes more and more a trivial problem as pickaxes and drills with increasing Pickaxe power become available.
+
+The post-Moon Lord Drill Containment Unit is a flying mount which mines all blocks around the player within a certain radius at a very rapid speed. It is highly effective for most kinds of mining

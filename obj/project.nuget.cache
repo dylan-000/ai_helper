@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a77URfamTCk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fish2\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\ai_helper\\ai_helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fish2\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

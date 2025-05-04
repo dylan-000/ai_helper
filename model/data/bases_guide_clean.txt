@@ -1,0 +1,281 @@
+Bases
+
+A base can be defined as a place to station your Bedroom, your NPCs, and your storage and crafting systems.
+
+These can be built as lavishly or crudely as you see fit as long as it passes the minimum requirements for a House.
+
+At the start of the game, it is recommended to build your base near your world spawn point, as you will have less danger getting to your NPCs. When you have a Bed, you can place your spawn point in a more desirable location in your base.
+
+Room types
+NPC Houses
+Main article: House
+NPC Houses, and crafting stations. Note that this arrangement is extremely inefficient in 1.4, as NPCs now have preferences about biomes, space, and neighbors.
+
+An NPC house is an enclosed structure that NPCs can move into. As houses can share walls, floors, ceilings, and doors, multiple NPC houses usually become rooms within a larger base of operations. Note that you cannot have more than 3 NPCs in 1 area without all said NPC’s wares going up in price.
+
+This content is transcluded from House.The range of a house includes a "connected" internal area and the "frame" surrounding it, in details:
+
+A tile can be "connected" in 8 directions, which means that tiles in the internal area have to be connected with each other in horizontal, vertical, or diagonal directions.
+"Frame" refers to the tiles surrounding the internal tiles. The frame must be completely closed (i.e. the internal area is completely unconnected to any tiles outside). The frame can only be made up of solid tiles (solid blocks or platforms that are not actuated), Trap Doors, doors, or Tall Gates (only the tiles occupied when the doors are closed will count into the frame).
+
+All tiles within the range of a house (both the frame and the internal area) have to meet the following requirements:
+
+All tiles must be at least 10 tiles away from the true world edges.
+"Holes" that are 5 tiles or more in width/height are not permitted. A "hole" is a tile that is neither occupied by a valid solid tile nor a valid background wall.
+Unsafe walls (such as naturally-occurring Dirt Walls) do not count as valid background walls.
+Having holes in the background walls may sometimes allow enemies to spawn within the house. To create safer windows, place sections of Glass Wall instead.
+A house must have at least 60 but fewer than 750 total tiles including the frame around it.
+
+NPCs may have trouble defending against enemies, so players will need to make sure that enemies cannot get into NPC houses. There are many ways to defend them, so See "Base Defense" below for more details.
+
+NPC houses can be built from any obtainable Blocks, as long as there are no more than 250 Corruption or Crimson blocks nearby. However, using grass blocks can bring in vines and other plants. Using sand as the floor will allow cacti to grow. Using more than a few snow or ice blocks can cause snow particles to fall (this is purely cosmetic). Painter NPCs can also sell various paints and wallpapers to the player to change the colors of the player's base.
+Bedroom
+Main article: Bed#Criteria
+
+Each base should include a room containing a Bed which can be used as a player spawn point. The player will spawn there upon death, or when using a Recall Potion, Magic Mirror/Ice Mirror, Cell Phone, or Shell Phone. Note that the bed must be chosen as the player's spawn point, merely placing it will not make it work. This room can also double as an NPC house (the bed counts as a "comfort item"). Placing the Nurse or Dryad here is a popular option, especially if you have an arena nearby; this allows a player to teleport home for healing or buff removal in the middle of a fight, and the Dryad's Blessing offers a boost in defense. The Merchant or another vendor NPC is another option.
+
+Unlike regular NPC houses, it is important to be able to exit a bedroom once you spawn there -- especially if the Nurse or Dryad is in there, you may need to quickly lure bosses away from them and your other vulnerable NPCs. There are several ways to make a bedroom in which players can exit but NPCs cannot: Trap Doors, platforms in ceiling or floor, or actuated blocks.
+Crafting Area
+Main article: Crafting 101
+Altars cannot be moved. Find the closest Altar to your base, build a room around it, and place walls to prevent enemy spawns.
+
+A base should also include a crafting area in which the Player can craft items. This area should contain the most-used crafting stations like the Work Bench, Furnace, Anvil, Placed Bottle and Tinkerer's Workshop. Additionally, it's useful to assign the Guide to the crafting area, as this will allow the player to look up recipes for items.
+
+Please note that putting all crafting stations together has the downside of forcing the player to scroll through every potential crafting option to find the one that they need. You can check the expanded table instead (by pressing the Hammer button in Desktop version Desktop version, Triangle/Y on Playstation 4 and Xbox One and L on Switch).
+
+It may be useful to separate your crafting room into two or more sections, such as the most-used stations versus the more specialized stations. A separate area for potion brewing may also be helpful, with Placed Bottle or Alchemy Table, Sink, a Keg (for Ale), Cooking Pot/Cauldron (for food), perhaps an Imbuing Station, and storage for ingredients and surplus potions. A spare Furnace may also be convenient for making bottles and mugs.
+
+If an Altar happens to spawn in a convenient location, you may consider building your crafting area around the altar (which will be underground).
+Storage
+Storage, bedroom, and crafting area.
+
+As you gather loot from your adventures, you will eventually exceed your inventory capacity, which will require you to use Storage items like Chests. Organization will quickly become important, due to the large volumes and many types of items encountered while playing Terraria.
+
+Commonly, players organize items into different containers by type (for example: "Building Materials", "Crafting Ingredients", "Ammunition", "Potion Ingredients", "Ores and Gems"). Some players may wish to organize their crafting area to place supplies near the crafting stations that use them. There are many ways to help keep track of which chest holds which items: A variety of different containers are available (don't forget Barrels and especially Dressers), painting them in various colors, renaming them (the name shows in the tooltip), or even placing decorative items, statues, or signs nearby.
+
+Try to avoid assigning NPCs where they can walk into any main storage area, as you cannot right-click chests when NPCs are standing in front of them. It may be in your personal interest though, to have the Nurse live in the same room as your spawn point, because you can teleport home and then have her heal you very easily if you get in trouble fighting.
+
+Players may wish to organize their storage items the same way between all their worlds so that they don't have to remember a new pattern for each one.
+
+Putting all the containers near each other allows the player to use the "Quick Stack to Nearby Chests" feature to automatically put all items in the player's inventory into the chests where they belong. Marking your key items and supplies as "favorites" will avoid accidentally leaving them in your base before an expedition. You might want to have a few chests near your entrance for particularly common items, to quickly dump inventory-filling items such as seeds, Fallen Stars, critters, Pot trash, nighttime drops. etc.
+
+It may be useful to store biome-specific items in outposts in their biomes, e.g. make a base in the Jungle for jungle bait, mud, jungle drops, etc. These outposts might include transportation rooms (Minetracks, Teleporters, Pylons), to quickly move between the home base and the outpost's storage.
+
+It is highly recommended to build your storage areas early, to establish a known place for your useful items, make it easier to store rather than trash items, and so you don’t have to spend a lot of time rearranging the chests and naming them when you are more advanced and have lots of items.
+Garden
+Main article: Gardening
+
+A dedicated garden can keep the player supplied with a steady variety of Herbs for Potions. Nearby landscape can also be used to grow Trees or (later) Pumpkins. Placing torches beneath every fourth grass block, or painting the grass, will make it easier to correctly place Acorns.
+Roof Access
+
+The player will usually want access to the roof, either to gather the Fallen Starstars that can fall on a large base, or for other reasons, like a Minecart Station or Skybridge.
+Travel
+
+Minecart Track can be used to make an easy and cheap way to get around your world quickly. Even for a Large World, less than two hundred iron bars will make enough tracks to span the entire world (and the tracks can also be found and collected underground). If the tracks are laid atop platforms or blocks, the railroad can double as a sky bridge for collecting Fallen Stars. In Desktop version Desktop, Console version Console, and Mobile version Mobile versions, once reaching Hardmode you can also make sky bridges out of Conveyor Belts to automatically gather the stars that fell. A Hellevator with ropes or platforms can provide easy access to Caverns and the Underworld.
+
+Once the player has beaten Skeletron and finds Mechanic in the Dungeon (Desktop version Desktop version, Console version Console version, and Mobile version Mobile version) or beaten one of the Mechanical bosses (Old-gen console version Old-gen console version and Nintendo Nintendo 3DS version version), a Teleporter network may be useful to players to travel quickly between their distant outposts. Setting up the network is a fairly lengthy and expensive project (wire costs half a platinum piece per thousand), but it can be built in sections as time and money allow.
+
+Probably the easiest option for a teleporter network is to run wire along the sky bridge (or otherwise out of the way), avoiding rail junctions, torches, and other incidental mechanisms. The player can set up a linear chain from base to base along the surface, then add branches to reach underground and sky outposts. This can be extended as the player cares about particular areas, and can link existing mini-bases and refuges. For example, the Jungle branch might have stops for the surface base, cavern fishing, a Plantera arena, a cleared hive, the Jungle Temple, and the Underworld.
+
+Alternatively, the player can set up a central teleporter room, where hoiks and other advanced techniques can allow a rapid choice of destinations.
+
+Other alternatives are Pylons, which are obtainable from NPCs.
+Outposts
+
+Outposts are small bases that are used as a staging area for Pylons, NPC homes, and farming various resources of the Biome they are built-in. Outposts usually contain basic facilities as well as means of transport between them, like a Pylon, Teleporter, or Minecart Track system. Once a player has progressed past a biome they may expand their outpost into a full base, and reshape the surrounding landscape to suit their needs better. It is also worthwhile to set up outposts at various depths, such as in the Jungle's Cavern layer, to make full use of Pylons.
+Contents:
+
+Most outposts should include at least the following parts:
+
+Bedroom: This is a valid room containing a Bed. Whenever the player wants to farm a specific biome, they can set their spawn point using the bed so they do not need to travel back to the outpost when they die. This can be dual-purposed as an NPC home by adding a table/workbench and light source.
+Storage area: Several chests to store local supplies and items gathered from the biome.
+Crafting area: The outpost should include basic Crafting stations so the player doesn't need to return to their base to craft simple items. Most common here will be Work Benches, Furnaces, and Anvils, but a Heavy Work Bench may come in handy, and the biome's crafting station is certainly appropriate.
+Teleporter: Even early in the game, it's worth reserving space to later place a teleporter for rapid transit (see above).
+
+Optional features include:
+
+A Fishing spot: This allows fishing in a specific biome (and depth) without being bothered by enemies. This involves a water pool of at least 300 blocks, which can be natural, modified, or completely artificial. This should at least be enclosed and lit, and ideally walled off against enemy spawns. Honey and Lava fishing spots are also possible; they can be made anywhere or adopted where they appear naturally.
+NPC Houses: These serve multiple purposes:
+Spare rooms for new or dislocated NPCs
+Reduce or eliminate enemy spawns in the vicinity. (Only in Normal Mode)
+Any vendor NPC can be used to sell off collected items.
+Some NPCs will sell certain items only if they are housed in the appropriate biome. Especially the Witch Doctor sells several items from the Jungle, and the Painter has special paintings for most biomes.
+Pylons, which can be used to quickly teleport around the world. Note that this only works if you have two or more NPCs or town pets nearby.
+
+Suggested outposts
+
+These are some of the outposts that a player can make in their world, and a short description of why they would be useful. Several of these are specifically needed in Hardmode to farm Biome Keys for the Dungeon chests: Snow, Desert, Jungle, Hallow, and either Corruption or Crimson. In Hardmode, the latter three also contain Biome Mimics with rich drops.
+DesertDesert
+
+A surface desert outpost can provide shelter during sandstorms. Items collected here include Cactus, Pink Prickly Pears, occasional Antlion Mandibles and Scorpions. Palm Wood can be farmed here as well, and the sand itself can be collected and farmed. In Hardmode, this base also allows hunting for Forbidden Fragments, and the variant desert types can provide Dark and Light Shards. The local crafting station is the Glass Kiln.
+
+The proper desert can also grant access to the Underground Desert biome, Oasis, or a Pyramid. Here, the player can obtain Desert Fossils, and in Hardmode, Desert Spirit Lampsand other exotic drops.
+SnowSnow
+
+Building an outpost on the surface allows the collection of Penguins for sale and farming of Boreal Trees. In Hardmode, the Ice Golem offers several drops, and there are more drops to farm underground, including Frozen Turtle Shells and the several drops of Ice Mimics. Fishing offers several useful rewards, notably (in Hardmode) the valuable Scaly Truffle (in an area that is also infected with Hallow or the evil biome). The local crafting station is the Ice Machine.
+
+Furthermore, snow is not corruptible (although ice blocks are), so if a player seeks sanctuary from the Corruption or the Crimson, they can build in a snow biome.
+
+This does come with the risk, however, that Ice Golems may kill NPCs who stray too far from the base. Creating walls around your town can fix this problem.
+OceanOcean
+
+An Ocean outpost is one of the more useful outposts, offering Shark Fins, Coral, Purple Mucus, Black Ink, and the various rewards of fishing in the Ocean.
+
+Palm Trees can also be farmed here. The easiest method for an outpost is to simply build on the coast, but running a platform across the ocean surface will help with safety and mobility. Dedicated players with good equipment can build an underwater base (see below). Fishing here rates a special mention for the number of valuable fish and items which can be caught, including several powerful tools. Only here can Duke Fishron be summoned and fought. In Hardmode, Pirate Maps are dropped here, and fighting an event here (including the Pirates themselves) can get several.
+The CorruptionThe Corruption
+
+An outpost in the corruption allows the player to farm Vile Mushrooms and Rotten Chunks, as well as providing access to the Eater of Worlds, and Demon Altars. In Hardmode, the more important drops are underground; Cursed Flames and Souls of Night are both crucial, and Corrupt Mimics offer powerful drops. To improve farming, players may wish to clear out an area underground and connect it to their base. The local crafting stations are the Meat Grinder and Decay Chamber.
+The CrimsonThe Crimson
+
+An outpost in the crimson allows the player to farm Vertebrae, Vicious Mushrooms, as well as providing access to the Brain of Cthulhu and Crimson Altars. In Hardmode, the underground is where to find Ichor and Souls of Night, as well as Crimson Mimics and their powerful drops. To improve farming, players may wish to clear out an area underground and connect it to their Crimson base. The local crafting stations are the Meat Grinder and Flesh Cloning Vat.
+Floating IslandFloating Island
+
+Farming Harpies for Feathers and Wyverns for Souls of Flight requires an accessible platform high in the sky; a player-walled base provides a refuge from their spawning. Players can use an existing Floating Island or just build their way up. An arena-style area with wooden platforms makes the fights easier, and these can be built from an existing Skybridge. Conveniently, most floating islands have a house containing a Skyware Chest, which can be used to shelter yourself from Harpies. These houses will contain chairs and tables; if the player adds a light source, they will be acceptable homes for NPCs. If the walls are broken and replaced by the player, it will also prevent Wyvern spawns while inside. Fishing here can provide several unique catches, including Sky Crates providing any items missing from the chests. However, only the chests can provide the local crafting station, the Sky Mill.
+JungleJungle
+
+Placing outposts in the Jungle at various depths helps with gathering and farming of various resources, and provides secure bases for exploration and storage of your loot. The vegetation provides Rich Mahogany, Moonglow and Sky Blue Flowers, along with critters for bait or Grub Soup. Frogs are plentiful here, and sell fairly well. The underground enemies can provide Vines, Jungle Spores, and Stingers. Players may also gather several useful accessories in the jungle, notably the Bezoar and Nature's Gift. Fishing outposts should be set up at various depths, as the catches vary. Building a house for the Witch Doctor gives you access to items that he sells only here.
+
+After defeating the Queen Bee, her hive can be used as another outpost, which not only provides honey but allows fishing for Honeyfins.
+
+In Hardmode, even more drops and resources appear, notably Life Fruit and Chlorophyte Ore. Plantera's Bulbs and the Jungle Temple both represent major boss fights, and having a safe house nearby can be quite handy.
+
+The local crafting stations are the Honey Dispenser, and later in the game, the Lihzahrd Furnace.
+Glowing Mushroom biomeGlowing Mushroom biome
+
+These glowing blue areas are rare, but braving their deadly enemies allows you to collect Glowing Mushrooms for crafting and potions, along with Mushroom Grass Seeds to spread the unearthly glow elsewhere. The unique Glowing Snails can also be caught here. Creating an NPC House in a mushroom biome allows you to buy the seeds directly from the Dryad. Creating a Surface Glowing Mushroom biome allows Truffle to spawn in Hardmode, but the underground version is the only place to catch Truffle Worms.
+DungeonDungeon
+
+An outpost near the Dungeon (and perhaps one next to one of its passageways) can provide helpful staging areas for exploring and looting the area. Locked Gold Chests provide a variety of items, and if they prove insufficient, a fishing spot here can supplement them with Dungeon Crates. The enemies provide a variety of drops as well; Bones can be had in quantity, while the Nazar and Tally Counter are important for later crafts. In Hardmode, there are more drops, especially Ectoplasm. Two crafting stations come from here: The thematic Bone Welder and the useful Alchemy Station. The Bewitching Table can also be useful for summoners.
+The UnderworldThe Underworld
+
+The Underworld has valuable resources not found elsewhere, notably Hellstone. Players often construct Hellevators to provide easy access to the Underworld, and one of the Ruined Houses can easily be spawn-proofed by breaking and replacing its walls. Several enemy drops are useful, but in particular, the Voodoo Demon provides a Guide Voodoo Doll used for summoning the Wall of Flesh. After defeating that boss for the first time, Hardmode begins, and afterward Living Fire Blocks can drop from any underworld enemy. Farming the Wall of Flesh can provide many useful items, especially Emblems used for crafting. The Ruined Houses provide the Hellforge, which is not only the local crafting station but a component of the Hardmode Forges. The Shadow Chests provide a variety of other powerful items.
+The HallowHallow
+
+When Hardmode begins, one of your existing outposts may well find itself in the Hallow, but if not you can easily set one up. Enemies here provide Pixie Dust and Unicorn Horns for crafting, plus other drops for use or sale. A large, flat area is best for gathering these. The Underground Hallow can provide Crystal Shards (excellent for cash farming) and Souls of Light, along with various other enemy drops. Hallowed Mimics rate special mention for powerful drops such as the Daedalus Stormbow.
+Base Defense
+Drive through entry, block view
+Drive-through player-only entry using actuators, block view Switch actuates the outside platform.
+Drive-through player entry, wired view
+Drive-through entry, wired view. Long wire leads to the same on the other side of the base. Lava pit below the drop.
+
+Player-made structures don't come with protection against enemies. Having monsters wandering around plant farms may be no big deal but many would prefer their NPC areas to be protected. In a Normal mode world, the presence of NPCs will itself suppress ordinary spawning of enemies; each NPC on-screen will reduce the spawn rate, and 3 NPCs on-screen will completely suppress enemy spawns, even at night or when Raining.
+
+However, Events are another story: While on most platforms NPCs can defend themselves, individuals can easily be overwhelmed by even Blood Moon enemies, especially in Hardmode. In Expert Mode, even ordinary night spawns can be an issue. For major events, the best way to protect your NPCs may be to fight the event outside your main base so that the enemies are away from your NPCs. The Advanced Combat Techniques may also be utilized to boost NPCs' self-defense abilities.
+
+NPCs, in general, are careless of their own safety and are prone to wander off among monsters or fall into pits and lava pools. The simplest response to that is to confine them securely to their houses, by using platforms in the floor or ceiling, or Trap Doors, instead of doors that the NPC can open. However, using platforms for this purpose is best reserved for interior rooms, as flying enemies can pass through them, and some other enemies can jump or fall through them.
+
+Placing Peace Candles and Sunflowers around your house can reduce spawns, even during Blood Moons and Solar Eclipses. You can use their buff icons to keep track of their range to make sure of complete coverage.
+General points
+
+By far the easiest way to defend your NPCs is to build a floating base above the ground, with Ropes or flight as the only means of access. This will not prevent NPCs from living at your base, as they can teleport into houses at night, whenever they and their house are both offscreen. Structures do not need to rest on surfaces. (Unless built from sand, silt, and/or slush, but don't do that!)
+This is the only way to defend your base against enemies that can pass through walls, such as Wraiths. Wraiths can move upwards while passing through blocks, but cannot float upwards through empty tiles.
+Flying enemies like Demon Eyes can still reach floating bases, but cannot open Doors. Enemies can also spawn on top of your base or on walkways. All these are little threat if your base is sealed off.
+If you have already built a base on the ground, and don't want to move, you can at least move your working and storage areas to within your town of NPCs, to prevent most "routine" monster spawns.
+The terrain surrounding the base can be dug out to create a "moat" around and beneath it, preventing easy access to most monsters.
+Enemies cannot break open doors if they are unable to stand in front of them. Elevating a door at least two blocks above the ground will grant absolute protection against enemies that can open doors.
+Enemies also cannot force open doors if a piece of furniture, like a Chest or platform, is directly against the inside of the door. Players will have to face away from the house to open the door from the outside. The same method can be used when confining NPCs, but with the blockage outside the door.
+You may additionally guard each entrance with a lava pit to kill enemies. See "Offensive Traps" below for details on using lava to automatically kill enemies that fall into your pit(s).
+A one block hole with a slope next to it directly by a door makes it so that enemies can't open doors. This also makes it so that goblins spawned by a Goblin Army can't break down doors.
+
+Every base should have at least some chests, which will prevent Meteorites from falling within 35 blocks of them. Meteorites also will not fall within 35 blocks of an NPC, nor on-screen for any player. See the Meteorite page for more details on protecting areas from Meteorites.
+Once the Mechanic is present, several more options become available:
+Actuated blocks can be used to block off base entrances, put gaps in walkways, and uncover lava pits (see below) during events, then switched back to normal afterward. A layer of actuated blocks can also be used to seal off your base for events. Remember that platforms can also be actuated.
+You can use actuators (or Active Stone Blocks) and appropriate Pressure Plates, to create a player only door that doesn't require the use of the mouse. Simply actuate a section of wall and link it to some type of pressure plate that can only be triggered by the player, so that enemies are unable to enter, and NPCs cannot escape. Once you reach Hardmode, a Sensor can let the player pass through such doors without even having to step on a pressure plate.
+Avoid actuating the frame of an NPC house (room), as actuated blocks can invalidate the housing and cause them to move elsewhere.
+You can also create a player door by placing stairs against a wall. If you hold down while walking into the stairs, you can clip through the wall.
+
+Offensive traps
+
+Generally, placing lava and wired traps near the area where your NPCs are housed is risky, but can be effective if the NPCs are well-contained. Offensive traps can provide a bit of aid during invasions, but generally, the best practice in the event of an invasion is to fight somewhere other than your base. Nevertheless, the following tips may be useful if you want to set up a structure that can automatically kill enemies with little to no danger to yourself.
+Lava Pits
+
+Pits can be lined with a thin layer of lava to quickly kill most enemies.
+Lava pits should be covered over with actuated blocks to make them safe for normal passage; they can be quickly "switched on" for an invasion or other events, and switched off afterward.
+Players will normally want a tunnel beneath the lava pit, to safely collect drops from the slain enemies.
+Lava will not destroy valuable items of any Rarity other than white.
+Lava destroys items only if they are submerged to higher than the midpoint of their sprite, so a thin layer will not destroy larger items. Note that the sprites for coins are progressively larger for higher denominations; if you want to collect coins along with other drops, you should fine-tune the depth of your lava to destroy copper coins, but not silver or higher. In practice, this translates to one bucket of lava per 6 to 8 blocks of pit length.
+The reason for letting copper coins burn, is that there is a global limit of 400 loose items in each world. If this limit is exceeded, the oldest loose items in the world will despawn, with no consideration for their value or rarity. Stacks count as a single item, but even so, copper coins are dropped in such numbers that most events can easily reach the limit.
+
+Other Traps
+
+Note that Spikes and Hellstone can only damage players, not monsters. However, after rescuing the Mechanic, you can wire traps to deal damage in more versatile ways:
+Rainstick.png
+
+A very simple mechanism is a buried Geyser wired to a single Pressure Plate.
+Dart Traps can be wired to a Timer to fire continuously without further input.
+Fire rate can be staggered by using a "rainstick" mechanism, as shown to the side. The mechanism is activated by manually falling through the platforms with the pressure plates on them. Note that the Traps must be moved into the background with Actuators, and the Actuators must be removed after doing so. 28 Dart Traps are required for continuous fire if the rainstick is set up in a Γ shape, and 21 if set up in an L shape (as shown).
+Super Dart Traps, Spear Traps, and Flame Traps can replace the Dart Traps in the above mechanism if you have access to the Jungle Temple. Use a hammer to rotate them as you see fit.
+Spiky Ball Traps are the easiest to set up; they need only be attached to a 1 Second Timer to work. Dropping the Spiky balls from a great height is not necessarily advantageous, as you want to maximize the time the balls spend bouncing near the ground to damage groups of enemies. Instead, embed the traps in the ground and hammer them twice so they roll out the spiky balls more gently.
+
+Multiplayer Security
+
+It is a sad truth of Terraria that nothing you do in-game will prevent a hostile player from damaging or destroying your base if they have the means to do so. No base can ever be completely safe, even from a griefer armed with only a Copper Pickaxe and some Wood. The following realistic tips can help protect your base by reducing your likelihood of encountering a griefer or reverting the damage that they might cause.
+
+Only play with people that you trust, or have known for a long time.
+Otherwise, if hosting, save a backup copy of your world and character files, so you can restore them to their previous versions if something unexpected happens.
+Another method for hosts is to turn Autosave off, and if your base is damaged, exit Terraria directly by closing the window. All progress since the world was last loaded will be lost, but the damage will also be reverted.
+If you are playing on a public server, you may be able to protect your structures using the server's built-in TShock commands. Most populated public servers run TShock.
+If none of the above options work, build your base underground and make sure it’s made out of multiple layers of Lihzahrd bricks, lava, wooden spikes, and traps to stop simple griefers.
+
+Ornate base with surrounding facilities.
+An ornately-decorated endgame base, with customized rooms for each NPC, central storage and crafting, defensive measures for events, a museum, and nearby arenas.
+
+While your initial houses might be simple boxes of dirt or wood, over time you can do much better than that, producing a base that is not only functional but interesting to look at. You will be gathering a variety of materials and items over time, and one of your NPCs (the Painter) is specifically (only on Old-gen console version Old-gen console version and Nintendo Nintendo 3DS version version, in the Desktop version Desktop version, Console version Console version, and Mobile version Mobile version the Paint Scraper can be used to obtain Glowing Moss) devoted to improving the appearance of your builds. Terraria is a sandbox offering vast opportunities for creativity. Over time, you can reshape your bases and create varied structures, ranging from elegant simplicity to intricate complexity, realistic to fantastic, and from the beautiful to the terrifying or hideous. Several periods of the game are particularly good for such work:
+
+Late pre-Hardmode is an excellent time to work on your base, as you have no incoming threats or time limits in play.
+After defeating the first Mechanical Boss, the Steampunker will arrive, offering some useful items that can add capabilities to your base, notably Teleporters, Sensors, and Conveyor Belts.
+After defeating Plantera you will have a relatively quiet period where biome spread is less of a problem, and the last of your NPCs will have arrived (except perhaps Santa Claus).
+And of course, after defeating the Moon Lord you will be master of your world, with access to all possible materials (except perhaps for the alternate evil biome on pre-1.4 versions).
+
+General suggestions
+
+Here are some suggestions and ideas for elaborating your base:
+
+Build your base's walls more than one tile thick. This creates a more sturdy or cozy feel and allows for the inside and the outside layer to be different.
+
+Don't limit yourself to rectangles! With hammered blocks, you can make a variety of forms, from symmetrical circles and triangles to asymmetrical complexities and sprawling organic blobs.
+Remember that paint is cheap -- if you like the pattern or texture of something(be it a block, wall, or piece of furniture) but it's the wrong color for your build, change the color! This forum thread offers "swatches" to show what all the blocks and walls look like with various kinds of paint.
+Likewise, torches come in a variety of colors and brightnesses (in Hardmode, there's even a rainbow torch), and gemspark and living fire blocks add more flexibility. Even campfires can be made in several colors, and some furniture lighting offers subtler variations. Glass panes can provide natural light, and stained glass can modify it.
+There are some special considerations for what blocks to use in your base:
+Use of bare dirt blocks may result in the occasional Blinkroot plant spawning atop them, and nearby grass can spread onto the dirt. This also applies to mud in the jungle biome.
+Grass will spawn "tall grass" plants on it. Jungle grass will also spawn larger jungle plants, and perhaps Mahogany Trees. Either may also spawn herbs or dye plants according to the biome.
+If grass blocks are exposed from below (such as a roof/ceiling) they will also grow vines beneath them, which may be unsightly. Putting blocks or platforms beneath a grass layer will prevent vine growth.
+Using Snow or Ice blocks can cause snowflakes to fall nearby. This is a purely visual effect.
+Sand requires support, and even with that support, it makes building and rearranging things difficult. Sand blocks can also grow cactus, and occasionally spawn desert enemies such as Vultures.
+Stone, grass, ice, and sand or sandstone are also vulnerable to being transmuted by infectious biomes. All of these except grass have brick forms which are not vulnerable.
+Using larger amounts of certain tiles can create a different biome within your base. This can be helpful when creating biomes for easy nearby access or could be a nuisance when unintended music, mobs, or weather begins to appear. For more information see biomes or Guide:Artificial biomes.
+A good way of dealing with unwanted plants on grass or dirt is to place Echo Blocks on top of them then actuate the Echo Blocks with an Actuation Rod.
+Some simple decorations can quickly turn any NPC house into one that fits their theme or challenges it. For example add some Plants and a Flower Wall to the house of your Dryad, some Bottles and a Bed for your Nurse, a Crystal Ball for your Wizard, an Ammo Box for your Arms Dealer, or some Christmas decoration for Santa Claus. All NPCs have some items that suit their theme, allowing you to build some nice houses for all. Or you can go for contrast, sticking them in a room that they'd presumably hate with a burning passion, say flowers and bright colors for the Tax Collector, or a bare stone cell for the Dye Trader... malicious housing can be fun!
+
+Particular Structures
+
+And some ideas for additional structures, either as part of your base, outposts, or just built for fun:
+
+Castles: One of the most popular constructions in Terraria is a castle. Of course, you can build a simple symmetric castle, but this tends to look rather boring. A good way to build a more interesting castle is by building some tower tops of varying sized and varying heights, and then connecting them. For colors, the Gray Bricks and Red Bricks combine well, while some more expensive bricks may look good for the throne room. Use your imagination to build the way you like it.
+Mines: Not only is it handy to have direct access to a large mine but it looks great too. Using some Wooden Beams, Planked Walls, and torches you can make simple and good-looking mines for yourself.
+Tree House: You can either build your treehouse or edit a Living Tree. Make sure to use some more natural blocks and walls to make it look better.
+Outposts: Since you'll be building some outposts and secondary bases anyway, you can decorate them in the style of their biome or some contrasting style.
+Arenas: Likewise, there's no reason a boss arena can't also look good.
+Themed Houses: There are many furniture themes in Terraria. For example, take a look at the different Doors that are available. You can make a house (or other structure) for each of those themes.
+Pyramid: Make a giant above-ground pyramid, half maze and half trapped to make a worthy burial chamber.
+Domes: Build large glass domes (or other shapes) to display your work.
+Treasure Chamber: You may not have noticed yet, but you can place Coins, Bars and Gems. This can be used to make a great looking treasure chamber.
+Atlantis: You can build cities everywhere... why not underwater? See below for more details.
+Sky Tower: Build a tower reaching into space, or remodel a floating island. Watch out for Harpies and Wyverns!
+Museum: There are many items to display in Terraria. For example you can make rooms to display Statues, Paintings, Trophies, Armors, Banners, Butterflies, Critters, and Weapons.
+Pixel Art: Using different colored blocks, you can make images inside your world. Gemspark Blocks and their walls make good illumination, especially if you want your creation to be visible in the dark or underwater.
+Temple: Make a place of worship for the faithful... be they a congregation seeking holy worship, or depraved cultists gathering for dark rituals.
+Zoo: Statues can let you keep various Critters and even enemies on display, inviting players to see your museum may also be fun, too!
+
+Underwater bases
+
+Building underwater is fairly difficult, as you tend to drown, you move slowly underwater and it's dark. Normally you will want to drain the water out of your building as well. You will also need a way to easily enter and leave your house. Luckily there are solutions to all those problems (see the Liquids page for more tips):
+
+For building underwater, you can use Gills Potion or a Neptune's Shell and its upgrades, allowing you to breathe underwater. Lacking those, you can work in short bursts with a Jellyfish Necklace. Or you can start with a valley, or an area you've already drained as below, build in comfort, and then flood the area outside your base.
+For light underwater, you can use a Light Pet, or some of the lighting items which do work underwater: Coral/Cursed/Ichor Torches, Gemspark Blocks, Candles, Candelabras, Chandeliers, most Lanterns, Fireplaces, and Light Posts.
+To drain the water from an area, there are several options:
+You can use pumps or a stack of buckets to take it elsewhere.
+You could use the Super Absorbant Sponge or the Dry Bomb.
+The "chest trick" works as follows: Prepare a dry 2x2 hole at the bottom of the pool, surrounded by solid blocks. Put 3 or 4 buckets of honey or lava in over the chest, then mine the top to let the water in. Since there is no place to put the obsidian or honey block, the water will simply be destroyed.
+To get into your underwater house without flooding it, you can make an entrance from below (platforms can be useful), or in Hardmode you can use a wall of Bubble blocks.
+You can even build a true underwater base, lit with waterproof methods, to be inhabited with the aid of a Neptune's Shell or its upgrades. (Note that NPCs will not accept a flooded house!)

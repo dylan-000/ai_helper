@@ -1,0 +1,1179 @@
+
+---
+
+# Starting Out
+
+When creating a new world, a helpful NPC called the **Guide** will spawn. If you’re new, speak with him to get advice based on your progress. Even experienced players benefit from his presence, as he displays all available crafting recipes when given an item. He is also essential later for summoning the Wall of Flesh.
+
+---
+
+# Biome: Forest
+
+**Spawn Area**  
+- New players almost always begin in the Forest biome.
+
+**General Information**  
+- **Recommended Life:** 100  
+- **Starting Equipment:** Basic items  
+- **Enemies:**  
+  - Green Slime  
+  - Blue Slime  
+  - Purple Slime  
+  - Rare: Pinky  
+  - Goblin Scout (only in outer thirds of the world)
+
+**Enemy Drops**  
+- Gel  
+- Pink Gel (rare)  
+- Slime Staff (extremely rare)  
+- Tattered Cloth
+
+**Notable Resources**  
+- Wood  
+- Mushroom  
+- Yellow Marigold  
+- Sunflower  
+- Daybloom  
+- Blue Berries  
+- Seed (from mining grass with Blowpipe in inventory)  
+- Hay (from mining grass with Sickle)  
+- Pumpkin (Halloween only)
+
+**Notable Chest Contents**
+
+*Weapons:*  
+- Blowpipe  
+- Grenade  
+- Shuriken  
+- Spear  
+- Throwing Knife  
+- Umbrella (only weapon on some versions)  
+- Wand of Sparking  
+- Wooden Arrow  
+- Wooden Boomerang
+
+*Accessories:*  
+- Aglet  
+- Climbing Claws  
+- Guide to Plant Fiber Cordage  
+- Radar  
+- Step Stool
+
+*Other Items:*  
+- Can Of Worms  
+- Herb Bag  
+- Glowstick  
+- Rope  
+- Copper Bar  
+- Tin Bar  
+- Iron Bar  
+- Lead Bar  
+- Lesser Healing Potion  
+- Recall Potion  
+- Builder Potion  
+- Ironskin Potion  
+- Mining Potion  
+- Night Owl Potion  
+- Shine Potion  
+- Swiftness Potion  
+- Sunflower Minecart
+
+**Landscape and Environment**  
+- Abundant grass, trees, and lakes (small to large)  
+- Sunflowers, Dayblooms, and (in season) Pumpkins  
+- Weak daytime monsters; slimes will only attack if provoked  
+- Goblin Scouts appear in the outer thirds, while Pinkies are rare
+
+**Loot and Exploration**  
+- Surface chests contain early-game buffs, healing potions, mobility accessories, and simple weapons.
+
+---
+
+# Beginner Strategy
+
+1. **Gather Resources & Build a House**  
+   - Cut down trees with your Copper Axe (aim for the lowest block) to gather wood.  
+   - Build a Work Bench.  
+   - Craft a Wooden Sword and perhaps a Wooden Bow (with Wooden Arrows, which can later be upgraded to Flaming Arrows).
+
+2. **Journey Mode Exception (1.4.0.1-exclusive)**  
+   - Start with better equipment:
+     - Iron starting tools  
+     - Finch Staff (weak early summon weapon)  
+     - 100 Rope and Torches  
+     - Fledgling Wings  
+     - Grappling Hook  
+     - Magic Mirror  
+   - Includes additional gameplay powers like time control and item duplication.
+
+3. **Explore Your Surroundings**  
+   - Look for Chests and Pots near your starting point.  
+   - There is a 9% chance per chest to find a Spear – effective against Zombies.  
+   - Collect 20 Cobwebs to craft a Wooden Yoyo, a useful starter weapon.  
+   - Locate a cave entrance (a domed hill with an opening) for Underground exploration.
+   - Use Rope and Platforms to navigate high ledges, bridge gaps, and safely descend.
+   - The Step Stool accessory (found in chests) increases block placing range and jump height.
+   - The Umbrella tool (usable as a weapon on multiple versions) slows your fall during exploration.
+
+4. **Head Underground Before Night Falls**  
+   - Collect bars (Iron or Lead) from surface chests and small ore pockets.  
+   - Craft an Iron Anvil and basic ore weapons to ease further adventuring.
+
+---
+
+# Event: Rain
+
+**Chance & Duration**  
+- **Chance:** 16.6% each day (roughly every six days)  
+- **Duration:** 24 hours (24 real minutes)
+
+**Enemies During Rain**  
+- Flying Fish  
+- Umbrella Slime  
+- Rain Coat Zombie
+
+**Enemy Drops**  
+- Fries  
+- Rain Song  
+- Umbrella Hat  
+- Rain Hat  
+- Rain Coat
+
+**Effects of Rain**  
+- +20% Fishing Power anywhere during rain  
+- Waterleaf blooms; mining it may yield Waterleaf Seeds  
+- Increased frequency of Worms in Forest biomes  
+- Town NPCs remain indoors as if it were night
+
+*Note:* In a Snow biome, rain appears as a Blizzard (no exclusive loot until Hardmode). If rain coincides with a Windy Day, it forms a Thunderstorm with exclusive music.
+
+---
+
+# Event: Windy Day
+
+**Chance & Duration**  
+- **Chance:** Occurs when wind reaches 20 mph  
+- **Duration:** Lasts until wind drops to or below 16 mph
+
+**Enemies During Windy Day**  
+- Angry Dandelion  
+- Windy Balloon
+
+**Enemy Drops**  
+- Daybloom  
+- Paper Airplane  
+- White Paper Airplane  
+- Blue and Yellow Kite
+
+**Key Features**  
+- Background objects (banners, trees, vines) sway with the wind.  
+- Unique upbeat background music replaces the regular tune.  
+- Angry Dandelions may fire dangerous seeds in the wind’s direction; they are one-hit threats but attack only one side.  
+- Slimes may drift on Windy Balloons, with a chance to drop exclusive Blue and Yellow Kites.
+
+**Additional Note:**  
+- Ladybugs, used for crafting Luck Potions, spawn near towns. Touching them gives a temporary luck bonus.
+
+*If Rain and Windy Day occur simultaneously, the event appears as a Thunderstorm with exclusive music and visuals.*
+
+---
+
+# Event: Night
+
+**Timing & Duration**  
+- **Nightfall:** Begins at 7:30 PM (11 minutes and 15 seconds after world entry)  
+- **Duration:** 9 hours (9 real minutes)  
+- **Recommended Life:** 100
+
+**Recommended Weaponry**  
+- Iron Broadsword  
+- Iron Bow (with Jester's Arrows)  
+- Spear  
+- Wooden Yoyo  
+- Throwing Knife  
+- Shuriken  
+- Grenade  
+- Wand of Sparking
+
+**Enemies at Night**  
+- Demon Eye  
+- Zombie  
+- Raven (Halloween only)
+
+**Enemy Drops**  
+- Lens  
+- Shackle  
+- Zombie Arm  
+- Wooden Arrow  
+- Black Lens
+
+**Notable Resources**  
+- Fallen Star
+
+**Nighttime Effects**  
+- **Fallen Stars:** Randomly fall and can be picked up for crafting. They disappear at sunrise.
+- **Moonglow:** Blooms during the night.
+- **Town NPCs:** Sell new items (e.g., the Arms Dealer offers Illegal Gun Parts) but remain indoors. No new NPCs move in.
+- **Unique Music:** Specific to biomes like the Jungle, Ocean, and Space.
+  
+**Additional Night Events (PC, Console, Mobile, tModLoader)**  
+- **Meteor Shower:** 1 in 10 chance; increases Fallen Star rates and spawns Enchanted Nightcrawler critters.
+- **Lantern Nights:** Occur after defeating a boss or event, increasing player Luck.
+
+**Strategy for Nighttime**  
+- It is best to remain Underground or inside your house until you’re strong enough to handle Zombie packs.
+- If caught outside without shelter, build a small box with two-block-wide openings to safely attack Zombies without being reached.
+- Use blocks to navigate or build defensive structures.
+
+**Fallen Stars Usage**  
+- Useful for crafting and dealing damage to enemies or bosses.
+- Can be used to craft a Mana Crystal (increases maximum mana by 20, up to a base maximum of 200) or turned into Jester's Arrows (which pierce, have extra knockback, and are gravity-defiant).
+
+**Other Weapons and Drops**  
+- **Spear:** Occasionally found in chests; effective against groups of Zombies.  
+- **Wooden Boomerang:** Can be upgraded into an Enchanted Boomerang (available on select versions) when combined with a Fallen Star.
+- **Mob Drops:**  
+  - Zombies have a 2% chance to drop the Shackle (adds +1 defense).  
+  - Zombies may also drop the Zombie Arm (comparable to the Tungsten Broadsword).  
+  - Demon Eyes drop Lens, and rarely the Black Lens, which becomes useful later.
+
+**Sunrise**  
+- Occurs at 4:30 AM, ending Night.  
+- Demon Eyes and Zombies flee, allowing for daytime exploration and cave entry for more loot.
+
+Below is the reformatted section with clear headings and bullet points for better readability:
+
+---
+
+# Going Underground
+
+For a more in-depth guide on mining, see *Mining Techniques*.
+
+---
+
+## Biome: Underground
+
+**General Information**  
+- **Biome:** Underground (first layer below the surface)  
+- **Recommended Life:** 100
+
+**Recommended Weaponry**  
+- Iron Broadsword  
+- Iron Bow  
+- Spear  
+- Wooden Yoyo  
+- Throwing Knife  
+- Shuriken  
+- Grenade  
+- Wand of Sparking
+
+**Notable Resources**  
+- Blinkroot  
+- Glowing Mushroom  
+- Mushroom Grass Seeds
+
+**Notable Chest Contents**
+
+*Weapons:*  
+- Enchanted Boomerang  
+- Flare Gun  
+- Shuriken  
+- Mace
+
+*Accessories:*  
+- Band of Regeneration  
+- Cloud in a Bottle  
+- Hermes Boots  
+- Shoe Spikes  
+- Lucky Horseshoe
+
+*Other Items:*  
+- Magic Mirror  
+- Extractinator  
+- Angel Statue  
+- Rope  
+- Bomb  
+- Iron Bar  
+- Lead Bar  
+- Silver Bar  
+- Tungsten Bar  
+- Wooden Arrow  
+- Torch  
+- Lesser Healing Potion  
+- Regeneration Potion  
+- Shine Potion  
+- Night Owl Potion  
+- Swiftness Potion  
+- Archery Potion  
+- Gills Potion  
+- Hunter Potion  
+- Mining Potion  
+- Dangersense Potion  
+- Recall Potion
+
+**Enemy Drops**  
+- Gel  
+- Pink Gel  
+- Slime Staff (extremely rare)  
+- Glowstick  
+- Jellyfish Necklace (rare)  
+- Whoopie Cushion (rare)  
+- Suspicious Looking Apple
+
+**Enemies**  
+- Giant Worm  
+- Blue Slime  
+- Red Slime  
+- Yellow Slime  
+- Pinky (rare)  
+- Blue Jellyfish (in water)
+
+**Overview**  
+- The Underground layer is identifiable by its distinct background and is the first layer below the surface.  
+- **Ores:** Copper/Tin and Iron/Lead are abundant, while Silver/Tungsten and Gold/Platinum appear less frequently.  
+- **Life Crystals:** Found while exploring; they increase your maximum life by 20 (up to 400) and can be used to craft a Heart Lantern for enhanced regeneration.  
+- *Tip:* Early crystals unlock events (Blood Moons, Slime Rains, Eye of Cthulhu); wait until you have better armor before using them.
+
+---
+
+## Biome: Cavern
+
+**General Information**  
+- **Biome:** Cavern (second layer below the surface and the largest pre-hardmode biome)  
+- **Recommended Life:** 160
+
+**Recommended Weaponry**  
+- Iron Broadsword (or equivalent)  
+- Iron Bow (or equivalent)  
+- Wooden Yoyo (or any surface chest weapon)
+
+**Enemies**  
+- Black Slime  
+- Mother Slime  
+- Giant Worm  
+- Skeleton  
+- Cave Bat  
+- Tim  
+- Lost Girl  
+- Pinky  
+- Cochineal Beetle  
+- Blue Jellyfish  
+- Piranha  
+- Wall Creeper  
+- Undead Miner/Vampire Miner  
+- *Special Note:* Only two of the following three can spawn in a given world: Salamander, Crawdad, Giant Shelly
+
+**Enemy Drops**
+
+*Weapons:*  
+- Slime Staff  
+- Bone Sword  
+- Chain Knife  
+- Rally
+
+*Tools:*  
+- Bomb  
+- Bone Pickaxe
+
+*Armor:*  
+- Ancient Iron Helmet  
+- Ancient Gold Helmet  
+- Mining Helmet  
+- Mining Shirt  
+- Mining Pants  
+- Wizard Hat
+
+*Accessories:*  
+- Jellyfish Necklace  
+- Compass  
+- Depth Meter  
+- Metal Detector
+
+*Other Items:*  
+- Gel  
+- Whoopie Cushion  
+- Suspicious Looking Apple  
+- Hook (crafting material)  
+- Skull  
+- Bone  
+- Vial of Blood  
+- Pink Gel
+
+**Notable Resources**  
+- Dart Trap  
+- Boulder  
+- Explosives  
+- Enchanted Sword  
+- Arkhalis (rare)  
+- Terragrim (rare)
+
+**Notable Chest Contents**  
+- Underground Chest contents  
+- Lava Charm  
+- Wolf Fang
+
+**Overview**  
+- **Structure:** The Caverns are divided into two halves:
+  - **Upper Half:** Features water lakes  
+  - **Lower Half:** Dominated by lava pools  
+- **Ores:** All pre-hardmode ores (except Hellstone and Meteorite) are available; Demonite or Crimtane Ore is rare.  
+- **Caves:** Glowing Mushroom caves can also be found.
+
+**Key Considerations**  
+- **Dangers:**  
+  - Deep chasms and near-invisible traps (falling boulders or landmines) pose significant threats.  
+  - *Prevention:* Use items like Cloud in a Bottle, Grappling Hook, or Umbrella to avoid fatal falls.  
+  - Pools of water and Cobwebs can help cushion falls.
+- **Safety:**  
+  - Use ample light sources and the Dangersense Potion to mitigate hazards.
+- **Mobility:**  
+  - Essential items include the Grappling Hook and Magic Mirror for easier navigation.  
+  - Craft a Sapphire Staff for a potent weapon, depending on your star collection.
+
+**Additional Note**  
+- Descending too far will lead to the Underworld, marked by a change in music, background, and tougher enemies – avoid this until you’re adequately prepared.
+
+**Weapons and Armor Strategy**  
+- There are many Ore-based weapons and armor available; upgrading weapons is relatively inexpensive.  
+- For armor, it’s best to complete a full set to take advantage of set bonuses.  
+- **Tip:** Mining Silver or Tungsten is recommended for armor as they are sufficient for first bosses and quicker to complete than Gold or Platinum sets.
+
+---
+
+Below is the reformatted portion with clear headings, subheadings, and bullet lists for improved readability:
+
+---
+
+# Building a Base
+
+**Walkthrough Base**
+
+- **Overview:**  
+  Once you’ve collected plenty of blocks and loot, consider building a base. It may take anywhere from one in-game day to more than a week, depending on your style. You don’t need to finish it all at once—you can expand later using the surplus blocks from mining.
+
+- **Essential Base Components:**  
+  - **NPC Housing:** Build valid houses for the Guide, Merchant, and Nurse (plus extra for future NPCs).  
+  - **Storage:** Organize several chests to keep your inventory uncluttered.  
+  - **Buffs:** Place a campfire and sunflowers nearby; sunflowers also help block the spread of Corruption and Crimson (until Hardmode).  
+  - **Crafting Room:**  
+    - Include a Work Bench, Bottle, Chair, Furnace, Iron/Lead Anvil, and ideally a Sawmill and Loom.  
+    - Arrange a Chair and Table together for crafting Watches.  
+    - Reserve space for additional crafting stations and more chests as you progress.
+
+---
+
+# Beyond the Forest
+
+Once you obtain stronger weapons, many mid-tier biomes become accessible. These areas offer unique crafting materials and treasures.
+
+---
+
+## Biome: Snow
+
+- **Recommended Life:** 100  
+- **Recommended Equipment:** Starting equipment
+
+**Enemies & Drops:**  
+- **Enemies:** Ice Slime, Frozen Zombie / Zombie Eskimo  
+- **Drops:** Gel, Slime Staff, Snow Hood / Eskimo Hood, Snow Coat / Eskimo Coat, Snow Pants / Eskimo Pants, Shackle, Zombie Arm
+
+**Notable Resources:**  
+- Snow Block, Ice Block, Boreal Wood, Shiverthorn (and Seeds), Atlantic Cod, Frost Minnow, Marshmallow, Beanie, Cold Waters in the White Land
+
+**Overview:**  
+- Your spawn is often near or even within the Snow biome.  
+- This biome lies opposite the Jungle and on the same side as the Dungeon, offering challenges and rewards similar to the Forest.
+
+---
+
+## Biome: Ice Biome
+
+- **Recommended Life:** 160  
+- **Recommended Weaponry:** Ebon/Shadewood (or equivalent) Sword, Bow with Frostburn Arrows, Gem Staff  
+- **Recommended Armor:** Cactus, Ebonwood, or Shadewood
+
+**Enemies & Drops:**  
+- **Enemies:** Cave Bat, Ice Bat, Snow Flinx, Spiked Ice Slime, Undead Viking, Undead Miner, Cyan Beetle, Nymph  
+- **Drops:** Chain Knife, Depth Meter, Snowball Launcher, Compass, Gel, Slime Staff, Hook (crafting material), Viking Helmet, Bomb, Mining Helmet, Mining Shirt, Mining Pants, Bone Pickaxe, Cyan Husk, Metal Detector, Flinx Fur
+
+**Notable Resources:**  
+- Snow Block, Slush Block, Ice Block, Atlantic Cod, Frost Minnow
+
+**Chest Contents:**  
+- Ice Boomerang, Ice Blade, Ice Skates, Snowball Cannon, Blizzard in a Bottle, Flurry Boots, Extractinator, Ice Machine, Ice Mirror, Fish (item)
+
+**Overview:**  
+- Accessible from surface Snow or from the Caverns.  
+- Ends where the lava layer begins.  
+- Unique loot abounds, but be cautious of thin ice pockets that can cause fatal falls.
+
+---
+
+## Biome: Desert
+
+- **Recommended Life:** 100  
+- **Recommended Weaponry:** Wooden Sword, Spear, and any thrown weapon (Shuriken, Throwing Knife, Grenade)
+
+**Enemies & Drops:**  
+- **Enemies:** Antlion, Albino Antlion, Antlion Swarmer, Antlion Charger, Vulture, Sand Slime, Antlion Larva, Giant Antlion Swarmer, Giant Antlion Charger, Tomb Crawler  
+- **Drops:** Antlion Mandible, Mandible Blade, Gel, Slime Staff
+
+**Notable Resources:**  
+- Cactus, Waterleaf, Pink Prickly Pear, Sand Block, Secret of the Sands
+
+**Overview:**  
+- Enemies are generally weak, though some (like Giant Antlion Chargers) can be moderately challenging.  
+- Look for the entrance to the Underground Desert—a deep hole that may require a bridge to access safely.  
+- Occasionally, you’ll find a Pyramid with a chest containing useful accessories such as a Flying Carpet or Sandstorm in a Bottle.  
+- If a Sandstorm occurs, consider exploring the desert later.
+
+---
+
+## Biome: Underground Desert
+
+- **Recommended Life:** 200  
+- **Recommended Weaponry:** Silver Broadsword or better, Spear, Rally  
+- **Recommended Armor:** Iron or better
+
+**Enemies & Drops:**  
+- **Enemies:** Antlion, Antlion Larva, Antlion Swarmer, Giant Antlion Swarmer, Antlion Charger, Giant Antlion Charger, Tomb Crawler  
+- **Drops:** Antlion Mandible, Mandible Blade
+
+**Notable Resources:**  
+- Hardened Sand Block, Sandstone Block, Desert Fossil, Sand Block
+
+**Chest Contents:**  
+- Ancient Chisel, Bast Statue, Dunerider Boots, Magic Conch, Snake Charmer's Flute, Storm Spear, Thunder Zapper, Desert Minecart (secondary), Encumbering Stone (secondary)
+
+**Overview:**  
+- Difficulty is similar to the Ice biome.  
+- Desert Fossils are a key resource; process them with an Extractinator for germs, ores, coins, and Sturdy Fossils.  
+- In older versions, you need a pickaxe stronger than Gold/Platinum to mine fossils; in 1.4, bombs are more effective.
+
+---
+
+## Biome: Jungle
+
+- **Recommended Life:** 160  
+- **Recommended Weaponry:** Ebonwood or Shadewood Sword, Bow, Gem Staff  
+- **Recommended Armor:** Cactus, Ebonwood, or Shadewood
+
+**Enemies & Drops:**  
+- **Enemies:** Piranha, Snatcher, Jungle Bat, Jungle Slime, Zombie, Demon Eye, Doctor Bones  
+- **Drops:** Hook (crafting material), Robot Hat, Compass, Depth Meter, Gel, Slime Staff, Shackle, Zombie Arm, Wooden Arrow, Archaeologist's Hat
+
+**Notable Resources:**  
+- Moonglow, Jungle Rose, Jungle Grass Seeds, Sky Blue Flower, Rich Mahogany, Double Cod, Neon Tetra, Jungle Crate, “Do Not Step on the Grass”
+
+**Overview:**  
+- One of the more challenging surface biomes.  
+- The Underground Jungle is not recommended early; if you struggle with surface enemies (like Piranhas and Jungle Bats), expect a similar challenge underground.
+
+---
+
+## Biome: Corruption
+
+- **Recommended Life:** 160  
+- **Recommended Weaponry:** Ebonwood Sword, Bow, Rally, Gem Staff  
+- **Recommended Armor:** Ebonwood or Cactus
+
+**Enemies & Drops:**  
+- **Enemies:** Eater of Souls, Devourer  
+- **Drops:** Rotten Chunk, Ancient Shadow Helmet, Ancient Shadow Scalemail, Ancient Shadow Greaves, Worm Tooth, Suspicious Looking Apple
+
+**Notable Resources:**  
+- Vile Mushroom, Deathweed, Ebonwood, Ebonstone Block, Ebonsand Block, Purple Ice Block, Ebonkoi, Purple Clubberfish, Corrupt Crate, Lightless Chasms
+
+**Shadow Orb Contents:**  
+- Musket and Musket Ball, Shadow Orb (item), Vilethorn, Ball O' Hurt, Band of Starpower
+
+**Overview:**  
+- A challenging biome that requires a Gold Pickaxe or better to mine Demonite.  
+- Ebonstone must be destroyed with a Nightmare Pickaxe or with Purification Powder/Bombs/Dynamite before defeating the boss.  
+- Destroying two shadow orbs grants rewards; destroying the third will summon the boss.  
+- See *Guide: Surviving in the Corruption* for further details.
+
+---
+
+## Biome: Crimson
+
+- **Recommended Life:** 160  
+- **Recommended Weaponry:** Shadewood Sword, Bow, Rally, Gem Staff  
+- **Recommended Armor:** Shadewood or Cactus
+
+**Enemies & Drops:**  
+- **Enemies:** Blood Crawler, Face Monster, Crimera  
+- **Drops:** Vertebra
+
+**Notable Resources:**  
+- Crimstone Block, Crimsand Block, Red Ice Block, Shadewood, Vicious Mushroom, Crimson Tigerfish, Hemopiranha, Crimson Crate, Deadland Comes Alive
+
+**Crimson Heart Contents:**  
+- The Undertaker, The Rotted Fork, Crimson Rod, Panic Necklace, Crimson Heart (item)
+
+**Overview:**  
+- An upgrade from the Corruption with slightly better stats, though Corruption offers unique items like Vilethorn and Worm Tooth.  
+- Crimson monsters are tougher; Crimstone can only be mined with a Deathbringer Pickaxe (or destroyed with Purification Powder/Bombs/Dynamite) until after defeating Brain of Cthulhu.  
+- Destroying two crimson hearts yields rewards; destroying the third summons the boss.  
+- See *Guide: Surviving in the Crimson* for more information.
+
+---
+
+## Biome: Ocean
+
+- **Recommended Life:** 160  
+- **Recommended Weaponry:** Shadewood Sword, Bow, Rally, Gem Staff  
+- **Recommended Armor:** Shadewood or Cactus
+
+**Enemies & Drops:**  
+- **Enemies:** Pink Jellyfish, Crab, Sea Snail, Squid, Shark, Orca  
+- **Drops:** Glowstick, Jellyfish Necklace, Purple Mucus, Black Ink, Diving Helmet, Shark Fin
+
+**Notable Resources:**  
+- Coral, Seashell, Starfish, Palm Wood, Pink Jellyfish (bait), Reaver Shark, Red Snapper, Sawtooth Shark, Shrimp, Swordfish, Trout, Tuna, Ocean Crate
+
+**Chest Contents:**  
+- Trident, Breathing Reed, Flipper, Water Walking Boots, Beach Ball
+
+**Overview:**  
+- Oceans are located at the edge of the world, adjacent to beaches with Palm Trees and decorative seashells.  
+- Deep-water chests are common.  
+- New characters may struggle with air supply and shark threats (Gills Potions help).  
+- The Angler NPC appears here to help set up fishing, which can yield varied loot and money.  
+- Reaching the Ocean typically requires traversing through a Corrupt biome, a Desert, and either the Jungle or Ice Biome.
+
+---
+
+## Biome: Floating Island / Floating Lake
+
+- **Recommended Life:** 200  
+- **Recommended Weaponry:** Space Gun (or another gun) or Ruby/Diamond Staff  
+- **Recommended Armor:** Silver minimum (better recommended)  
+- **Recommended Equipment:** Gravitation Potion, Featherfall Potion, and other buff potions
+
+**Enemies & Drops:**  
+- **Enemy:** Harpy  
+- **Drops:** Feather, Giant Harpy Feather
+
+**Notable Resources:**  
+- Skyware Chest, Skyware Table, Skyware Chair, Gravity Banner, Sun Banner, World Banner, Cloud, Rain Cloud, Sunplate Block, Cloud Wall, Disc Wall, Glass Wall, Damselfish, Sky Crate, Place Above the Clouds
+
+**Chest Contents:**  
+- Shiny Red Balloon, Starfury, Lucky Horseshoe, Fledgling Wings
+
+**Overview:**  
+- Floating Islands and Lakes appear at varying heights (475 ft on small maps, up to 1000 ft on large maps).  
+- Each island typically contains a Skyware Chest, ore deposits, and unique Skyware blocks/furniture; Floating Lakes sometimes contain Water Chests.  
+- Use Gravitation and Featherfall Potions to navigate safely.  
+- Best explored during the day for clear visibility of Harpies.  
+- Consider setting out a rope line for repeated visits.  
+- The Space Gun (especially with Meteor armor) is highly effective against Harpies.  
+- Loot these islands early—the rewards (like Starfury) are very useful.
+
+---
+
+# Event: Blood Moon
+
+**Criteria & Chance:**  
+- Must have at least one player with a minimum of 120 life, and it must not be a new moon.  
+- Occurs with an 11.11% chance (1 in 9).
+
+**Enemies & Drops:**  
+- **Enemies:** The Groom, The Bride, Blood Zombie, Drippler, Corrupt Bunny (or Vicious Bunny), Corrupt Goldfish (or Vicious Goldfish), Corrupt Penguin (or Vicious Penguin)  
+- **Drops:** Top Hat, Brain, Wedding Veil, Wedding Dress, Shark Tooth Necklace, Money Trough, Bunny Hood, Suspicious Looking Egg, Pedguin's Hood, Pedguin's Jacket, Pedguin's Trousers
+
+**Notable Resources:**  
+- Corrupt Seeds or Crimson Seeds, Deathweed Seeds, Mime Mask, Fallen Tuxedo Shirt, Fallen Tuxedo Pants, George's (or Fabulous) set, Vile Powder or Vicious Powder, Silver Bullet, Throwing Knife, Evil Presence
+
+**Overview:**  
+- During a Blood Moon, normally passive creatures like bunnies, goldfish, and penguins turn hostile.  
+- The spawn rate of surface monsters increases dramatically, and enemies can appear near NPCs; zombies may even force doors open.  
+- Deathweed blooms and some NPCs offer special wares.  
+- If you prefer to avoid combat during this event, seek shelter underground—but increased danger also brings increased rewards.
+
+---
+
+Below is the reformatted text with clear sections, headings, and bullet points for improved readability:
+
+---
+
+# The Bosses: Dealing with the First Three
+
+After surviving the first few nights and starting work on your base, begin preparing for boss battles. Even if you don’t seek them out, bosses will eventually come looking for you.
+
+---
+
+## King Slime
+
+- **Overview:**  
+  - An optional but fun mini-boss whose drops aren’t necessary for game progression.
+  - Can spawn rarely in grass at the outer sixth of the world, via a Slime Crown, or during a Slime Rain (if 150 slimes are killed).
+  - Spawn chance increases near a placed Water Candle or under the effects of a Battle Potion.
+
+- **Tactics & Rewards:**  
+  - A good challenge for beginners; terrain can be used to your advantage.
+  - **Key Drops:**  
+    - **Slime Hook:** Superior to any hook available at this stage.
+    - **Ninja Hood (PC/Console/Mobile/tModLoader):** Grants critical hit bonuses (except for summoning weapons).
+    - **Slimy Saddle:** Mount with fast fall speed, aiding boss dodging (useful into Hardmode).
+
+---
+
+## Eye of Cthulhu
+
+- **Overview:**  
+  - Appears as an enormous Demon Eye that moves through blocks and has two forms.
+  - **First Form:**  
+    - Floats near the player while spawning Servants of Cthulhu (which drop hearts and stars on death).
+  - **Second Form (below half health):**  
+    - Charges aggressively, stops spawning Servants, and has reduced defense.
+  - **Expert Mode Variations:**  
+    - Increased health, earlier transition into the second form, and a rapid charge attack that speeds up as its health declines.
+
+---
+
+## Eater of Worlds or Brain of Cthulhu
+
+After defeating the Eye of Cthulhu, complete these steps:
+  
+- **Preparation:**  
+  - Ensure the Dryad has a home (she sells Purification Powder and planters).
+  - Build at least 12 valid NPC houses (preferably linked by Pylons for easy access).
+  - Start your plant farm for essential potions.
+  - Set up a chest room for ample storage.
+
+- **Next Step:**  
+  - Head to the Corruption or Crimson and smash a Shadow Orb or Crimson Heart. Smashing your first orb/heart has two immediate effects:
+  
+  ### Mini Biome: Meteorite
+  - **Chance:** 50% on breaking a Shadow Orb or Crimson Heart (only once per day; additional breaks do not stack chance).
+  - **When:** May land immediately between midnight and dawn (04:30).
+  - **Precondition:** In PC/Console/Mobile/tModLoader, meteorites only fall after defeating Eater of Worlds/Brain of Cthulhu.
+  
+  - **Recommended Setup:**  
+    - **Life:** 200  
+    - **Weaponry:** Vilethorn  
+    - **Armor:** Silver/Tungsten set  
+    - **Equipment:** Dynamite, Sticky Bombs, Gold or Platinum Pickaxe, buff potions
+  
+  - **Challenges:**  
+    - Mining is tough due to Meteor Heads that cause burning damage.
+    - An Obsidian Skull can prevent this burn.
+    - Using Dynamite over platforms and sticky bombs can help clear the meteorite area.
+    - Killing 50 Meteor Heads can yield their banner, easing further encounters.
+
+---
+
+## Event: Goblin Army
+
+- **Trigger:**  
+  - Occurs after breaking a Shadow Orb or Crimson Heart and obtaining 10 hearts.
+  - **Chance:**  
+    - 1/3 chance for the first invasion, 1/30 for subsequent ones.
+  
+- **Recommended Setup:**  
+  - **Life:** 200  
+  - **Weaponry:**  
+    - Space Gun, Platinum/Demon/Tendon Bow (with Unholy/Jester’s Arrows), Ruby/Diamond Staff, Grenades, Molotov Cocktails, Spiky Balls  
+  - **Armor:** Silver or better  
+  - **Buffs:**  
+    - Ironskin, Regeneration, Thorns, Archery (if applicable), and Well Fed
+  
+- **Enemies:**  
+  - Goblin Peon, Goblin Sorcerer, Goblin Thief, Goblin Warrior, Goblin Archer
+  
+- **Notable Drops:**  
+  - Harpoon, Spiky Ball
+  
+- **Overview:**  
+  - The Goblin Army invades at dawn near the original spawn point.
+  - Defeat requires killing 120 goblins (plus 40 per additional 200+ HP per player).
+  - It can also be summoned with a Goblin Battle Standard.
+  - See *Guide: Defending Against Events – Goblin Army* for more details.
+
+---
+
+## Eater of Worlds
+
+- **Overview:**  
+  - A worm boss composed of 50 segments—each with its own health.
+  - If a middle segment is destroyed, the worm splits into two separate worms, each with a head and tail.
+  - **Location:** Must be fought in the Corruption.
+  - **Key Note:**  
+    - Leaving the Corruption during the fight will cause the boss to disappear.
+  
+- **Tips:**  
+  - Melee fighters can take advantage of sweeping swings that damage multiple segments.
+  - Ranged users may use a demon bow with jester arrows for their penetration effect.
+  - In Expert Mode, it is often best to fight EoW underground due to its powerful ranged attacks.
+
+---
+
+## Brain of Cthulhu
+
+- **Overview:**  
+  - A boss that teleports and has two distinct stages.
+  - **First Stage:**  
+    - Invincible; surrounded by 20–30 Creepers that must be defeated first.
+  - **Second Stage:**  
+    - Direct confrontation as the Brain charges at you.
+  - **Expert Mode:**  
+    - In the second phase, three fake copies of the Brain appear. These copies become more transparent as the real Brain loses health.
+
+---
+
+# The Late Pre-Hardmode
+
+The next four biomes share similar difficulty and can be tackled in any order or concurrently.
+
+---
+
+## Underground Jungle
+
+- **Recommended Life:** 300  
+- **Recommended Equipment:**  
+  - Shadow, Crimson, Meteor, or Necro armor
+- **Enemies:**  
+  - Hornet, Man Eater, Jungle Bat, Piranha, Spiked Jungle Slime, Lac Beetle, Doctor Bones
+- **Enemy Drops:**  
+  - Stinger, Vine, Hook (crafting material), Bezoar, Violet Husk, Ancient Cobalt armor, Archaeologist’s Hat
+- **Notable Resources:**  
+  - Moonglow, Jungle Spores, Jungle Rose, Nature’s Gift, Sky Blue Flower, Rich Mahogany
+- **Chest Contents:**  
+  - **Weapons:** Boomstick, Staff of Regrowth  
+  - **Accessories:** Anklet of the Wind, Feral Claws, Flower Boots  
+  - **Other:** Fiberglass Fishing Pole, Seaweed, Living Mahogany Wand, Rich Mahogany Leaf Wand, Honey Dispenser
+  
+- **Overview:**  
+  - Lies directly below the surface Jungle, extending to the Underworld.
+  - Contains multiple Bee Hives and a Jungle Temple (enterable only in Hardmode).
+  - Primary threats: Hornets (ranged, evasive) and Spiked Jungle Slimes.
+  - Use side tunnels until you’re better equipped.
+
+- **Loot Tips:**  
+  - **Feral Claws:** Increase melee speed.
+  - **Anklet of the Wind:** Boosts movement speed; can be upgraded to Lightning Boots.
+  - **Bezoar:** Grants poison immunity (key for fighting Queen Bee and crafting the Ankh Charm).
+  - **Honey:** Provides a healing buff; consider carrying buckets.
+  - **Stingers & Jungle Spores:** Useful for crafting gear.
+  - **Vines:** Can be used to craft the Ivy Whip for grappling.
+  - **Flower Boots:** Assist in farming hay and harvesting plants.
+
+---
+
+## Underground Desert
+
+- **Recommended Life:** 300  
+- **Recommended Equipment:**  
+  - Shadow, Crimson, Meteor, or Necro armor
+- **Enemies:**  
+  - Antlion, Antlion Charger, Antlion Larva, Antlion Swarmer, Giant Antlion Swarmer, Giant Antlion Charger, Sand Slime, Tomb Crawler
+- **Enemy Drops:**  
+  - Antlion Mandible, Mandible Blade
+- **Notable Resources:**  
+  - Amber, Desert Fossil, Sturdy Fossil
+- **Chest Contents:**  
+  - **Weapons:** Storm Spear, Thunder Zapper  
+  - **Accessories:** Ancient Chisel, Dunerider Boots  
+  - **Other:** Bast Statue, Magic Conch, Encumbering Stone, Snake Charmer’s Flute, Desert Minecart
+
+- **Overview:**  
+  - Lies beneath the surface Desert and extends to the Underworld.
+  - Features a structure similar to an ant hive with many interconnected small caves.
+  - Primary threats include various forms of Antlions and traps.
+  - Using a Flinx Staff can significantly boost your survival.
+
+- **Loot Tips:**  
+  - **Bast Statue:** Boosts early defense.
+  - **Ancient Chisel:** Increases mining speed by 25%.
+  - **Sturdy Fossil and Amber:** For crafting the Amber Staff, Bone Javelin, Bone Throwing Knife, and Fossil armor.
+  - **Magic Conch:** Essential for rapid travel, especially to the Dungeon.
+
+---
+
+## The Underworld
+
+- **Recommended Life:** 340  
+- **Recommended Armor:**  
+  - Shadow, Crimson, Meteor, Jungle, or Necro armor
+- **Recommended Equipment:**  
+  - Lava Waders or Lava Charm, Water Walking Potion, Obsidian Skin Potion, Obsidian Skull (or equivalent)
+- **Enemies:**  
+  - Lava Slime, Hellbat, Fire Imp, Demon, Voodoo Demon, Bone Serpent
+- **Enemy Drops:**  
+  - Demon Scythe, Obsidian Rose, Guide Voodoo Doll, Plumber’s Hat, Magma Stone, Cascade
+- **Notable Resources:**  
+  - Hellstone, Fireblossom, Hellforge, Demon Torch, various Obsidian furniture
+- **Chest Contents:**  
+  - Dark Lance, Flower of Fire, Sunfury, Flamelash, Hellwing Bow, Treasure Magnet
+
+- **Overview:**  
+  - Located at the bottom of the world.
+  - The hardest pre-Hardmode biome with the best items available before Hardmode.
+  - **Key Danger:**  
+    - Extensive molten lava.
+    - Use water walking potions, Lava Waders/Charm, or Obsidian Skin Potions for protection.
+  - **Mining Hellstone:**  
+    - Time-consuming and dangerous without proper gear.
+    - Use an Obsidian Skull (or better) to avoid burning from Hellstone.
+
+- **Important Note:**  
+  - If you kill a Voodoo Demon, be ready to quickly retrieve the Guide Voodoo Doll from the lava—failure to do so can trigger a tough fight.
+
+---
+
+## Skeletron
+
+- **Overview:**  
+  - One of the most difficult pre-Hardmode bosses; generally fought after Queen Bee.
+  - **Composition:**  
+    - A head (with the highest health) and two hands that fly and chase the player.
+  - **Mechanics:**  
+    - Defeating the head ends the fight immediately, regardless of the hands’ status.
+    - Hands usually remain beneath the head; it’s recommended to target them first, especially in Expert and Master modes (where the head’s defense increases if hands remain).
+
+- **Key Stats (Example):**  
+  - **Life:** 4400 (Head), 600 (Hands)  
+  - **Defense:** 10 (Head), 0 (Spinning), 14 (Hands)  
+  - **Damage:** 32 (Head melee), 20 (Hands melee)
+
+- **Drops:**  
+  - Lesser Healing Potions, Skeletron Mask, Skeletron Hand, Book of Skulls, Skeletron Trophy, and (in Master mode) Chippy’s Couch.
+  
+- **Further Details:**  
+  - See *Guide: Skeletron Strategies* for tips and additional info.
+
+---
+
+## The Dungeon
+
+- **Overview:**  
+  - Located near the right or left edge of the map (opposite the Jungle, same side as the Snow biome).
+  - Entrance is unlocked by defeating Skeletron.
+  - Extremely high enemy spawn rates, dangerous traps, and little cover from terrain.
+  
+- **Recommended Setup:**  
+  - **Life:** 400  
+  - **Weapons:**  
+    - Space Gun, Vilethorn, Jester’s Arrows, Grenades, Molotov Cocktails, Spiky Balls  
+  - **Armor:**  
+    - Shadow, Crimson, or Meteor armor  
+  - **Equipment:**  
+    - Ivy Whip, Lucky Horseshoe, Rocket or Spectre Boots, Buff Potions
+
+- **Enemies:**  
+  - Angry Bones, Cursed Skull, Dark Caster, Dungeon Slime, Blazing Wheel, Spike Ball
+
+- **Enemy Drops:**  
+  - Bone, Golden Key, Bone Wand, Clothier Voodoo Doll, Ancient Necro Helmet, Nazar
+
+- **Notable Resources:**  
+  - Water Bolt, Water Candle, Switch, various Dungeon Furniture
+
+- **Chest Contents:**  
+  - **Weapons:** Aqua Scepter, Blue Moon, Handgun, Magic Missile, Muramasa, Valor  
+  - **Accessories:** Cobalt Shield  
+  - **Other:** Shadow Key, Bone Welder
+
+- **Essential Loot Before Leaving:**  
+  - **Shadow Key:** Opens Shadow Chests in the Underworld (containing powerful pre-Hardmode weapons).  
+  - **Cobalt Shield:** Provides knockback protection; can be combined with an Obsidian Skull to make an Obsidian Shield for the Underworld.  
+  - **Muramasa:** Needed for crafting the Night’s Edge.  
+  - **Water Bolt:** Piercing, bouncing projectiles effective in the Dungeon, Jungle, and Underworld.  
+  - **Valor:** A strong yoyo for tight situations.  
+  - **Handgun:** Reliable ranged weapon (upgradable to the Phoenix Blaster).  
+  - **Nazar:** Required for crafting the Ankh Charm; it’s advisable to farm this accessory before unlocking the Hardmode Dungeon.
+
+- **Tips for Dungeon Survival:**  
+  - Destroy water candles to lower spawn rates (a Calming Potion can also help).
+  - Be wary of room geometries that funnel enemies from multiple hallways.
+  - If overwhelmed, move quickly to avoid continuous enemy streams.
+
+- **Further Information:**  
+  - See *Guide: Surviving in the Dungeon* for more tips.
+
+---
+
+Below is the reformatted text with clear sections, headings, and bullet lists for improved readability:
+
+---
+
+# Preparing For Hardmode
+
+At this stage you’re in control—with ample resources and no immediate threats. It’s an ideal time to work on large projects such as arenas, bases, or farms. Keep in mind that depending on your base’s location, it might end up in an infected biome. You’ll also need to gather certain materials in pre-Hardmode since farming becomes much easier before Hardmode begins.
+
+---
+
+## Pre-Hardmode Preparations
+
+Before summoning the Wall of Flesh, consider the following tasks:
+
+- **Maximize Your Stats:**  
+  - Obtain maximum Health and Mana.
+
+- **Craft Endgame Equipment:**
+
+  ### Armor & Class-Specific Sets
+
+  - **General Tips:**  
+    - Choose armor based on your weapon class rather than just highest defense.
+  
+  - **Melee:**  
+    - **Recommended Set:** Molten Armor  
+      - Cost: 45 Hellstone Bars  
+      - Defense: 25  
+      - Set Bonus: +17% melee damage
+  
+  - **Ranged:**  
+    - **Recommended Set:** Necro Armor  
+      - Crafted from: 150 Bones and 135 Cobwebs  
+      - Benefits: +15% ranged damage, +15% increased ranged critical strike chance, 20% chance not to consume ammo
+  
+  - **Magic:**  
+    - **Option 1: Jungle Armor**  
+      - Boosts: +80 max mana, +12% magic critical strike chance  
+      - Set Bonus: 16% reduced mana usage  
+      - Materials: Jungle Spores, Stingers, and Vines
+    - **Option 2: Meteor Armor**  
+      - Cost: 45 Meteorite Bars  
+      - Benefit: +21% magic damage  
+      - Set Bonus: Zero mana cost for Space Gun, Gray Zapinator, and Orange Zapinator
+    - **Option 3: Mixed Set**  
+      - Components: Wizard Hat (dropped by Tim), Mystic Robe (sold by the Traveling Merchant), Meteor Leggings (crafted from 15 Meteorite Bars)  
+      - Benefits: +28% magic damage, +6% magic crit chance, –10% mana usage, additional +10% magic crit chance from set bonus
+  
+  - **Summoner:**  
+    - **Recommended Set:** Bee Armor  
+      - Increases minion damage by 23 and grants 2 extra minion slots  
+      - Crafted from: 30 Bee Wax (after defeating Queen Bee twice)
+    - **Alternate for Whip-Focused Summoners:**  
+      - Obsidian Armor for improved defense
+  
+  - **Throwing (Legacy/Older Versions):**  
+    - **Recommended Set:** Fossil Armor  
+      - Boosts throwing velocity, damage, and crit chance; has a chance not to consume ammo  
+      - Crafted from: 75 Sturdy Fossils (or 60 Desert Fossils in newer versions)  
+    - *Note:* In current versions, throwing weapons merge with ranged; plan accordingly.
+
+- **Upgrade Tools:**
+
+  - **Molten Pickaxe:**  
+    - Crafted from 20 Hellstone Bars  
+    - Can mine first-tier Hardmode ores (Cobalt and Palladium)
+  - **Molten Hamaxe:**  
+    - Crafted from 15 Hellstone Bars  
+    - Functions as both an axe and a hammer; strongest pre-Hardmode hamaxe
+
+- **Improve Weaponry:**
+
+  ### Melee Weapons
+  - **Night’s Edge:**  
+    - Combines Blade of Grass, Fiery Greatsword, Muramasa, and Light’s Bane/Blood Butcherer  
+    - Deals 42 melee damage; used later to craft the Terra Blade  
+  - **Other Options:**  
+    - Blade of Grass and Fiery Greatsword (longer range and special debuffs)  
+    - Weapons with autoswing (e.g., Muramasa, Arkhalis, Enchanted Sword, Terragrim)
+  - **Range Enhancers:**  
+    - **Flamarang:** Strong pre-Hardmode boomerang (crafted from 10 Hellstone Bars + Enchanted Boomerang)  
+    - **Sunfury:** Strong flail found in Shadow Chests  
+    - **Cascade:** Pre-Hardmode yo-yo (rare drop in the Underworld)  
+    - **Dark Lance:** Best spear found in Shadow Chests
+
+  ### Ranged Weapons
+  - **Bows:**  
+    - **Molten Fury:** Crafted with 15 Hellstone Bars; turns Wooden Arrows into Flaming Arrows  
+    - **Hellwing Bow:** Looted from Shadow Chests; converts Wooden Arrows into homing Hellwings  
+    - Best paired with Hellfire Arrows
+  - **Guns:**  
+    - **Phoenix Blaster:** Crafted with 10 Hellstone Bars + Handgun; fast firing rate  
+    - **Star Cannon:** Crafted with Minishark, 20 Meteorite Bars, and 5 Fallen Stars; high damage and autofire
+
+  ### Magic Weapons
+  - **Demon Scythe:**  
+    - Dropped by Demons/Voodoo Demons in the Underworld; fires a Demon Sickle that pierces multiple enemies  
+  - **Book of Skulls:**  
+    - Drops from Skeletron; fires slow, piercing skulls  
+  - **Water Bolt:**  
+    - Found in the Dungeon; autofires multiple bouncing bolts  
+  - **Flamelash & Flower of Fire:**  
+    - Found in Shadow Chests; both provide controlled fireball attacks with special effects  
+  - **Space Gun (with Meteor Armor):**  
+    - Rapid fire and no mana cost; remains effective in Hardmode
+
+  ### Summoning Weapons
+  - **Hornet Staff:**  
+    - Crafted with 14 Bee Wax; fires stingers inflicting Poison  
+  - **Imp Staff:**  
+    - Crafted with 17 Hellstone Bars; fires fireballs that inflict On Fire! debuff  
+  - **Snapthorn:**  
+    - A powerful whip; recommended for summoners
+
+- **Obtain Key Accessories & Items:**
+
+  - **Mobility:**  
+    - **Frostspark Boots:** Allow flight, fast running, and extra mobility on ice; essential for boss fights  
+    - **Lava Waders:** Walk on honey, lava, and water; provide immunity to fire blocks  
+      - *Note:* On some versions, these combine with Frog Leg into Terraspark Boots
+    - **Horseshoe Balloons:** Increase jump height and provide double jump (Yellow Horseshoe Balloon is best)
+  - **Wiring & Utility:**  
+    - **The Grand Design:** Simplifies wiring tasks (useful for farms and mechanisms)
+  - **Additional Equipment:**  
+    - Frog Leg, Jellyfish Diving Gear, Flying Carpet (if you have a Pyramid), Obsidian Shield, Celestial Cuffs (in Corruption worlds), Mining Armor, and a reliable multi-line Hook (Ivy Whip, Fish Hook, Skeletron Hand, or Slime Hook)
+  - **Companions:**  
+    - At least one minion, one or more mounts, and a light pet (e.g., Magic Lantern)
+  - **Future Components:**  
+    - Feral Claws (path to Fire Gauntlet)  
+    - Bezoar and Nazar (for crafting the Ankh Shield and upgrading to Obsidian Shield)
+
+- **Stock Up on Potions:**
+
+  - Maintain a robust herb farm (see *Guide: Gardening*)
+  - Build secure fishing bases across major biomes, especially near your main base
+  - Create a bait farm for sustainable fishing
+
+- **Prepare Altars:**
+
+  - Locate Demon or Crimson Altars in the Corruption/Crimson biomes for later Hardmode crafting
+
+- **Reforge Weapons and Accessories:**
+
+  - Focus on extra Defense, Damage, or Critical Hit Chance
+
+- **Expand Your NPC Network:**
+
+  - Build a surface Mushroom biome with a house for the Truffle NPC (materials will be scarce in Hardmode)
+  - Ensure you have at least 21 valid NPC houses spread across your world for future expansion
+
+---
+
+## Open-Ended Projects & World Improvements
+
+- **Create Quarantines:**  
+  - Limit the spread of Corruption, Crimson, and Hallow  
+  - Dig tunnels or “hellevators” to restrict biome expansion (see *Guide: Maintaining World Purity*)
+- **Improve World Access:**  
+  - Build a skybridge or tunnel (with minecart tracks) for safe, quick travel between Hardmode biomes  
+  - Utilize Magic or Demon Conchs for rapid teleportation
+- **Rebuild Your Base:**  
+  - Upgrade your main base(s) to accommodate extra crafting stations, chests, and convenient NPC access
+- **Farm for Money:**  
+  - Prepare for expensive Hardmode items and costly reforging  
+  - See *Guide: Making Money* for more details
+- **Rearrange the Landscape:**  
+  - Modify areas to suit your needs—create lakes, mountains, or other features as desired
+
+---
+
+## Activating Hardmode
+
+When you’re ready to transition into Hardmode:
+
+1. **Head to the Underworld:**  
+   - Locate and fight the Wall of Flesh.
+2. **Defeat the Boss:**  
+   - Upon victory, you’ll receive new weapons and accessories to boost early Hardmode survivability.
+3. **World Transition:**  
+   - A message will appear: “The ancient spirits of light and dark have been released.”  
+   - This confirms that your world has officially entered Hardmode.
+
+---

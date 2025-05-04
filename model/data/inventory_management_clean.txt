@@ -1,0 +1,119 @@
+Your inventory will hold 50 distinct items, with 10 of them being immediately available for you to use at the press of a button from the hotbar. With the torrent of new items you can get while exploring, it is important to prioritize important items that will benefit you, getting rid of other items that clutter your inventory as needed.
+
+What items you find valuable can be subjective. The Gargoyle StatueGargoyle Statue in the side image is functionally useless, but may be appealing to builders due to its rarity. This guide will only consider functional value to the player. This is relative and depends on the player's point in the game - for instance, a player that already has Gold armor will get less value out of more Gold Ore.
+
+It is possible to accidentally press Throw and toss an item out of your inventory, or quick stack to an open chest or to all nearby chests. Throw can be rebound to another key you are less likely to press accidentally, and hotbar items will not be put into chests via quick stack. Favoriting items is another solution for both problems, useful if you often carry around a specific item outside your hotbar.
+Contents
+
+- 1 Inventory
+- 1.1 Storage
+- 1.2 Accessories
+- 1.3 Low-value Items
+- 2 Hotbar
+- 2.1 Weapons
+- 2.2 Pickaxes
+- 2.3 Blocks & Platforms
+- 2.4 Light Sources
+- 2.5 Recall Items
+- 2.6 Explosives
+- 2.7 Movement Aids
+- 3 Tips
+
+## Inventory
+
+When your inventory is full, you cannot pick up more items, and will have to decide whether to ignore new items you could get, or get rid of an item you currently have. This section will cover ways to have more effective inventory space and what to consider when choosing which items to trash.
+## Storage
+
+The most important way to get more inventory is to store things in chests or a Piggy Bank. With a good organization system, you can quickly free up inventory space by quick stacking to all nearby chests whenever you are at your base. When you leave, any items you bring with you should serve some purpose for what you plan to do. Buff potions, informational accessories, and recovery potions are valuable additions while exploring, for instance, while Iron Bars are only valuable while crafting.
+
+Extra Piggy Banks or a Money Trough will allow you to access your Piggy Bank storage on the go, letting them function as additional inventories. After defeating Skeletron, the Void Bag will become obtainable, and will also serve as an extra inventory with the added benefits of letting you use potions, information accessories, and crafting materials directly from the void bag without opening it. Note that you can favorite items within your Void Bag as well, and if you do not, they will quick stack to nearby chests like items in your main inventory.
+
+You should offload as much as you can into your Piggy Bank and Void Bag without inconveniencing yourself, as this will provide you with much more inventory space to process new items you get. Later on, you can be using dozens of inventory slots for potions and information accessories, for instance, and putting these in your Void Bag will make inventory management much easier. Your Piggy Bank is also a good place for storing items you use semi-frequently, like fishing items.
+## Accessories
+
+Your character can equip 5/5›6/6›7 accessories directly, and that same amount in your Social Slots. This gives you at least 10 more inventory slots, and you can further use loadouts to triple your available accessory slots and carry up to 3 copies of a given accessory without using any inventory space. This works for saving any accessories during exploration that you want to use or sell later.
+
+You can also stack armor with armor slots, to store up to 6 of each armor slot.
+## Low-value Items
+
+When picking items to trash, there are a couple heuristics you can use to figure out whether an item is worth trashing or not. This does not necessarily apply to materials - many materials, like herbs or ores, are very valuable and should be saved, despite not doing anything before crafting with them.
+
+Value is also affected by the playthrough. Multiplayer playthroughs and Mediumcore have a much higher emphasis on getting multiple copies of given items, drastically increasing the value of a second Mace or other duplicates.
+
+Does this item have a use?
+
+- Paintings and decorative statues have no functional use for the player beyond collecting or building.
+
+Do I have another item that outclasses or replaces this item?
+
+- Copper and Tin Ore are outclassed by better ores and generally not worth keeping because of this. Their main value is as a stepping stone to better ores and items.
+- If you already have one block type for bridging and exploring, other placeable blocks are much less valuable.
+
+Do I already have enough of this item at home?
+
+- Gems are very valuable early on for gem hooks. However, once you collect 15 of a given gem or get another hook, gems become much less valuable.
+- Herbs are very powerful early on due to their use in buff potions, such as a single Daybloom providing 960 total HP regeneration over 8 minutes. However, if you have already farmed hundreds, they become much less important to hold on to.
+
+Can I use this item now?
+
+- Potions can be used instead of trashed, provided you only have 1.
+- Statues and chests can be placed for later collection, provided you do not forget where you placed them.
+
+Do I have a lot of this item?
+
+- Herbs like Daybloom and Blinkroot are very powerful even when you only have 1 in a stack.
+- Blocks like Stone Blocks are most useful for how common they are, making them much less valuable in small amounts.
+- You need enough of an ore to craft anything useful from it.
+
+Can I easily get this item later?
+
+- Statues, regardless of their value, are very rare in the world. If you trash one, you may not see another of the same type for hours of gameplay.
+- Clay Blocks are easy to come by by digging anywhere in the Forest, making them less valuable to hold on to.
+- The block types you are currently mining through (such as Mud Blocks in the Jungle) are generally easily obtainable, but trashing them and filling your inventory without them will cause the blocks to fall to the ground without being collected. This can eventually reach the item limit and start deleting old items, which can be bad in Mediumcore or other cases where you need to reach loose items before they despawn.
+
+## Hotbar
+
+Your hotbar holds up to 10 items that you can use without opening your full inventory. These slots are for items you use regularly and/or need to be able to use at a moment's notice. On Desktop version Desktop, each hotbar slot has a key binding, and it can be worth changing these in settings to keys that are easier to reach in a pinch. This section will focus on items you generally should consider for your hotbar.
+
+The most common choices for hotbar slots are weapons, a pickaxe, blocks, platforms, light sources, Recall Potions or a Magic Mirror, explosives, and items that can help with movement, like Rope or Minecart Tracks. Other tools like a Staff of Regrowth or a hammer are also good choices, depending on how often you use them.
+## Weapons
+
+These are your main way of defending yourself from enemies. You should have at least one weapon in your hotbar, possibly more for different situations. Pairing a broadsword with a bow helps cover the bow's weakness with small, fast-moving targets like Cave Bats, for instance. Another common use for extra weapons is to inflict debuffs, such as using the Golden Shower to inflict Ichor or any Whip to get their tag damage bonus, which can lead to more total damage than just using one weapon.
+
+You can buffer switches to other hotbar slots while still using your current weapon. If your weapon has autoswing, it will continue swinging until you release the ⚒ Use / Attack button during the end of its animation, and then it will switch to the new slot. If it does not have autoswing, you will switch to the new hotbar slot after that weapon completes its current animation. These behaviors will still happen with the autofire setting set to on, in which case switching off of a weapon without autoswing with the ⚒ Use / Attack key held will cause you to switch your weapon and start using the new weapon. Switching between weapons with autoswing is more difficult, requiring you to stop attacking, switch, then start attacking again.
+
+This is useful for rapidly switching between weapons that lack autoswing, primarily whips. A summoner player may devote 2 or 3 hotbar slots to whips, aiming to inflict all of their tag damage debuffs at once by using buffered hotbar switches.
+## Pickaxes
+
+Your pickaxe is your primary way of breaking blocks around you, extremely useful for building and mining. What pickaxe you use depends on pickaxe power and mining speed, but just prioritizing pickaxe power is generally the safer option. You can use multiple pickaxes to get the best possible mining speeds on all block types, but pickaxes have autoswing, and their mining speed does not match up with their animation, meaning that each switch will lose you time to make this generally not worth it.
+## Blocks & Platforms
+
+Placeable blocks and platforms are key to controlling your environment to your benefit. You can jump and place platforms under your feet to quickly scale a wall or stop a fall, or use them with Smart Cursor to move diagonally along stairs. You can use blocks to control enemy movement, keep yourself safe, cover dangerous lava or spike pits, and so much more. Using one of each in your hotbar will give you much more control over your environment. Dirt and other soft blocks are generally best for blocks due to being easy to mine, while platforms are mostly interchangeable outside the underworld, where Stone Platforms are useful due to not burning in lava.
+## Light Sources
+
+Torches, Glowsticks, and the Flare Gun all provide light around you. Torches, Glowsticks, and the Flares used for the Flare Gun can be bought from the Merchant. The first step to not dying to a trap or enemy is to know it is there. Torches are your permanent light source, but with short range, while Glowsticks and especially a Flare Gun can light up distant spaces and even work underwater. Auto Select can allow you to use all of these quickly without using a hotbar slot for them by hovering the cursor over empty space, but this has some limits due to only autoselecting over certain ranges.
+
+Torches are the most expensive, while Flares are the least expensive. Torches have the least range, while Flares have the greatest range. However, Torches are guaranteed to be visible on repeat expeditions, which can also let you mark where you have been before.
+
+Some weapons, such as bows with Flaming Arrows or a Starfury, can also function as long-range, short-lived light sources, with the Starfury in particular being able to light up anywhere on screen.
+
+Shine Potions, Hunter Potions, and other buffs and equipment that let you naturally produce light or see without light can also replace some of the value of other light sources.
+## Recall Items
+
+Recall Potions, a Magic Mirror, and Potions of Return allow you to teleport back to spawn, or to a bed. This can get you out of a dangerous situation, especially in a Mediumcore or Hardcore run, or be a quick way to finish a mining session. Recall Potions are outright better than the Magic Mirror due to a faster use time, especially in the hotbar. If you are worried about running out of Recall Potions, you can use a Magic Mirror from the inventory screen, but a potion not used is a potion wasted. You could omit having a recall item in your hotbar in Softcore, but there is no other hotbar option that is as good at keeping you from dying.
+## Explosives
+
+Dynamite and Bombs can be bought from the Demolitionist, and let you destroy huge numbers of blocks at once, much faster than pickaxes in most cases. They allow for fast tunneling, quickly collecting ore veins, and breaking through blocks you would not otherwise be able to mine through, such as Ebonstone or Crimstone. Having them in your hotbar can make it easier to consistently use them.
+## Movement Aids
+
+Rope and Minecart Tracks are useful items for movement, letting you move up or to the side quickly and without placing physical blocks or platforms. They are very easy to obtain and quick to place over a long range, letting them break pots from a distance or stop the Sandgun from placing sand, for instance. Rope eventually becomes less useful as the player gets better mobility and especially if they are using Featherfall Potions that can lead them to grabbing onto rope by accident, but minecart tracks remain an extremely fast mobility option for the whole game.
+
+An Umbrella or Trident can also affect your movement in some situations, which can be useful for avoiding fall damage or quickly moving through water.
+## Tips
+
+- The trash slot can serve as an extra inventory slot, as you can pull items out from it. However, this only works for one item at a time, and the item will be deleted if you leave the world or die.
+- If you don't have the heart to throw away some items, you can deposit them into naturally-generated Chests or a dedicated base 'junk-chest' and come back for them later.
+- If you encounter a Skeleton Merchant, you can sell your accumulated junk items to him rather than throwing them away.
+- The Encumbering Stone can be useful for managing your inventory if you do not want to choose what to get rid of. Right click on it to unlock it when you choose to get an item.
+- Renaming your chests to match the types of items they store, for example "Ores and Bars", "Potions", "Weapons", etc. will make finding your items much easier.
+- Many common items are also used as ammo, and can be stored in your Ammo slots. These include Gel, Fallen Stars, Sand, and in Desktop version Desktop, Console version Console, and Mobile version Mobile, Bones, Wire and Bait.

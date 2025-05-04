@@ -1,0 +1,888 @@
+# Guide: Walkthrough/Hardmode
+
+This guide covers tasks, strategies, and enemy/boss fights for Hardmode.
+
+## 1. Smashing Altars
+
+- **Purpose:**  
+  - Initiates Hardmode by generating new ores underground.
+  - You must use the Pwnhammer to break Altars, which creates ore deposits more densely at lower depths.
+
+- **Ore Generation Pattern:**  
+  - **First Altar:** Spawns Cobalt or Palladium.  
+  - **Second Altar:** Spawns Mythril or Orichalcum.  
+  - **Third Altar:** Spawns Adamantite or Titanium.  
+  - **Repeating Pattern:** Additional altars follow a diminishing returns pattern (smash 12 total for a repeat, then 33 total, etc.).
+
+- **Additional Effects:**  
+  - Each smashed altar may also create new blocks of Ebon/Crimstone or Pearlstone, causing respective biomes to spread.
+
+- **Further Info:**  
+  - See *Guide: Getting started with Hardmode*.
+
+---
+
+## Biome Overviews (Hardmode)
+
+### Night (Hardmode)
+
+- **Recommended Life:** 400  
+- **Recommended Armor Options:**  
+  - Molten, Jungle, Meteor, Necro, Bee, Obsidian, or Crimson armor
+
+- **New Enemies:**  
+  - Possessed Armor, Wandering Eye, Wraith, Clown (Blood Moon), Werewolf (Full Moon)
+
+- **New Drops:**  
+  - Fast Clock, Wandering Eye Kite (on Windy Days), Trifold Map, Bananarang, Bloody Tear (Blood Moon only), Moon Charm, Adhesive Bandage, Wolf Fang
+
+- **Tip:**  
+  - Be cautious on the surface at Night as more powerful monsters appear.
+
+---
+
+### Desert Biome (Hardmode)
+
+- **Recommended Life:** 400  
+- **Recommended Armor:** Molten Armor
+
+- **New Enemies:**  
+  - Mummy (normal), Dark Mummy (Corrupted), Blood Mummy (Crimson), Light Mummy (Hallowed), Shadow Mummy (Corrupted), Spectral Mummy (Hallowed)
+
+- **New Drops:**  
+  - Mummy set, Fast Clock, Megaphone, Blindfold, Dark Shard, Trifold Map, Light Shard
+
+- **Note:**  
+  - Hardmode deserts are unique; natural deserts change quickly when corrupted, crimsoned, or hallowed.
+
+---
+
+### The Hallow
+
+- **Recommended Life:** 400  
+- **Recommended Armor:** Molten Armor
+
+- **Enemies:**  
+  - Pixie, Unicorn, Gastropod (and Spectral Gastropod at night), Rainbow Slime (during Rain)
+
+- **New Drops:**  
+  - Fast Clock, Megaphone, Pixie Dust, Unicorn Horn, Unicorn on a Stick, Blessed Apple, Rainbow Brick
+
+- **Notable Resources:**  
+  - Pearlstone Block, Pearlsand Block, Hardened Pearlsand Block, Pearlsandstone Block, Pink Ice Block, Pearlwood, Princess Fish, Prismite, Crystal Serpent, Divine Crate, The Land of Deceiving Looks
+
+- **Tip:**  
+  - Although visually whimsical, all Hallow denizens are hostile. Limit time spent here if you’re new to Hardmode.
+
+---
+
+### Corruption (Hardmode)
+
+- **Recommended Life:** 400  
+- **Recommended Armor:** Molten Armor
+
+- **New Enemies:**  
+  - Corruptor, Corrupt Slime, Slimeling (from Corrupt Slime), Shadow Slime, Slimer
+
+- **New Drops:**  
+  - Blindfold, Petri Dish, Vitamins, Meat Grinder
+
+- **New Resources:**  
+  - Toxikarp, Defiled Crate
+
+- **Tip:**  
+  - Corruption spreads quickly; new players should move through this biome swiftly.
+
+---
+
+### Crimson (Hardmode)
+
+- **Recommended Life:** 400  
+- **Recommended Armor:** Molten Armor
+
+- **New Enemies:**  
+  - Herpling, Crimslime, Blood Jelly, Blood Feeder
+
+- **New Drops:**  
+  - Meat Grinder
+
+- **New Resources:**  
+  - Bladetongue, Hematic Crate
+
+- **Tip:**  
+  - Crimson spreads similarly to Corruption but can be more dangerous due to the Herpling. Extra caution is advised.
+
+---
+
+## 2. Mining Hardmode Ores
+
+- **Preparation:**  
+  - Once enough ore has spawned from smashed altars, begin mining Cobalt or Palladium with the Molten Pickaxe.
+  - Other Hardmode ores (Mythril/Orichalcum, Adamantite/Titanium) cannot be mined until the proper ore is generated.
+
+- **Underground Biomes:**
+
+  ### Underground (Hardmode)
+  - **New Monsters:** Toxic Sludge, Digger, Possessed Armor (night)  
+  - **Recommended Equipment:**  
+    - Armor: Molten, Meteor, or Crimson sets  
+    - Tools: Molten Pickaxe, Phoenix Blaster, Fiery Greatsword or Night’s Edge, Flamarang, Demon Scythe  
+  - **Tip:**  
+    - Hardmode ores are rarer in this layer; aim for the lower layers (just above the Underworld).
+
+  ### Cavern (Hardmode)
+  - **New Monsters:** Armored Skeleton, Skeleton Archer, Giant Bat, Digger, Angler Fish (water), Green Jellyfish (water), Mimic  
+  - **Monster Drops:**  
+    - Armor Polish, Beam Sword (rare), Magic Quiver, Marrow  
+    - Mimic-specific drops: Dual Hook, Magic Dagger, Titan Glove, Philosopher’s Stone, Cross Necklace, Star Cloak
+  - **Recommended Equipment:**  
+    - Use Molten armor and Molten Pickaxe
+  - **Tip:**  
+    - Watch out for the Armored Skeleton’s “Broken Armor” debuff. The Nurse may help if you’re hit.
+
+---
+
+## Underground Hardmode Biomes (Additional)
+
+### Underground Hallow
+
+- **Monsters:**  
+  - Chaos Elemental, Illuminant Bat, Illuminant Slime, Enchanted Sword, Hallowed Mimic
+- **Drops:**  
+  - Soul of Light, Blessed Apple, Rod of Discord  
+  - Hallowed Mimic may drop: Daedalus Stormbow, Flying Knife, Crystal Vile Shard, Illuminant Hook
+- **Notable Resources:** Crystal Shard
+- **Recommended Equipment:**  
+  - Mythril or Palladium; Ironskin and Regeneration Potions
+- **Tip:**  
+  - Avoid this biome until you have Mythril armor or better; use a Magic Mirror if a Hallowed Mimic chases you.
+
+---
+
+### Underground Corruption
+
+- **Monsters:**  
+  - Clinger, Corrupt Slime, Corruptor, Cursed Hammer, Devourer, Slimer, World Feeder
+- **Drops:**  
+  - Soul of Night, Cursed Flame, Nazar, Vitamins  
+  - Mimic drops: Dart Rifle, Worm Hook, Chain Guillotines, Clinger Staff, Putrid Scent
+- **Recommended Equipment:**  
+  - Mythril or Palladium; Ironskin and Regeneration Potions
+- **Tip:**  
+  - Avoid until equipped with proper Hardmode gear.
+
+---
+
+### Underground Crimson
+
+- **Monsters:**  
+  - Ichor Sticker, Floaty Gross, Blood Jelly, Blood Feeder, Crimson Axe
+- **Drops:**  
+  - Soul of Night, Ichor, Nazar, Vitamins, Meat Grinder  
+  - Mimic drops: Life Drain, Dart Pistol, Fetid Baghnakhs, Flesh Knuckles, Tendon Hook
+- **Recommended Equipment:**  
+  - Mythril or Palladium; Ironskin and Regeneration Potions
+- **Tip:**  
+  - Stay as far from this biome as possible early on, as enemies like Floaty Gross can bypass block obstacles.
+
+---
+
+### Underground Glowing Mushroom Biome
+
+- **Monsters:**  
+  - Fungi Bulb, Anomura Fungus, Mushi Ladybug, Giant Fungi Bulb, Fungo Fish
+- **Notable Resource:**  
+  - Truffle Worm (used to summon Duke Fishron)
+- **Recommended Equipment:**  
+  - Mythril or Palladium; Ironskin and Regeneration Potions
+- **Tip:**  
+  - Generally avoid this biome unless you need Glowing Mushrooms or Mushroom Seeds.
+
+---
+
+## Additional Mining Tips
+
+- **Alternate Ores:**  
+  - If mining proves too dangerous in Hardmode biomes, consider looking for ores in the ceiling of the Underworld.
+- **Upgrading Tools:**  
+  - Upgrade quickly to a Cobalt or Palladium Drill (or their pickaxe equivalents).
+  - Use early Mythril/Orichalcum ores to craft a Hardmode Anvil, then upgrade to a Mythril Drill/Pickaxe to access Adamantite/Titanium.
+  - Use the first 30 Adamantite/Titanium ores to craft an Adamantite or Titanium Forge.
+
+- **Chest Safety:**  
+  - Always check chests for Mimics—shoot them from a distance to force them to reveal themselves.
+
+- **Priorities:**  
+  - Use leftover ore to upgrade armor, then weapons, and finally tools.
+
+---
+
+## The Goblin Army (Hardmode)
+
+- **New Monster:**  
+  - Goblin Summoner (casts highly damaging spells)
+- **Drops:**  
+  - Shadowflame Hex Doll, Shadowflame Knife, Shadowflame Bow
+- **Recommended Equipment:**  
+  - Armor: Adamantite/Titanium or better  
+  - Weapons: Demon Scythe, Crystal Storm, Golden Shower  
+  - Accessories: Lightning Boots, Wings
+- **Tip:**  
+  - Defeating the Goblin Summoner is key, as its drops (e.g., Shadowflame Bow) can inflict the Shadowflame debuff—crucial against mechanical bosses.
+
+---
+
+## The Pirate Invasion
+
+- **Monsters:**  
+  - Pirate Deckhand, Pirate Deadeye, Pirate Corsair, Pirate Crossbower, Pirate Captain, Parrot, Flying Dutchman
+- **Drops:**  
+  - Coin Gun, Lucky Coin, Discount Card, Cutlass, Pirate Staff, Gold Ring, various golden furniture, Sailor and Buccaneer costumes
+- **Recommended Armor:**  
+  - Hallowed Armor
+- **Recommended Weaponry:**  
+  - Weapons such as Death Sickle, Chlorophyte Saber, Chlorophyte Partisan, Optic Staff, Golden Shower, Uzi, and Megashark
+- **Trigger:**  
+  - Can occur after smashing one demon altar or by using a Pirate Map.
+- **Alerts:**  
+  - A message will announce the approaching invasion (“Pirates are approaching from the East/West!”) and when they arrive (“The Pirates have arrived!”)
+- **Tip:**  
+  - Prepare your defenses in advance; early Hardmode Pirate Invasions can be challenging.
+
+---
+
+Below is the reformatted text with clear headings, subheadings, and bullet points:
+
+---
+
+# The Great Run-up
+
+Before facing the Mechanical bosses, complete these preparations while gathering ore for better gear:
+
+- **NPC Housing:**  
+  - Ensure you have a home for the Wizard.  
+    - *Note:* The Wizard is found tied up underground (like the Goblin Tinkerer and Stylist) and is mandatory for magic users. He sells Greater Mana Potions and key crafting ingredients.
+
+- **Stock Up on Potions:**  
+  - Have a full set of buff potions ready.  
+  - Carry at least a stack of Greater Healing Potions or Honeyfin.  
+    - *Rationale:* The mech bosses’ damaging attacks will quickly reduce your health.
+
+---
+
+# Collecting Souls
+
+Gathering souls is the final task before battling the Mechanical bosses. There are three types:
+
+- **Soul of Flight:**  
+  - **Source:** Dropped by Wyverns.  
+  - **Tip:**  
+    - Collect these first as they are used to craft wings, which are very useful for navigating Underground Hallow or Corruption.
+  
+  ## Floating Island (Hardmode)
+  - **New Monsters:**  
+    - Wyvern, Arch Wyvern  
+  - **Drops:**  
+    - Soul of Flight  
+    - Shadow Key (from Arch Wyvern)  
+  - **Recommended Equipment:**  
+    - Adamantite or Titanium armor  
+    - Piercing weapons (the Demon Scythe is particularly effective)  
+    - Potions: Gravitation, Ironskin, and Regeneration Potions  
+  - **Overview:**  
+    - Wyverns fly quickly and deal high damage; use piercing weapons to hit their multiple segments.
+
+- **Soul of Light:**  
+  - **Source:** Dropped by enemies in the Underground Hallow (and some Underworld enemies that spawn below).  
+  - **Tip:**  
+    - Aim to gather at least 50 Souls.  
+    - Farm spiders if your Hallow overlaps with a Spider Cave, taking advantage of their fast spawn rate.
+  - **Further Info:**  
+    - See *Guide: Harvesting Souls* for additional details.
+
+- **Soul of Night:**  
+  - **Source:** Dropped by enemies in the Underground Corruption and Crimson.  
+  - **Tip:**  
+    - Many of the same farming rules as for Souls of Light apply.
+  - **Further Info:**  
+    - See *Guide: Harvesting Souls* for more information.
+
+---
+
+# Miscellaneous Items
+
+Collect these additional items to round out your preparations:
+
+- **Pixie Dust:**  
+  - Dropped by Pixies in the surface Hallow.  
+  - **Uses:**  
+    - Craft Greater Healing Potions or combine with Unicorn Horns to make Holy Arrows.
+
+- **Dark and Light Shards:**  
+  - **Source:**  
+    - Mummies from the Corrupt/Crimson Desert drop Dark Shards.  
+    - Mummies from the Hallowed Desert drop Light Shards.  
+  - **Uses:**  
+    - Collect these to craft the Dao of Pow.
+
+- **Biome Keys:**  
+  - **Source:**  
+    - Extremely rare drop from enemies in six main biomes (Hallow, Corruption, Crimson, Jungle, Desert, and Snow).  
+  - **Uses:**  
+    - Open Biome Chests in the Dungeon after defeating Plantera for extremely powerful items.
+
+- **Mimics:**  
+  - **Tip:**  
+    - Mimics can appear in almost any biome.  
+    - Use Hunter Potions or a Lifeform Analyzer to locate them.  
+    - Kill Mimics until you obtain a Philosopher's Stone and a Cross Necklace.
+  - **Additional Note:**  
+    - Fifteen Souls of Light or Night can craft Light or Night Keys, respectively.  
+      - When placed into an empty chest, these keys create Hallowed or Corrupt/Crimson Mimics, which are larger, more dangerous, and offer unique rewards.
+    - Hallowed, Corrupt, and Crimson Mimics may also appear naturally in their respective underground biomes.
+
+---
+
+Below is the reformatted walkthrough, organized into clear sections, headings, and bullet lists for improved readability:
+
+---
+
+# Queen Slime
+
+**Overview:**  
+- An optional yet fun boss whose drops aren’t required for progression.  
+- Summoned by using a Gelatin Crystal (found in any hallowed biome’s Underground Hallow alongside Crystal Shards).
+
+**Key Drops:**  
+- **Crystal Assassin Armor Set:** The only set that boosts all types of damage.  
+- **Hook of Dissonance:** Teleports you to the grappled location.  
+- **Gelatinous Pillion:** Enhances airborne movement.  
+- In Expert/Master mode, also drops **Volatile Gelatin** (automatically hurls bouncing slime balls at nearby enemies).
+
+**Battle Characteristics:**  
+- Similar to King Slime in ease because of limited movement and attacks.  
+- Lacks rapid, long-range attacks; even in its second form, its movement is significantly slower than bosses like The Twins or Skeletron Prime.
+
+---
+
+# The Three Mechanical Bosses
+
+Once you have amassed sufficient Hardmode resources, it’s time to prepare for and face the first three Hardmode bosses. Each is summoned using a specific item (crafted or dropped by enemies) or can sometimes spawn naturally at sunset (though proper preparation is key).
+
+---
+
+## Pre-Mechanical Boss Equipment Recommendations
+
+*Note: This list is not exhaustive. Other effective items may be available. It also assumes no Hardmode bosses have yet been defeated.*
+
+### Melee
+
+- **Weapons:**  
+  - Gradient, Amarok, Chik, Chain Guillotines, Hel-Fire, Dao of Pow, Bladetongue, Ice Sickle, Bananarang, Fetid Baghnakhs, Shadowflame Knife, Sergeant United Shield, Drippler Crippler, Flying Knife, Ham Bat, Obsidian Swordfish, Light Disc
+- **Armor Options:**  
+  - Palladium, Mythril, Adamantite, Titanium, Frost Armor
+- **Accessories:**  
+  - Warrior Emblem, Yoyo Bag, Berserker’s Glove, Magma Stone, Moon Charm
+- **Buffs/Potions/Flasks:**  
+  - Flask of Ichor, Flask of Cursed Flames, Sharpening Station, Ale/Sake
+
+---
+
+### Ranged
+
+- **Weapons:**  
+  - Coin Gun, Adamantite/Titanium Repeater, Shadowflame Bow, Marrow, Daedalus Stormbow, Clockwork Assault Rifle, Onyx Blaster, Uzi, Dart Rifle, Star Cannon, Dart Pistol, Toxikarp
+- **Armor Options:**  
+  - Palladium, Adamantite, Titanium, Frost Armor
+- **Accessories:**  
+  - Ranger Emblem, Magic Quiver, Molten Quiver, Stalker’s Quiver
+- **Buffs/Potions:**  
+  - Archery Potion, Ammo Reservation Potion, Ammo Box
+- **Ammunition:**  
+  - Various types including Platinum Coin, Crystal Bullet, Ichor Bullet, Exploding Bullet, Endless Musket Pouch, Frostburn Arrow, Jester’s Arrow, Hellfire Arrow, Holy Arrow, Ichor/Cursed Arrow, Endless Quiver, Ichor/Dart/Fallen Star/Cursed Dart, Crystal Dart
+
+---
+
+### Magic
+
+- **Weapons:**  
+  - Meteor Staff, Crystal Serpent, Golden Shower, Magic Dagger, Cursed Flames, Crystal Storm, Flower of Frost, Shadowflame Hex Doll, Sky Fracture, Frost Staff, Spirit Flame, Life Drain, Clinger Staff, Nimbus Rod, Orange Zapinator
+- **Armor Options:**  
+  - Palladium, Adamantite, Titanium, Forbidden Armor
+- **Accessories:**  
+  - Arcane Flower, Celestial Cuffs, Magnet Flower, Mana Cloak, Sorcerer Emblem
+- **Buffs/Potions:**  
+  - Mana Regeneration Potion, Magic Power Potion, Crystal Ball
+
+---
+
+### Summoning
+
+- **Weapons:**  
+  - Slime Staff, Spider Staff, Queen Spider Staff, Pirate Staff, Tempest Staff, Sanguine Staff, Blade Staff, Firecracker, Cool Whip
+- **Armor Options:**  
+  - Spider Armor, Forbidden Armor, Obsidian Armor
+- **Accessory:**  
+  - Summoner Emblem, Berserker’s Glove, Pygmy Necklace
+- **Mounts:**  
+  - Pirate Ship Mount, Goat Mount, Unicorn Mount, Basilisk Mount, Winged Slime Mount
+- **Buffs/Potions:**  
+  - Flask of Ichor, Flask of Cursed Flames, Summoning Potion, Bewitching Table
+
+*Note (3DS Version):* Summoners cannot obtain another summoning weapon unless Duke Fishron is killed with the Slime Staff.
+
+---
+
+### Mixed (General Utility)
+
+- **Armor:**  
+  - Crystal Assassin Armor, Spider Greaves
+- **Accessories:**  
+  - Lightning Boots, Terraspark Boots, Amphibian Boots, Obsidian Shield, Ankh Shield, Charm of Myths, Frozen Wings, Putrid Scent, Flesh Knuckles
+- **Mounts:**  
+  - Pirate Ship Mount, Goat Mount, Pigron Mount, Unicorn Mount, Basilisk Mount, Winged Slime Mount
+- **Buffs/Potions:**  
+  - Regeneration Potion, Ironskin Potion, Swiftness Potion, Rage Potion, Wrath Potion, Heartreach Potion, Lifeforce Potion, Endurance Potion, Well Fed, Plenty Satisfied, Exquisitely Stuffed, Slice of Cake, Wolf Fang
+
+---
+
+## Building a Hardmode Arena
+
+**Solo Arena:**  
+- Construct a long bridge of wood platforms (recommended 2500 platforms; minimum 1000).  
+- Build it far above ground (ground should not be visible) and add blocks at each end to prevent falls.
+
+**Team Arena:**  
+- A shorter arena (250–500 platforms) with 2–3 separate rows, spaced for accessibility (e.g., with rocket boots).
+
+**Reusable Arena Idea:**  
+- Combine elements of your pre-Hardmode boss arena, the Old Ones Army arena, and your skybridge to reuse for events like King Slime/Eye of Cthulhu and wyvern fights.
+
+**Additional Features:**  
+- Consider adding Heart Statues and Star Statues on 1-second timers, along with Sunflowers, Heart Lanterns, Campfires, and pools of Honey to ease battles.
+
+*Tip:*  
+- If you’re not ready to build a new arena, you can repurpose your Wall of Flesh bridge for the first fight—but note that post-first Mechanical boss, additional spawns (Lava Bats, Red Devils) increase the challenge.
+
+---
+
+## Fighting the Mechanical Bosses
+
+### The Destroyer
+
+**Overview:**  
+- The easiest mechanical boss, often the first to be tackled.  
+- Can spawn naturally at sunset ("You feel vibrations deep below…") or be summoned using a Mechanical Worm at night.
+
+**Stats:**  
+- **Total Life:** 80,000 (shared among all segments)  
+- **Defense:** Varies by segment (0 for head, 30 for body, 35 for tail)  
+- **Damage:**  
+  - Head: 60 (melee)  
+  - Body: 40  
+  - Tail: 20  
+  - Death Laser: 22
+
+**Mechanics:**  
+- Uses worm AI; burrows and sweeps long passes.  
+- Releases Probes when damaged (which drop hearts).
+
+**Strategy:**  
+- Use piercing and area-of-effect weapons.  
+- Utilize hooks to escape traps formed by its body.  
+- Wait for segments to be above ground when health is low.
+
+**Additional Info:**  
+- Does not despawn if using a Magic Mirror or Recall Potion; follows you—this can be useful for healing via a nearby Nurse.
+
+---
+
+### Skeletron Prime
+
+**Overview:**  
+- Hardmode version of Skeletron, with multiple arms and a head.  
+- Alternates between attacking with different appendages and a spinning head attack.
+
+**Stats (Approximate):**  
+- **Head:** 25,000 Life (Defense: 25; 50 when spinning)  
+- **Cannon:** 6,000 Life  
+- **Saw:** 8,000 Life  
+- **Vice:** 8,000 Life  
+- **Laser:** 5,000 Life
+
+**Damage:**  
+- Varies by part; melee and grenade/laser damage also factor in.
+
+**Strategy:**  
+- Target and destroy arms (especially Prime Saw and Prime Vice) before focusing on the head.  
+- Two methods to avoid attacks:  
+  1. Use maximum running speed (Lightning/Frostspark Boots) and timed jumps.  
+  2. Use Gravitation Potions to stay mobile.
+
+---
+
+### The Twins
+
+**Overview:**  
+- The most challenging of the three mechanical bosses; recommended to fight last.  
+- Can spawn at sunset ("This is going to be a terrible night…") or be summoned with a Mechanical Eye at night.
+
+**Individual Bosses:**  
+- **Retinazer:**  
+  - **Life:** 20,000; **Defense:** 10 (Stage 1), 25 (Stage 2)  
+  - Attacks with lasers and charges; transforms when reaching low health.
+- **Spazmatism:**  
+  - **Life:** 23,000; **Defense:** 10 (Stage 1), 35 (Stage 2)  
+  - Uses cursed flame attacks and charges; also transforms at low health.
+
+**Battle Dynamics:**  
+- They attack independently—sometimes one charges while the other uses its signature attack.  
+- When a Twin reaches a certain health threshold, it enters a second stage with rapid-fire and more damaging melee attacks.
+- The first defeated Twin yields no drops; drops appear when the second one is defeated.
+
+**Strategy:**  
+- Focus on one Twin at a time.  
+- It’s advisable to kill Spazmatism first (as Retinazer’s stage one is less dangerous).  
+- Use max speed (Lightning/Frostspark Boots) and timed jumps, or Gravitation Potions, to dodge charging attacks.
+- Ensure you don’t let a Twin remain off-screen too long (on console/mobile, they may despawn—but you lose loot).
+
+---
+
+## Post-Mechanical Bosses & Additional Rewards
+
+- Defeating any Mechanical boss unlocks new challenges and grants access to materials like souls and Hallowed Bars.  
+- Hallowed Bars are used to craft Hallowed armor and various weapons.  
+- You can return to the Underground Jungle to farm Life Fruit (increases max health to 500).
+
+---
+
+## Duke Fishron
+
+**Overview:**  
+- One of the hardest bosses in the game (as of version 1.3.3.3).  
+- Requires capturing a Truffle Worm (a challenging process due to low spawn rates) to summon him by fishing in the Ocean.
+
+**Stats & Drops:**  
+- **Life:** 50,000  
+- **Defense:** 50  
+- **Damage:** 100 (melee)  
+- **Key Drops:**  
+  - Flairon, Tsunami, Razorblade Typhoon, Tempest Staff, Bubble Gun, Fishron Wings, Shrimpy Truffle (Expert mode)
+
+**Recommended Equipment (By Class):**  
+- **Melee:** Turtle/Beetle armor, Possessed Hatchet, Vampire Knives  
+- **Ranged:** Shroomite armor, Chain Gun or Tactical Shotgun with Chlorophyte Bullets, or Stynger  
+- **Magic:** Spectre armor (Hood), Heat Ray, Bat Scepter, Golden Shower (plus Celestial Cuffs, Sorcerer Emblem/Celestial Stone)  
+- **Accessories (All Classes):**  
+  - Hoverboard (or Wings), Frostspark Boots, Amphibian Boots, Destroyer Emblem, Tabi/Master Ninja Gear, Shield of Cthulhu (Expert mode)
+
+**Buff Potions (All Classes):**  
+- Ironskin, Regeneration, Swiftness, Thorns, Water Walking, Well Fed, Wrath, Rage, Lifeforce, Endurance, Summoning, (optional) Gravitation
+
+**Battle Strategy:**  
+- Duke Fishron’s second stage is lethal—avoid stopping movement at all costs.  
+- Running while continuously firing is key; keep your distance.  
+- Gravitation Potions can maximize mobility but may be disorienting; Wings and Frostspark Boots offer reliable ground mobility.
+- The Tabi/Master Ninja Gear assists in dodging; Shield of Cthulhu (if timed well) can absorb his lunging attacks.
+- Avoid leaving the Ocean biome—if you do, his defense and attack double.
+- It’s best to build a flexible arena with platforms over the Ocean biome.
+
+**Additional Tips:**  
+- Duke Fishron is challenging but generally easier than Lunar Events.  
+- If you repeatedly fight him, his weapon drops and wings will ease subsequent battles.
+- For more strategies, see *Guide: Duke Fishron strategies*.
+
+---
+
+Below is the reformatted walkthrough with clear sections, headings, and bullet points for improved readability:
+
+---
+
+# The Pumpkin Moon
+
+**Event Overview:**  
+- **Summoning:** Use a Pumpkin Moon Medallion at night.  
+- **Visuals:** The moon turns orange with a jack‐o’-lantern face.  
+- **Structure:** Enemies come in up to 15 consecutive waves (similar to an invasion).
+
+**Monsters:**  
+- Scarecrow, Splinterling, Hellhound, Poltergeist, Mourning Wood, Headless Horseman, Pumpking
+
+**Key Drops:**  
+- Scarecrow costume  
+- Spooky Wood, Spooky Twig  
+- Cursed Sapling  
+- Spooky Hook  
+- Necromantic Scroll  
+- Stake Launcher  
+- Mourning Wood Trophy  
+- Jack 'O Lantern Mask  
+- The Horseman's Blade  
+- Pumpking Trophy  
+- Candy Corn Rifle  
+- Raven Staff  
+- Jack 'O Lantern Launcher  
+- Bat Scepter  
+- Black Fairy Dust  
+- Spider Egg
+
+**Recommended Equipment:**  
+- Armor: Chlorophyte, Turtle, Spectre, or Shroomite
+
+*See also: Guide: Pumpkin Moon strategies*
+
+---
+
+# The Frost Moon
+
+**Event Overview:**  
+- **Summoning:** Use a Naughty Present at night.  
+- **Difficulty:** One of the most challenging events, designed for endgame players.  
+- **Structure:** 15 standard waves plus 5 bonus waves; the moon adopts a snowman-like face.
+
+**Monsters:**  
+- Present Mimic, Flocko, GingerBread, Zombie Elf, Elf Archer, Nutcracker, Yeti, Elf Copter, Everscream, Krampus, Ice Queen, Santa-NK1
+
+**Key Drops:**  
+- Christmas Tree Sword  
+- Festive Wings  
+- Razorpine  
+- Christmas Hook  
+- Everscream Trophy  
+- Blizzard Staff  
+- North Pole  
+- Ice Queen Trophy  
+- Snowman Cannon  
+- Baby Grinch's Mischief Whistle  
+- Reindeer Bells  
+- Elf Melter  
+- Chain Gun
+
+**Recommended Equipment:**  
+- Armor: Chlorophyte, Turtle, Spectre, or Shroomite
+
+*See also: Guide: Frost Moon strategies*
+
+---
+
+# Martian Madness
+
+**Event Overview:**  
+- **Type:** An invasion-type event that occurs after defeating Golem (cannot be triggered manually).  
+- **Trigger:** A Martian Probe will randomly appear in the outer two-thirds of the map. When scanned and then escaping, the event starts.
+
+**Monsters:**  
+- Brain Scrambler, Gray Grunt, Ray Gunner, Martian Officer, Martian Engineer, Gigazapper, Tesla Turret, Martian Walker, Scutlix, Martian Saucer
+
+**Key Drops:**  
+- Martian Conduit Plating  
+- Martian Costume  
+- Laser Machinegun  
+- Xenopopper  
+- Cosmic Car Key  
+- Laser Drill  
+- Electrosphere Launcher  
+- Charged Blaster Cannon  
+- Influx Waver  
+- Anti-Gravity Hook  
+- Martian Saucer Trophy
+
+**Recommended Equipment:**  
+- Armor: Shroomite, Turtle, Beetle, or Spectre
+
+---
+
+# The Lunatic Cultist
+
+**Boss Overview:**  
+- **Summoning:** Kill the four Cultists that spawn at the Dungeon after defeating Golem.  
+- **Role:** Defeating the Lunatic Cultist triggers the Lunar Events.
+
+**Key Stats:**  
+- **Life:** 32,000  
+- **Damage:** 50  
+- **Defense:** 42  
+- **Minions:** Phantasm Dragon, Ancient Vision
+
+**Attacks:**  
+1. **Before reaching a certain health:**  
+   - Fires 3 homing fireball projectiles that explode on impact.  
+   - Summons an ice fractal that fires shards in six directions repeatedly.  
+   - Summons a lightning orb that fires bolts at the player.
+2. **After reaching about half health:**  
+   - Adds an attack firing 2 spreads of 5 destructible Ancient Light.
+
+**Expert Mode:**  
+- May spawn numerous Ancient Dooms that fire purple projectiles in a cross pattern.
+
+**Battle Mechanics:**  
+- After cycling through attacks, the Cultist fades away and reappears in a ritual circle with duplicate Ancient Cultists.  
+- **Strategy Tip:**  
+  - Identify and attack the real cultist to break the ritual; attacking a fake (or letting the ritual finish) spawns additional minions.
+
+*See also: Guide: Lunatic Cultist strategies*
+
+---
+
+# The Celestial Pillars
+
+**Event Overview:**  
+- **Trigger:** After defeating the Lunatic Cultist, four Celestial Pillars spawn.  
+- **Purpose:** They represent the four classes:
+  - **Solar:** Melee  
+  - **Vortex:** Ranged  
+  - **Nebula:** Magic  
+  - **Stardust:** Summoning  
+- **Note:** It’s ideal to defeat the pillar corresponding to your class first, then the Stardust Pillar for its powerful drop (Stardust Dragon Staff).
+
+---
+
+## Solar Pillar
+
+- **Stats:**  
+  - **Life:** 20,000  
+  - **Defense:** 20  
+  - **Damage:** 0 (melee), 90 (solar flare)
+- **Minions:** Selenian, Drakanian, Corite, Sroller, Drakomire, Crawltipede
+- **Drops:** Solar Fragments (12–60 or 18–90)
+- **Equipment Recommendations:**  
+  - **Melee:** Turtle or Beetle armor, Vampire Knives, North Pole, Paladin's Hammer, Scourge of the Corruptor, Influx Waver  
+  - **Ranged:** Shroomite armor, Stynger, Megashark, Chain Gun, Electrosphere Launcher, Tsunami, Sniper Scope  
+  - **Magic:** Spectre armor (Hood or Mask), Razorblade Typhoon, Laser Machinegun, Blizzard Staff, Bat Scepter, Golden Shower, Celestial Cuffs, Sorcerer Emblem or Celestial Stone, Razorpine, Bubble Gun, appropriate potions  
+  - **Accessories (All Classes):** Frostspark Boots, Star Veil  
+  - **Buffs (All Classes):** Ironskin, Regeneration, Swiftness, Thorns, Well Fed, Wrath, Rage, Lifeforce, Endurance, Summoning
+
+**Mechanics:**  
+- To damage the pillar, defeat 100 (150 on Expert) minions to deactivate its shield.  
+- Be cautious of aerial threats (Crawltipedes, Corites, Selenians) and use platforms or weapons that pierce through blocks.
+
+---
+
+## Vortex Pillar
+
+- **Stats:**  
+  - **Life:** 20,000  
+  - **Defense:** 20  
+  - **Damage:** 0
+- **Minions:** Vortexian, Storm Diver, Alien Hornet, Alien Queen
+- **Drops:** Vortex Fragments (12–60 or 18–90)
+- **Equipment Recommendations:**  
+  - **Melee:** Turtle or Beetle armor, Vampire Knives  
+  - **Ranged:** Shroomite armor, Stynger, Megashark  
+  - **Magic:** Spectre armor (Hood/Mask), Bat Scepter, Golden Shower, Celestial Cuffs, Sorcerer Emblem or Celestial Stone, Razorpine or Bubble Gun, appropriate potions  
+  - **Accessories (All Classes):** Wings, Frostspark Boots, Master Ninja Gear (Black Belt), Star Veil  
+  - **Buffs (All Classes):** Ironskin, Regeneration, Swiftness, Thorns, Well Fed, Wrath, Rage, Lifeforce, Endurance, Summoning
+
+**Mechanics:**  
+- Deactivate its shield by defeating 100 (150 on Expert) minions.  
+- Prioritize eliminating Storm Divers and Alien Queens due to their high-damage attacks and debuffs.
+
+---
+
+## Nebula Pillar
+
+- **Stats:**  
+  - **Life:** 20,000  
+  - **Defense:** 20  
+  - **Damage:** 0
+- **Minions:** Nebula Floater, Brain Suckler, Predictor, Evolution Beast
+- **Drops:** Nebula Fragments (12–60 or 18–90)
+- **Equipment Recommendations:**  
+  - **Melee:** Turtle or Beetle armor, Vampire Knives  
+  - **Ranged:** Shroomite armor, Stynger, Megashark  
+  - **Magic:** Spectre armor (Hood/Mask), Bat Scepter, Golden Shower, Celestial Cuffs, Sorcerer Emblem or Celestial Stone, Razorpine or Bubble Gun, appropriate potions  
+  - **Accessories (All Classes):** Wings, Master Ninja Gear (Black Belt), Frozen Turtle Shell  
+  - **Buffs (All Classes):** Ironskin, Regeneration, Swiftness, Thorns, Well Fed, Wrath, Rage, Lifeforce, Endurance, Summoning
+
+**Mechanics:**  
+- Defeat 100 (150 on Expert) minions to deactivate the shield.  
+- Focus on quickly eliminating Brain Sucklers and avoid ground-bound enemies like Predictors and Evolution Beasts by staying airborne.
+
+---
+
+## Stardust Pillar
+
+- **Stats:**  
+  - **Life:** 20,000  
+  - **Defense:** 20  
+  - **Damage:** 0
+- **Minions:** Star Cell, Flow Invader, Twinkle Popper, Stargazer, Milkyway Weaver
+- **Drops:** Stardust Fragments (12–60 or 18–90)
+- **Equipment Recommendations:**  
+  - **Melee:** Turtle or Beetle armor, Vampire Knives  
+  - **Ranged:** Shroomite armor, Stynger, Megashark  
+  - **Magic:** Spectre armor (Hood/Mask), Bat Scepter, Golden Shower, Celestial Cuffs, Sorcerer Emblem or Celestial Stone, Razorpine or Bubble Gun, appropriate potions  
+  - **Accessories (All Classes):** Wings  
+  - **Buffs (All Classes):** Ironskin, Regeneration, Swiftness, Thorns, Well Fed, Wrath, Rage, Lifeforce, Endurance, Summoning
+
+**Mechanics:**  
+- To damage the pillar, defeat 100 (150 on Expert) minions.  
+- Quickly eliminate Star Cells and their smaller offspring to prevent being overwhelmed; deal with Milkyway Weavers by targeting their heads.
+
+**General Pillar Notes:**  
+- Flight is highly recommended for all pillars.  
+- Weapons that pierce through walls (e.g., Nettle Burst or Flying Dragon) can be very useful.
+
+---
+
+# The Moon Lord
+
+**Overview:**  
+- **Final Boss:** Summoned after defeating the final Celestial Pillar.  
+- **Appearance:** Resembles Cthulhu but distinct; spawns True Eyes of Cthulhu at health thresholds.
+
+**Stats (Approximate):**  
+- **Total Life:** 145,000 (Normal) / 217,500 (Expert)  
+  - **Head:** 45,000 / 67,500  
+  - **Hands (×2):** 25,000 / 37,500 each  
+  - **Core:** 50,000 / 75,000
+- **Damage & Defense:**  
+  - **Head:** 150/300 (Phantasmal Deathray), 60/120 (Phantasmal Bolt), Defense 50  
+  - **Hands:** Varying melee and projectile damage, Defense ~40  
+  - **Core:** Defense 70
+
+**Minions:**  
+- True Eye of Cthulhu, Moon Leech Clot
+
+**Key Drops:**  
+- Moon Lord Mask, Luminite (70–90), Portal Gun, Meowmere, Terrarian, Star Wrath, S.D.M.G., Celebration, Last Prism, Lunar Flare, Rainbow Crystal Staff, Lunar Portal Staff, Moon Lord Trophy, Greater Healing Potions (5–15)
+
+**Recommended Buffs:**  
+- Lifeforce, Ironskin, Rage/Wrath, Endurance, Regeneration, Ammo Reservation/Ammo Box (for ranged), Bewitched/Bewitching Table, Swiftness (mount speed unaffected)
+
+**Arena Tips:**  
+- The Moon Lord occupies the full screen; traditional arenas are less effective.  
+- Ideal setups include minecart tracks or asphalt skybridges along the world’s length for maximum damage output.
+
+**Post-Defeat Notes:**  
+- Defeating Moon Lord eases subsequent runs by providing powerful endgame drops, including Luminite used for crafting advanced gear and mounts.
+- Luminite requirements: Approximately 1088 ores needed (13–16 Moon Lord defeats in Normal Mode).
+
+---
+
+# The Post-Game
+
+After conquering Moon Lord and the final invasions, you’re free to explore endless possibilities:
+
+- **Creative Challenges:**  
+  - Build your ultimate castle, theme park, or custom adventure/puzzle maps.  
+  - Experiment with wiring and teleporters (even build an in-game computer!).
+
+- **Achievements & Collections:**  
+  - Aim for 100% in the Bestiary, complete all achievements, collect every trophy, banner, accessory, dye, armor, and weapon.
+  
+- **Alternate Modes:**  
+  - Engage in Hardcore playthroughs, speedruns, or PvP modes.  
+  - Play on Expert or Master Mode for an additional challenge.
+
+- **Exploration & Community:**  
+  - Purify corrupted biomes.  
+  - Reach top-tier in Fishing (acquire the Hotline Fishing Hook/Golden Fishing Rod).  
+  - Explore custom maps or join online servers.  
+  - Contribute to the community by finding bugs, creating mods or texture packs, or becoming a wiki contributor.
+
+- **Endless Goals:**  
+  - The only limits are your imagination. Enjoy the freedom of post-game content and design your own challenges!
+
+---
+

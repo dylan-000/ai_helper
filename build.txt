@@ -1,0 +1,3 @@
+displayName = AI Helper
+author = Dylan F
+version = 0.1
