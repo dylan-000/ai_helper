@@ -107,20 +107,26 @@ This chain-of-thought pipeline helped the AI adapt its behavior based on the com
 
 ## 5. RAG Implementation
 
-
+-- Fill in here with RAG details
 
 ## 6. Additional Tools / Innovation
 
+The creative aspect of our project is that we figured out a way to incorporate a helpful AI assistant into Terraria. 
 
+Terraria is a game that has been around for a while and is close to the hearts of my team members and I -- each of us having countless hours into the game. The aspect of Terraria that many of us agree is tedious, is the fact that it has so many items and entities, so you have to constantly have the Wiki page opened to be able to do anything that you want to do. 
+
+As a way of streamlining that aspect of the game, we thought that a RAG based AI assistant built on web-scraped wiki data would be able to provide a better sense of immersion in the game so the player doesn't have to constantly have the wiki open in another browser. Additionally, they wouldn't have to search for items or guides online and could instead ask a simple question to the assistant, which would be able to recall the information from the ChromaDB collection.
+
+The tricky part of this process was figuring out how to integrate the locally running Ollama model with the mod, and in a way that was asynchronous so the game wouldn't stop running while a user asked a question.
+
+We landed on using a Flask server with a singular `/ask` endpoint for asking the model questions from the game. From the mod side, or client in this case, an in game command was created that would send a simple async HTTP POST request to the Flask server, which would then respond back with the relevant information on what the user asked and include that in the game chat.
+
+We would have liked to continue implementing more endpoints for additional tool-calling features, but as mentioned before, we wanted to make sure that the model's core functionality was the best we could have gotten it.
 
 ## 7. Code Quality & Modular Design
 
-The system was organized into modular components:
+Modularity discussed here:
 
-* `llm_utils.py`: Prompt formatting and LLM interaction.
-* `vector_store.py`: Embedding and ChromaDB management.
-* `processor.py`: Query pipeline orchestration.
-* `tools.py`: JSON-defined tools and registries.
-* `api_server.py`: Flask-based interface for local HTTP serving.
-
-All components were clearly separated by function, and version control was maintained via Git with commits tracking major milestones. The use of type hints, inline documentation, and exception handling reinforced best coding practices, fulfilling LO2 and LO3 through strong engineering discipline.
+- Key point is the Query processor class that takes a query through a planning process from start to finish
+- Also, the RAG collection scripts were made in such a way that we could easily create collections to our own specs and save them to a file
+- Also touch on the utils that were defined to make the main functions of the server loop streamlined

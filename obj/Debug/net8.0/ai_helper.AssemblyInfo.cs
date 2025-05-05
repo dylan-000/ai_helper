@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ai_helper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eeb9c65f9539da20f032fd12a731432c748a9b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fe5b837f3bcb172c7e13f69f9d590a8e56812db")]
 [assembly: System.Reflection.AssemblyProductAttribute("ai_helper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ai_helper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
