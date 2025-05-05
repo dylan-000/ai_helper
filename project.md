@@ -2,7 +2,7 @@
 
 ## 1. Base System Functionality
 
-The AI Terraria Guide system has been developed to handle a diverse range of user scenarios effectively. The model (Llama3.2) functions on a foundation of an extensive RAG library built from the Terraria Wiki, which we were able to web-scrape.The primary functionalities include:
+The AI Terraria Guide system has been developed to handle a diverse range of user scenarios effectively. The model (Llama3.2) functions on a foundation of an extensive RAG library built from the Terraria Wiki, which we were able to web-scrape. The primary functionalities include:
 
 * **Item crafting guidance** – The system provides step-by-step recipes and crafting station requirements.
 * **Boss strategy support** – The model is able to recall information on the bosses in the game and offer advice on how the player should go about defeating the boss.
@@ -59,24 +59,24 @@ That's it! You should now be in Hardmode, ready to face the challenges that come
 
 For the model's integration into our system, we used the following parameters for response generations:
 * **Temperature**: 0.7 -> This allowed for a good balance between creativity and reliable behavior from the model given various prompts
-* **Max Tokens**: 1024 -> This alloweds the model to have more detailed responses that could incorporate more information from our RAG queries.
-* **Number of Results**: 3 -> Although not a model-specific parameter, this parameter was defined in our query processor class, defined in `processor.py`, and regulates the number of contexts pulled from the RAG system. We found that pulling the top-3 was optimal because we noticed that after 3 contexts, the information decreased significantly in relevancy and was confusing the model.
+* **Max Tokens**: 1024 -> This allowed the model to have more detailed responses that could incorporate more information from our RAG queries.
+* **Number of Results**: 3 -> Although not a model-specific parameter, this parameter was defined in our query processor class (`processor.py`) and regulates the number of contexts pulled from the RAG system. We found that pulling the top-3 was optimal because we noticed that after 3 contexts, the information decreased significantly in relevancy and was confusing the model.
 
-Our AI system is more of an assistant-style implementation designed to help the player, so the prompts were designed for that purpose, rather than a more narrative-based approach that would coincide with the DnD style project. 
+Our AI system is more of an assistant-style implementation designed to help the player, so the prompts were designed for that purpose rather than a more narrative-based approach that would coincide with the DnD style project. 
 
-In `processor.py`, our system uses a prompt to guide a planning process for the query processing pipeline. In the `plan_query()` method, we use a tailored prompt to get the model to define a set of steps to guide the retrieval of useful information, or optionally call tools. 
+In `processor.py`, our system uses a prompt to guide a planning process for the query processing pipeline. In the `plan_query()` method, we use a tailored prompt to get the model to define a set of steps to guide the retrieval of useful information or optionally call tools. 
 
 Another method (`format_rag_prompt()` located in `llm_utils.py`) was designed with a specific prompt to get the model to interpret the contexts retrieved from the RAG database.
 
-Also in `llm_utils.py` is the `format_tool_prompt()` which features a prompt specifically designed to allow our model to interface with tools.
+Also in `llm_utils.py` is the `format_tool_prompt()`, which features a prompt specifically designed to allow our model to interface with tools.
 
 Please navigate to the mentioned files to check the prompts that were implemented into our system.
 
 ## 3. Tools Usage
 
-We attempted to define a set of tools that our model could interact with that would enhance the generation of the responses. We had originally thought that we could implement more dynamic and beneficial tools, such as the mod featuring and endpoint that the model would be able to send an async request to in order to gather game-save specific data; however, some technical errors were faced, so we had to focus on more fundamental mechanics to our system.
+We attempted to define a set of tools that our model could interact with that would enhance the generation of the responses. We had originally thought that we could implement more dynamic and beneficial tools, such as the mod featuring an endpoint that the model would be able to send an async request to gather game-save specific data; however, some technical errors were faced, so we had to focus on more fundamental mechanics to our system.
 
-Regardless, we still tried to implement a set of tools to experiment with tool-calling as a feature so that hopefully in the future it would lay the groundwork for more helpful ones. The following tools were defined:
+Regardless, we still tried to implement a set of tools to experiment with tool-calling as a feature, so hopefully in the future, they could lay the groundwork for more helpful ones. The following tools were defined:
 
 * `item_lookup`: Fetches information about specific items.
 * `crafting_recipe`: Retrieves the recipe and components needed for item creation.
@@ -103,7 +103,7 @@ The system employed a multi-step reasoning approach, organized as follows:
 3. **Tool invocation**: If needed, tools were automatically called based on LLM response.
 4. **Final synthesis**: Retrieved context and tool outputs were assembled into a natural language response.
 
-This chain-of-thought pipeline helped the AI adapt its behavior based on the complexity of the query. For example, asking “How do I beat the Wall of Flesh as a ranged character?” triggered a reasoning chain involving class-specific advice and biome preparation.
+This chain-of-thought pipeline helped the AI adapt its behavior based on the complexity of the query. For example, asking “How do I beat the Wall of Flesh as a ranged character?” triggers a reasoning chain involving class-specific advice and biome preparation.
 
 ## 5. RAG Implementation
 
@@ -113,13 +113,13 @@ This chain-of-thought pipeline helped the AI adapt its behavior based on the com
 
 The creative aspect of our project is that we figured out a way to incorporate a helpful AI assistant into Terraria. 
 
-Terraria is a game that has been around for a while and is close to the hearts of my team members and I -- each of us having countless hours into the game. The aspect of Terraria that many of us agree is tedious, is the fact that it has so many items and entities, so you have to constantly have the Wiki page opened to be able to do anything that you want to do. 
+Terraria is a game that has been around for a while and is close to the hearts of my team members and I -- each of us having countless hours into the game. The aspect of Terraria that many of us agree is tedious is that it has so many items and entities, so it is seemingly required to have the Wiki page opened to be able to do anything that you want to do. 
 
-As a way of streamlining that aspect of the game, we thought that a RAG based AI assistant built on web-scraped wiki data would be able to provide a better sense of immersion in the game so the player doesn't have to constantly have the wiki open in another browser. Additionally, they wouldn't have to search for items or guides online and could instead ask a simple question to the assistant, which would be able to recall the information from the ChromaDB collection.
+As a way of streamlining that aspect of the game, we thought that a RAG based AI assistant built on web-scraped wiki data would be able to provide a better sense of immersion in the game so the player doesn't have to constantly have the wiki open in another browser. Additionally, they would not have to search for items or guides online and could instead ask a simple question to the assistant, which would be able to recall the information from the ChromaDB collection.
 
-The tricky part of this process was figuring out how to integrate the locally running Ollama model with the mod, and in a way that was asynchronous so the game wouldn't stop running while a user asked a question.
+The tricky part of this process was figuring out how to integrate the locally running Ollama model with the mod and formatting the model in a way that was asynchronous, so the game would not stop running while a user asked a question.
 
-We landed on using a Flask server with a singular `/ask` endpoint for asking the model questions from the game. From the mod side, or client in this case, an in game command was created that would send a simple async HTTP POST request to the Flask server, which would then respond back with the relevant information on what the user asked and include that in the game chat.
+We landed on using a Flask server with a singular `/ask` endpoint for asking the model questions from the game. From the mod side, or client in this case, an in-game command was created that would send a simple async HTTP POST request to the Flask server, which would then respond back with the relevant information on what the user asked and include that in the game chat.
 
 We would have liked to continue implementing more endpoints for additional tool-calling features, but as mentioned before, we wanted to make sure that the model's core functionality was the best we could have gotten it.
 
@@ -127,6 +127,6 @@ We would have liked to continue implementing more endpoints for additional tool-
 
 Modularity discussed here:
 
-- Key point is the Query processor class that takes a query through a planning process from start to finish
+- The key point is the Query processor class that takes a query through a planning process from start to finish
 - Also, the RAG collection scripts were made in such a way that we could easily create collections to our own specs and save them to a file
 - Also touch on the utils that were defined to make the main functions of the server loop streamlined
