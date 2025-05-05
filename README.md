@@ -15,4 +15,4 @@ Llama3.2 AI helper companion for Terraria that operates on a RAG system with pla
 - You should see the repository you cloned listed as a mod source here. Click the 'Build + Reload' option. This will incorporate the Mod into your game.
 - Navigate to vscode or an ide of your choice and run `api_server.py`. This will start the local server that the mod interfaces with.
 - Go back to TmodLoader and load into a game.
-- Use `aihelp <prompt>` to ask the model questions. Answers to your prompts will appear in the chat in-game.
+- Use `/aihelp <prompt>` to ask the model questions. Answers to your prompts will appear in the chat in-game.
