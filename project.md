@@ -107,13 +107,19 @@ This chain-of-thought pipeline helped the AI adapt its behavior based on the com
 
 ## 5. RAG Implementation
 
--- Fill in here with RAG details
+The Ollama 3.2 model that we were using was never trained on Terraria-specific data. Because of this, it was critical that we have an extensive RAG dataset that our system could use. 
+
+There is already a huge repository of information on the Terraria Wikipedia; however, harnessing this data and storing it for our model to use was trickier than we expected. Initially, we planned to create a web-scraper to pull data from every page of the wikipedia but many of the site's images and subject-based formatting made that difficult--combine that with the fact that there are 55,000 total pages over the entire wiki . . . and we knew we had to adjust our approach. 
+
+In the end, we decided to narrow our focus to two main categories: items and entities. The page format stays relatively consistent across entries which allowed us to create a unique webscraper specific to each category. The scrapers were designed to automatically format each page's data to fit directly into our RAG dataset, which avoided the need to manually adjust data before being used by our model. In total we scraped and formatted nearly 6000 pages for our RAG: 5400 for items and 540 for entities.
+
+With this data, our RAG was strong enough for our model to answer many of the most commonly asked questions about things like weapon options, crafting recipes, enemy stats, and drop chances.  
 
 ## 6. Additional Tools / Innovation
 
 The creative aspect of our project is that we figured out a way to incorporate a helpful AI assistant into Terraria. 
 
-Terraria is a game that has been around for a while and is close to the hearts of my team members and I -- each of us having countless hours into the game. The aspect of Terraria that many of us agree is tedious is that it has so many items and entities, so it is seemingly required to have the Wiki page opened to be able to do anything that you want to do. 
+Terraria is a game that has been around for a while and is close to the hearts of our team members -- each of us having countless hours into the game. The aspect of Terraria that many of us agree is tedious is that it has so many items and entities, so it is seemingly required to have the Wiki page opened to be able to do anything that you want to do. 
 
 As a way of streamlining that aspect of the game, we thought that a RAG based AI assistant built on web-scraped wiki data would be able to provide a better sense of immersion in the game so the player doesn't have to constantly have the wiki open in another browser. Additionally, they would not have to search for items or guides online and could instead ask a simple question to the assistant, which would be able to recall the information from the ChromaDB collection.
 
@@ -125,8 +131,6 @@ We would have liked to continue implementing more endpoints for additional tool-
 
 ## 7. Code Quality & Modular Design
 
-Modularity discussed here:
+In order to maintain modularity, we created sub classes to encapsulate code and keep our main api_server script clean and easy to understand. The first of which is our QueryProcessor class which has all model interaction code. This class handles the steps of each query: planning, RAG, tool use, and generating the final response. This QueryProcessor class is further segmented into more methods found in our llm_utils script that handle formatting prompts and responses to match our desired structures. 
 
-- The key point is the Query processor class that takes a query through a planning process from start to finish
-- Also, the RAG collection scripts were made in such a way that we could easily create collections to our own specs and save them to a file
-- Also touch on the utils that were defined to make the main functions of the server loop streamlined
+We also have a subclass that handles accessing the vector store for our RAG dataset. These vectors are updated once and stored within the mod files so that the server does not need to recreate them each time it is started. Also, the system is created so that we can add new collections of data if we wanted our system to have knowledge of other popular games, like Minecraft, Stardew Valley, Dungeons and Dragons, or Kingdom Come Deliverance.
